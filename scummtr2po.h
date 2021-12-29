@@ -22,10 +22,63 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
+#include <ctime>
+#include <sstream>
+#include <map>
+#include <stdlib.h>
 /**
  * @todo write docs
  */
+
+
+class stringId
+{
+public:
+    stringId(const std::__cxx11::string& line, int id);
+    ~stringId();
+    
+    std::string rawText_;
+    std::string completeStringId_;
+    std::string stringId_;
+    std::string roomNumber_;
+    std::string type_;
+    std::string typeNumber_;
+    std::string op_;
+    int stringIdentifier_;
+    /* 
+        * Convert: 
+    //[097:LSCR#0210](27)\255\010\056\245\255\010\107\000\255\010\010\000\255\010\000\000Brace the door with a\016rock!
+    
+        To:
+    #. [001:VERB#0026](D8)
+    #. Object interaction: shelves
+    msgctxt "Room:001 VERB#0026"
+    msgid "Here's a cartouche from\016The\016Well\016of\016Souls."
+    msgstr ""
+    */
+    
+    const std::string getMsgId();
+    const std::string getReference();
+    const std::string getMsgContext();
+    const std::string getMsgStr();
+    
+};
+
+class objects
+{
+public:
+    objects( const std::string& inputFilename, const std::string& objectsFilename);
+    ~objects();
+    
+    const std::string getObjectName( int objectNumber );            
+    
+private:
+    void createObjectTable();        
+
+    std::map<int, std::string> objectNumberToName;
+    std::string inputFilename_;
+    std::string objectsFilename_;        
+};
 
 
 class scummtr2po
@@ -36,44 +89,12 @@ public:
     ~scummtr2po();
     void process();
     
+    const std::string createContext(objects& obj, stringId& strId);
     const std::string getHeader(void);
     
-    void createObjectTable( const std::string& filePath );
 
-private:
 
-    class stringId
-    {
-    public:
-        stringId( const std::string& line);
-        ~stringId();
-        
-        std::string rawText_;
-        std::string completeStringId_;
-        std::string stringId_;
-        std::string roomNumber_;
-        std::string type_;
-        std::string typeNumber_;
-        std::string op_;
-        
-        /* 
-         * Convert: 
-        //[097:LSCR#0210](27)\255\010\056\245\255\010\107\000\255\010\010\000\255\010\000\000Brace the door with a\016rock!
-        
-           To:
-        #. [001:VERB#0026](D8)
-        #. Object interaction: shelves
-        msgctxt "Room:001 VERB#0026"
-        msgid "Here's a cartouche from\016The\016Well\016of\016Souls."
-        msgstr ""
-        */
-        
-        const std::string getMsgId();
-        const std::string getReference();
-        const std::string getMsgContext();
-        const std::string getMsgStr();
-        
-    };
+private: 
     
     std::string inputFilename_;
     std::string oututFilename_;
