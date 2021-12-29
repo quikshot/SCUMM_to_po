@@ -1,0 +1,1083 @@
+26 : shelves
+16 : door
+22 : jar@@@@@@@@@@@@@@@@@
+28 : fridge-door
+21 : ice box
+19 : bathroom door
+20 : whip
+18 : shelf
+23 : National Archaeology
+25 : coat
+24 : window
+17 : trunk
+27 : office-brody-object
+35 : stairs
+31 : stairs
+36 : automobile
+33 : bulletin board
+34 : office door
+32 : stairs
+48 : base-blank
+40 : door
+52 : furnace@@@@@
+50 : horned statue
+47 : base-nothing-1
+49 : base-devil
+55 : left locker
+56 : middle locker
+57 : right locker
+41 : furnace-door
+51 : coal chute
+53 : @@@@@@@@coal
+42 : turn-crank-2
+54 : dirty rag
+43 : furnace-crank
+60 : statue
+61 : trap door
+62 : logo-indy-IV
+63 : peculiar statue
+68 : urn@@@@@@@@
+65 : urn
+70 : candlestick
+66 : chest
+69 : candlestick
+72 : statue
+64 : statue
+71 : gargoyle
+79 : totem pole
+82 : totem pole
+80 : totem pole
+88 : arrowhead@@@@@@@@@@@@@@@@@
+84 : shelves
+77 : rope
+78 : gaping hole
+83 : dusty old chest
+81 : big crate
+1388 : hole
+87 : big crate
+75 : falling-totem
+85 : shelves
+86 : big crate
+102 : gum
+96 : rope
+109 : back-lifted
+104 : screw
+105 : screw
+106 : screw
+107 : screw
+108 : screw
+95 : tipped-over bookcase
+94 : arch-shelf-fall-2
+93 : arch-shelf-fall-1
+91 : books on statues
+92 : exit
+100 : books on digsites
+99 : books on weapons
+98 : books on tools
+103 : hatch
+97 : books on pots
+101 : school desk
+112 : wax cat
+113 : coal chute
+132 : book
+131 : inside of bookshelf
+115 : hole
+114 : cellar-roof-1
+116 : cat figurine
+117 : cat figurine
+118 : cat figurine
+119 : cat figurine
+133 : book
+130 : pile of books
+121 : shelves
+126 : drawers
+122 : shelves
+125 : drawers
+123 : shelves
+124 : drawers
+128 : real-cat-gone
+129 : fake-cat-1-gone
+127 : drawers
+120 : shelves
+139 : crate
+137 : crate
+146 : crate
+145 : crate
+136 : back door
+138 : fire escape
+141 : newspaper
+142 : marquee
+143 : ticket taker@@@@@@@@@@@
+144 : doors
+140 : taxi
+147 : phone booth
+148 : slides
+158 : exit
+149 : button
+150 : motor-anim
+151 : left lever
+152 : middle lever
+153 : right lever
+154 : light-1
+155 : light-2
+156 : light-3
+157 : side-slides
+159 : stagehand
+160 : old dig site
+161 : truck
+162 : encampment
+163 : hall
+164 : hall
+165 : pit
+167 :  
+168 :  
+166 : exit
+170 : clippings
+169 : changing screen
+171 : lava pit
+172 : exit to hallway
+173 : scepter
+174 : strange skeleton
+175 : strange skeletons
+176 : strange skeleton
+177 : necklace
+178 : necklace
+180 : door
+181 : a2-digger-blades
+182 : mouth
+183 : left slot@
+184 : middle slot@
+185 : right slot@
+179 : hulking machine
+186 : a2-digger-front-leg
+187 : a2-digger-middle-leg
+188 : a2-digger-back-left-leg
+189 : a2-digger-back-right-leg
+190 : strange markings
+191 : exit to canal
+196 : chain
+197 : chain
+198 : chain
+199 : debris
+200 : ladder
+205 : statue arm
+206 : statue arm
+204 : hinge pin
+194 : a2-rube-robot-arm
+195 : chest plate
+193 : sentry statue
+207 : open door
+201 : bronze loop
+203 : a2-rube-robot-head
+202 : a2-rube-robot-arm-stump
+192 : a2-rube-main-door
+208 : azores-prof-door
+209 : door
+210 : car
+254 : @
+251 : sah-black-strip
+250 : sah-hill-9
+238 : sah-small-hill-2
+245 : sah-mtn-4-btm
+248 : sah-mtn-3b-btm
+241 : sah-mtn-3-btm
+249 : sah-mtn-2b-btm
+240 : sah-mtn-2-btm
+239 : sah-mtn-1-btm
+247 : sah-hill-2b-btm
+243 : sah-hill-2-btm
+242 : sah-hill-8
+237 : sah-pass-2
+236 : sah-pass-1
+235 : sah-pit-1
+233 : sah-coast-3
+232 : sah-coast-2
+231 : sah-coast-1
+244 : sah-hill-7
+226 : sah-hill-5
+225 : sah-hill-4
+223 : sah-hill-2b
+227 : sah-hill-6
+222 : sah-hill-2
+224 : sah-hill-3
+221 : sah-hill-1b
+220 : sah-hill-1
+219 : sah-tiny-hill
+218 : sah-small-hill
+217 : sah-mountain-4
+216 : sah-mountain-3
+215 : sah-mountain-2
+214 : sah-mountain-1
+253 : Omar's house
+213 : sah-city
+246 : nomad camp
+234 : oasis
+230 : nomad camp
+229 : nomad camp
+228 : nomad camp
+255 : tunnel back to hall
+258 : %T20797728%14%THE GOD MACHINE!
+259 : a3-pit-top-bridge
+269 : a3-center-nazi-1
+270 : a3-center-nazi-2
+267 : a3-center-pedastal
+268 : a3-center-helm
+266 : a3-center-bull
+265 : frog statue
+263 : passage
+264 : spindle@@@@@@@@
+271 : a3-center-lava-right
+272 : a3-center-lava-left
+273 : sub-volcano-1
+278 : exposed eel head
+277 : ice-obscured object
+279 : exit
+280 : frozen Heimdall
+281 : ice-steam
+282 : city streets
+283 : city streets
+284 : main entrance
+285 : city streets
+286 : business card
+287 : taxi
+291 : mc-yellow-car
+290 : mc-taxi-guy
+288 : mc-left-guy
+289 : mc-right-guy
+292 : door
+296 : flashlight@@@@
+293 : cabinet
+294 : stone disk
+295 : bedspread@@@@@@
+297 : circuit breaker
+298 : fuse box
+306 : knife-thrower
+308 : Sophia
+299 :  
+324 : citizens
+305 : grocer
+303 : long, dusty path back to the airport
+300 : grocery
+301 : roof
+302 : city streets
+328 : city streets
+304 : back alley
+309 : squab-on-a-stick
+310 : balloon ticket
+311 : blood-stained knife
+312 :  rupees
+307 : beggar
+329 : knife-thrower's audience
+335 : sign
+313 : arab-1
+314 : arab-2
+315 : arab-3
+316 : arab-4
+317 : arab-5
+318 : arab-6
+319 : arab-7
+320 : arab-8
+321 : arab-9
+322 : arab-10
+323 : arab-11
+325 : arab-12
+326 : arab-13
+327 : arab-14
+330 : thrown-knife-1
+331 : thrown-knife-2
+332 : thrown-knife-3
+333 : thrown-knife-4
+334 : thrown-knife-5
+336 : peg@@
+337 : peg@@
+338 : peg@@
+339 : peg@@
+340 : peg@@
+343 : a2-cu-robot-top-left
+344 : a2-cu-robot-top-middle
+345 : a2-cu-robot-top-right
+346 : a2-cu-robot-left-spin
+347 : a2-cu-robot-right-spin
+348 : a2-cu-robot-bottom
+349 : a2-cu-spin-plate
+351 : camel@@@@@@@@@@@@@@@@
+371 : camel@@@@@@@@@@@@@@@@
+373 : camel@@@@@@@@@@@@@@@@
+353 : desert-hill-1
+354 : desert-hill-2
+355 : desert-hill-3
+356 : desert-hill-4
+369 : desert-front-tent-1
+370 : desert-front-tent-2
+368 : desert-front-camel
+358 : desert-back-tent-1
+359 : desert-back-tent-2
+357 : desert-back-blank
+360 : desert-sand
+365 : desert-oasis-1
+366 : desert-oasis-2
+367 : desert-oasis-3
+361 : desert-front-1
+362 : desert-front-2
+363 : desert-front-3
+364 : desert-kubel
+350 : balloon@@@@@@@@@@@@@
+374 : camel@@@@@@@@@@@@@@@@
+352 : dig site
+372 : vast, uncrossable desert
+375 : vast, uncrossable desert
+376 : secret entrance
+377 : stone pedestal@@@@@
+379 : path
+382 : deflated balloon
+380 : dock@@@@@@@@
+381 : hole
+378 : secret entrance
+391 : a1-2-bot-no-head
+387 : hallway
+388 : fish statue
+1380 : slag
+386 : large double door
+383 : pool of water
+384 : a1-2-bot-crack-1
+385 : a1-2-bot-crack-2
+390 : a1-2-bot-head
+389 : a1-2-bot-steam
+416 : o-mac-falling-beads
+413 : o-mac-bull-eyes
+412 : peg@@@@@@@@@@
+411 : spoked wheel
+409 : dish@@@@@@@@@@@
+407 : statue
+394 : disk
+393 : disk
+405 : large stone wheel
+395 : o-mac-stone-wheel
+406 : o-mac-left-eye
+410 : o-mac-right-eye
+396 : o-mac-big-pipe
+414 : o-mac-small-left-pipe
+415 : o-mac-med-left-pipe
+404 : o-mac-pistons
+401 : o-mac-gear
+402 : o-mac-right-tiny-wheels
+403 : o-mac-left-tiny-wheels
+400 : o-mac-small-cylinder
+398 : o-mac-small-pipe
+397 : o-mac-med-pipe
+392 : door
+408 : funnel
+399 : o-mac-big-cylinder
+423 : cup@@@@@@
+422 : plaque@@@@@@@@@@
+417 : pool of molten lava
+418 : impressive pump
+419 : exit
+421 : pedestal
+420 : a1-o-pool-big-lava
+444 : wires@@@@@@
+426 : control panel
+439 : launch lever
+434 : torpedo tube
+424 : forward section
+443 : porcelain mug@@@@@@@
+425 : bread
+427 : cold cuts
+433 : guard
+429 : trap door
+438 : box of parts
+430 : trap door
+432 : two slices of bread
+435 : switch@@@@@@@@@@
+437 : lever@@@@@@@@@@@@@
+445 : forward section
+440 : ladder
+441 : ladder
+442 : battery acid
+431 : some cold cuts
+428 : submarine sandwich@@@@@@@@@@@@@
+470 : sub-2-uber-hand
+469 : sub-2-kerner-foot
+468 : sub-2-sitting-nazis
+463 : launch lever
+453 : control panel
+446 : aft section
+447 : conning tower
+448 : the head
+449 : closet
+450 : plunger
+455 : stone disk@
+456 : torpedo instructions
+454 : lockers
+451 : clothesline
+452 : torpedo tube@@@@@@@@@@@@@@
+471 : unconscious guard
+457 : guard@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+458 : emergency rudder control
+461 : oily rag
+464 : trap door
+466 : tiny key
+465 : strong box@@@@@@@@@
+460 : heap of clothes
+467 : aft section
+462 : clothesline
+480 : hatch
+479 : big lever@@@@@@@@@@@
+472 : sub interior
+476 : cannon
+477 : fin
+478 : lower deck
+481 : sailor's uniform@@@@@@@@@@@@@
+482 : intercom
+485 : bow
+484 : stern
+486 : ladder
+487 : cannon
+492 : air compressor switch
+489 : door
+500 : Indy in diving suit
+491 : punctured diving suit@@@@@@@@@@
+490 : storage locker
+497 : hoist
+496 : air-hose@@@@@@@@@@@@@@
+493 : air compressor
+494 : sal-waving-shirt-anim
+498 : sal-air-lights-anim
+495 : sal-air-hose-anim
+499 : sal-winch-anim
+488 : sal-sub-surf
+501 : surveyor's instrument
+502 : entrance
+503 : entrance
+504 : entrance
+505 : entrance
+506 : entrance
+507 : entrance
+508 : entrance
+509 : entrance
+510 : entrance
+511 : entrance
+512 : stones@@@@@@@@@@@@@@
+513 : stones@@@@@@@@@@@@@@
+514 : stones@@@@@@@@@@@@@@
+515 : stones@@@@@@@@@@@@@@
+516 : stones@@@@@@@@@@@@@@
+517 : stones@@@@@@@@@@@@@@
+518 : X marks the spot@@
+519 : X marks the spot@@
+520 : X marks the spot@@
+521 : path away from ruins
+522 : tall horns
+528 : mural
+524 : door
+525 : door
+526 : pots
+527 : pots
+529 : rubble
+530 : crumbling wall
+531 : large crack
+532 : dig-wall-left-drawing
+533 : dig-wall-right-drawing
+536 : slot@@@
+535 : slot@@@
+534 : slot@@@
+541 : left-lever-hand
+542 : mid-lever-hand
+543 : right-lever-hand
+544 : left-mid-arm
+545 : left-right-arm
+546 : mid-right-arm
+540 : indy-left-arm
+539 : dgr-indy
+537 : sop-head
+538 : sop-woosh
+565 : a1-canal-left-stairs
+566 : a1-canal-right-stairs
+571 : spindle@@@@@
+572 : spindle@@@@@@
+577 : gate
+578 : gate
+547 : gate@@@@@@@
+548 : gate@@@@@@@
+549 : ornamental fixture
+550 : ornamental fixture
+551 : ornamental fixture
+552 : ornamental fixture
+553 : archway
+554 : crumbled archway
+564 : pile of bones
+579 : crab mouth
+575 : crab-like raft
+576 : octopus
+555 : large fishhead
+556 : a1-canal-big-fishhead-2
+557 : ornate fish head
+558 : a1-canal-left-fishhead-2
+559 : ornate fish head
+560 : a1-canal-right-fishhead-2
+561 : pile of bones
+562 : pile of bones
+563 : pile of bones
+567 : a1-canal-left-door
+568 : a1-canal-right-door
+570 : docking bay
+573 : doorway
+574 : doorway
+569 : canal
+589 : stone thing@@@@@@@
+587 : sentry statue
+581 : archway
+582 : metal door@@@
+583 : ladder@@@@
+584 : broken stairway
+586 : light wand
+585 : stone box@@
+580 : caved-in tunnel@@
+588 : cave-in
+597 : th-dock-sub
+593 : large rubber balloon@@@@@@
+594 : crate
+595 : fish net@@@@@@@@@@@@@@@@@@@@@@@@@@
+596 : path away from dock
+592 : salvage boat
+590 : boat-at-dock
+591 : very large basket
+650 : laby-slot
+626 : stone outcropping
+651 : hatch@@@@@@@@@@@@@@@@@@
+644 : microtaur
+622 : broken column
+623 : some bones
+624 : small hole
+648 : door
+647 : wall
+645 : wall@@@@@@@@@@@@
+621 : some bones
+642 : slab
+643 : slab
+637 : statue head
+638 : statue head
+639 : statue head
+641 : shelf
+619 : doorway
+630 : doorway
+631 : doorway
+598 : door
+640 : pulley
+636 : doorway
+601 : cavern
+602 : doorway
+603 : cavern
+610 : doorway
+612 : doorway
+613 : doorway
+649 : hole
+646 : pit
+652 : hole
+697 : boulder
+696 : door
+695 : wall
+690 : hanging column of rock
+689 : statue head in the next room
+684 : doorway
+685 : doorway
+687 : cave
+681 : doorway
+686 : tunnel
+682 : doorway
+658 : doorway
+660 : doorway
+661 : doorway
+688 : doorway
+674 : doorway
+676 : waterfall
+679 : doorway
+694 : pit
+691 : pit
+692 : pit
+693 : pit
+698 : stalactite
+709 : note
+701 : wool scarf@@@@@@@@@@@@@@@
+703 : Worldstone
+700 : staff
+699 : Professor Sternhart
+706 : chain
+705 : waterfall
+704 : door
+707 : statue head
+708 : rock chips
+702 : hard rubber comb@@@@@@
+710 : door
+715 : mouth
+711 : subway car
+712 : long, winding subway track
+714 : bead
+713 : subway-clipper
+719 : boulder
+716 : door
+717 : door
+718 : boulder
+781 : a3-maze-sun
+782 : a3-maze-moon
+785 : a3-maze-earth
+748 : a3-maze-crust-1
+749 : a3-maze-crust-2
+750 : a3-maze-crust-3
+751 : a3-maze-crust-4
+752 : a3-maze-crust-5
+753 : a3-maze-crust-6
+754 : a3-maze-crust-7
+755 : a3-maze-crust-8
+756 : a3-maze-crust-9
+757 : a3-maze-crust-10
+758 : a3-maze-crust-11
+759 : a3-maze-crust-12
+760 : a3-maze-crust-13
+761 : a3-maze-crust-14
+762 : a3-maze-crust-15
+763 : a3-maze-crust-16
+764 : a3-maze-crust-17
+765 : a3-maze-crust-18
+766 : a3-maze-crust-19
+767 : a3-maze-crust-20
+768 : a3-maze-crust-21
+769 : a3-maze-crust-22
+770 : a3-maze-crust-23
+771 : a3-maze-crust-24
+772 : a3-maze-crust-25
+773 : a3-maze-crust-26
+774 : a3-maze-crust-27
+775 : a3-maze-crust-28
+776 : a3-maze-crust-29
+777 : a3-maze-crust-30
+778 : a3-maze-crust-31
+779 : a3-maze-crust-32
+793 : door
+794 : statue mouth
+1390 : stone shaft
+786 : a3-center-crack-1
+787 : a3-center-crack-2
+788 : a3-center-crack-3
+789 : a3-center-crack-4
+790 : a3-center-crack-5
+791 : a3-center-crack-6
+792 : a3-center-crack-7
+800 : statue head
+801 : statue head
+802 : statue head
+803 : shelf
+795 : door
+796 : door
+797 : door
+798 : door
+799 : door
+804 : lab-macro-hole
+806 : transit-background-image
+807 : transit-hard-right-image
+808 : transit-fine-right-image
+809 : transit-hard-left-image
+810 : transit-fine-left-image
+826 : digger-hole
+818 : map-d1-p
+819 : map-d2-p
+820 : map-d3-p
+821 : map-d4-p
+822 : map-d5-p
+823 : map-d6-p
+824 : map-d7-p
+825 : map-d8-p
+812 : door
+813 : door
+814 : door
+815 : door
+811 : door
+817 : spindle@@@@@@@@@@@@@@@
+816 : door that never opens
+829 : hole@@@@@@
+831 : chock
+828 : door
+830 : gold box@@@@@@@@
+827 : door
+1389 : stone shaft
+833 : door
+834 : door
+836 : statue head
+835 : hidden door
+837 : statue head
+838 : statue
+839 : lab-zap
+849 : lab-trode
+845 : lab-buzz-off
+850 : console-topple
+842 : lab-dial
+843 : lab-van
+846 : lab-jake
+847 : lab-scope
+848 : lab-van-boom
+844 : lab-bulbs
+841 : lab-hole
+851 : path back to the dock
+853 : gap in mountain
+854 : notch in mountain
+855 : cleft in mountain
+863 : mask@@@@@@@@@@@@@@@@@@@@@@@@@
+856 : exit
+858 : servant
+862 : assortment of items
+859 : pots
+860 : urns
+861 : crockery
+857 : poster
+864 : Al Jabbar's map
+865 : bright red fez
+1387 : actor-stand-in
+870 : closet door
+875 : closet door
+873 : closet
+866 : door
+868 : hanging cloth
+869 : laundry
+871 : statue@@@@@@@
+872 : pole@@@@@@@@
+867 : hanging crockery
+874 : camel
+876 : blackbird statue
+877 : vase
+913 : kludge-clip-from-hell
+878 : air lock
+879 : air lock
+880 : air lock
+881 : air lock
+882 : air lock
+883 : air lock
+884 : air lock
+885 : air lock
+886 : air lock
+904 : sub-clip-2
+905 : sub-clip-3
+906 : sub-clip-5
+907 : sub-clip-6
+908 : sub-clip-7
+909 : sub-clip-8
+910 : sub-clip-9
+911 : sub-clip-10
+903 : sub-clip-1
+887 : steering wheel
+888 : depth lever
+889 : power switch
+890 : speed lever
+483 : sub-control-panel
+928 : hole
+930 : table
+926 : piece of paper@@@@@@@@@@@@@@@@@
+924 : spark plugs
+916 : end of hose
+923 : hose
+922 : gas tank
+917 : engine
+929 : hood
+914 : door
+920 : truck
+915 : ladder
+932 : observation balloon
+927 : rope ladder
+918 : tents
+919 : tents
+925 : Gun-Toting Nazi
+931 : distributor cap
+921 : vast desert
+933 : orichalcum (@@@@@ beads)@@@@@@@@@@
+934 : Sunstone
+935 : Moonstone
+936 : Worldstone
+937 : Lost Dialogue of Plato
+938 : necklace@@@@@@@@@
+944 : invoice
+941 : crate
+946 : tire repair kit
+940 : truck
+949 : th-dig-balloon-anim-3
+945 : path to landscape
+942 : entrance@@@@@@@@@@
+947 : th-dig-balloon-anim-1
+948 : th-dig-balloon-anim-2
+943 : vent
+950 : fully inflated balloon
+951 : hotel
+963 : drain
+964 : drain
+966 : open drain
+967 : open drain
+962 : street sign
+961 : street sign
+952 : hydrant
+953 : hydrant
+959 : alley
+960 : alley
+958 : door
+957 : door
+955 : door
+956 : door
+954 : window
+970 : car wreck
+968 : street
+969 : street
+992 : peg@@@@@@@@@@@@@@@@@
+985 : entrenching tool@@@@@
+991 : th-in-junk
+990 : carved sign
+988 : door
+983 : exit
+980 : stone pointer
+987 : labyrinth exit
+977 : th-in-ledge
+982 : door
+979 : rock slide
+971 : th-in-door-left
+972 : th-in-thera-view
+981 : door
+984 : blocked door
+973 : th-in-door-in
+974 : door
+975 : th-in-rock-wall
+976 : th-in-wall-right
+978 : rock wall@@@@@@@@@@@
+986 : note
+1013 : statue
+1008 : wall@@@@@
+1010 : little metal thing
+1009 : metal cap@@@@@@@
+1007 : spark plug@@@@
+1006 : Sunstone@@@@@
+1003 : wooden peg@@@@@@@@@@@
+1004 : wall@@@@@@@@@@@@@@@@@@@@@@
+993 : ladder
+1005 : stone disk@@@@@@
+994 : secret opening
+995 : wall@@@@@@@@
+996 : ladder
+997 : door@@@@@@@@
+998 : crumbling rock wall
+999 : clay thing@@@@@@@@@@@@
+1000 : blunt wood thing@@@@
+1001 : sharp wood thing@@@@
+1002 : metal thing@@@@@@@@@@@
+1012 : amber fish on a string@@@@@@@@@@@@@@@@
+1011 : spark plug@@@@@
+1014 : long, tubular thing
+1024 : Morocco
+1018 : New York
+1019 : Yucatan
+1020 : Iceland
+1021 : Azores
+1022 : Leningrad
+1023 : Cadiz
+1027 : Algiers
+1026 : Monte Carlo
+1029 : Crete
+1032 : Crete
+1030 : Santorini
+1031 : Santorini
+1025 : Monte Carlo
+1028 : Barnett College
+1034 : New York City
+1035 : truck
+1036 : dark jungle path@@@@@@@
+1037 : dark jungle path@@@@@@@
+1038 : dark jungle path@@@@@@@
+1039 : dark jungle path@@@@@@@
+1040 : dark jungle path@@@@@@@
+1041 : dark jungle path@@@@@@@
+1042 : entrance to the jungle
+1043 : entrance to the jungle
+1047 : giant anaconda
+1045 : tree
+1050 : kerosene lamp@@@@@@@
+1049 : temple
+1048 : path around jungle
+1046 : yucatan-bendy-tree
+1044 : sleeping pig
+1051 : path around jungle
+1053 : animal head@@@@@@@@@@
+1054 : elephant's nose
+1057 : elephant's nose
+1056 : spiral design
+1061 : spiral designs
+1062 : spiral designs
+1063 : shiny bead
+1055 : ornamental stone disk
+1058 : tomb
+1059 : temple-elephant-anim
+1052 : temple exit
+1060 : @@@@@@@@@@@
+1064 : market
+1070 : market
+1065 : Omar's house
+1066 : Omar's house
+1067 : Omar's house
+1068 : Omar's house
+1069 : Omar's house
+1071 : mouth
+1073 : medallion 
+1072 : eye
+1074 : horn
+1075 : horn
+1078 : medallion
+1079 :  
+1080 :  
+1081 : n-bad-necklace
+1076 : chain
+1077 : chain
+1082 : n-144-black-strip
+1089 : rope
+1087 : hydrogen-filled balloon
+1083 : launch-crank-1
+1084 : launch-crank-2
+1085 : launch-crank-3
+1086 : stairs
+1088 : balloon man
+1090 : sign
+1093 : world stone hole
+1095 : lone-volcano
+1094 : tall horns
+1096 : cave
+1097 : cave
+1098 : cave
+1099 : cave
+1100 : cave
+1101 : cave
+1102 : cave
+1121 : air lock
+1122 : ?@@@@@@@@@@@@@@@@
+1123 : hallway@@@@@@
+1124 : hallway@@@@@@
+1125 : hallway@@@@@@
+1126 : ?@@@@@@@@@@@@@@@@
+1127 : ?@@@@@@@@@@@@@@@
+1128 : ?@@@@@@@@@@@@@@@@
+1129 : ?@@@@@@@@@@@@@@@@
+1130 : ?@@@@@@@@@@@@@@
+1131 : ?@@@@@@@@@@@@@@
+1132 : hallway@@@@@@@
+1133 : hallway@@@@@@@
+1134 : hallway@@@@@@
+1135 : hallway@@@@@@
+1136 : ?@@@@@@@@@@@@@@@
+1137 : ?@@@@@@@@@@@@@
+1138 : ?@@@@@@@@@@@@@@
+1139 : ?@@@@@@@@@@@@@
+1140 : ?@@@@@@@@@@@@@@
+1141 : ?@@@@@@@@@@@@@@
+1142 : ?@@@@@@@@@@@@@@
+1143 : hallway@@@@@@
+1144 : hallway@@@@@@
+1145 : ?@@@@@@@@@@
+1146 : ?@@@@@@@@@@
+1147 : ?@@@@@@@@@@
+1148 : ?@@@@@@@@@@
+1149 : ?@@@@@@@@@@
+1153 : canal
+1152 : hallway@@@@@@
+1151 : hallway@@@@@@
+1150 : hallway@@@@@@
+1155 : ?@@@@@@@@@@@@@
+1157 : ?@@@@@@@@@@@@
+1154 : ?@@@@@@@@@@@@@@@@@
+1156 : ?@@@@@@@@@@@@
+1158 : end-credit-header-crusher
+1160 : endscene-volc-0
+1159 : endscene-volc-1
+1161 : endscene-volc-2
+1162 : endscene-cycle-volc
+1163 : a1-dark-right-crack
+1166 : a1-dark-mid-2-crack
+1165 : a1-dark-mid-1-crack
+1167 : a1-dark-mid-3-crack
+1164 : a1-dark-pool
+1168 : a1-dark-big-left-crack
+1174 : vases back
+1169 : door
+1184 : door
+1170 : door
+1175 : crescent-shaped gear
+1194 : cupboard
+1189 : bronze spoked wheel
+1192 : robot parts
+1188 : bronze gear
+1193 : robot parts
+1191 : eel sculpture
+1190 : statue head@@@@@@@@@@
+1187 : statue
+1182 : alcove back
+1183 : left hole
+1171 : blocked back door
+1185 : wall left 1
+1186 : wall left 2
+1180 : floor junk
+1176 : mural left
+1177 : mural back
+1173 : light back2
+1179 : alcove left
+1196 : grate
+1178 : mural back right
+1181 : grate
+1172 : light back1
+1195 : pool@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+1197 : atlan-crab-hole-left
+1198 : atlan-crab-hole-right
+1207 : cup@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+1208 : rib cage@@@@@@@@@@@@
+1213 : skeleton
+1206 : hallway
+1211 : ladder
+1205 : doorway
+1204 : atl2-rubble
+1210 : statue
+1209 : hole
+1212 : hallway
+1199 : atl2-track-floor
+1214 : bratwurst
+1215 : atl2-roof
+1232 : strange markings
+1223 : hall
+1224 : hall
+1216 : door
+1217 : door
+1218 : door
+1219 : door
+1220 : door
+1221 : strange carving
+1222 : strange carving
+1225 : bones
+1226 : bones
+1227 : bones
+1228 : bones
+1230 : a2-left-crack
+1231 : a2-right-crack
+1229 : a2-mid-crack
+1391 : a2-gen-black-strip
+1236 : island
+1237 : island
+1238 : island
+1239 : island
+1240 : island
+1241 : island
+1242 : island
+1243 : endscene-sun
+1244 : endscene-sub
+1255 : Sophia
+1250 : hinge pin
+1254 : cage
+1246 : sentry statue
+1247 : door
+1248 : vent
+1249 : vent
+1245 : a1-cageroom-cage-2
+1253 : statue part
+1259 : destroyed sentry statue
+1257 : a1-cageroom-robot-smash
+1256 : hinge pin
+1252 : tunnel
+1251 : tunnel
+1258 : crushed guard
