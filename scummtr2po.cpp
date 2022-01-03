@@ -97,7 +97,10 @@ const std::string scummtr2po::createContext( objects& obj, stringId& strId )
     return stream.str();
 }
 
-void scummtr2po::process()
+void scummtr2po::poToScumm()
+{
+}
+void scummtr2po::scummToPo()
 {
     std::cout << "Input Filename: " << inputFilename_ << std::endl;
     std::cout << "Output Filename: " << oututFilename_ << std::endl;

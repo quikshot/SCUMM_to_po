@@ -10,7 +10,7 @@ CC = g++
 CFLAGS = -Wall -g
 
 CC_WIN = i686-w64-mingw32-g++
-CFLAGS_WIN = -Wall -g -static
+CFLAGS_WIN = -Wall -g -static -Ithird-party/cxx_argp
 
 BINARY_LINUX = ./bin/linux/scummtr2po
 BINARY_WIN = ./bin/windows/scummtr2po.exe

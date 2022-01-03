@@ -87,8 +87,8 @@ public:
     
     scummtr2po( const std::string& inputFilename, const std::string& oututFilename);
     ~scummtr2po();
-    void process();
-    
+    void scummToPo();
+    void poToScumm();
     const std::string createContext(objects& obj, stringId& strId);
     const std::string getHeader(void);
     
