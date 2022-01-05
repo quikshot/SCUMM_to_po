@@ -2,9 +2,3 @@
 	path = third-party/cxx_argp
 	url = https://github.com/pboettch/cxx_argp
 	branch = master
-[submodule "third-party/autoconf"]
-	path = third-party/autoconf
-	url = git://git.sv.gnu.org/autoconf
-[submodule "third-party/gnulib"]
-	path = third-party/gnulib
-	url = https://git.savannah.gnu.org/git/gnulib.git
