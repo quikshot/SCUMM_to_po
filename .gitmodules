@@ -2,3 +2,6 @@
 	path = third-party/cxx_argp
 	url = https://github.com/pboettch/cxx_argp
 	branch = master
+[submodule "third-party/cxxopts"]
+	path = third-party/cxxopts
+	url = https://github.com/jarro2783/cxxopts
