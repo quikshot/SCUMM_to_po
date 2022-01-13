@@ -1,55 +1,136 @@
-#include "third-party/cxx_argp/cxx_argp_parser.h"
 #include <iostream>
+#include <fstream>
+#include "third-party/cxxopts/include/cxxopts.hpp"
 #include "scummtr2po.h"
 
+
+bool fileExists ( std::string filepath )
+{
+   bool fileExists = false;
+   std::ifstream ifile;
+   ifile.open( filepath );
+   if( ifile ) {
+      fileExists = true;
+      if( ifile.is_open())
+      { 
+          ifile.close();
+      }
+   }
+   return fileExists;
+}
+
+const std::string checkParameterIsSetAndFileExists( const cxxopts::ParseResult& result, 
+                                                    const std::string& paramFilename,
+                                                    const std::string& errorToPrint
+)
+{
+    if( result.count( paramFilename ) == 0 )
+    {
+        std::cerr << "ERR: Missing parameter: " << errorToPrint << std::endl;
+        exit(0);
+    }
+    else
+    {
+        return result[ paramFilename ].as<std::string>();
+    }
+}
 
 int main(int argc, char** argv)
 {
     bool exportTr = false; 
     bool importTr = false;
+    bool debug = false;
+    bool test = false;
     
     std::string fileStrings = "";
-    std::string filePoTranslation = "";
+    std::string filePo = "";
+    std::string fileStringsConfig = "";
     
-    
-    // Command line options
-    cxx_argp::parser parser;
+    cxxopts::Options options("ScummTranslations", "\nConverts strings extracted from Scumm games into PO/POT format\nConverts PO translations into strings formated for Scumm games\nhttps://github.com/quikshot/SCUMM_to_po");
 
-    parser.add_option({"export", 'e', nullptr, 0, "export strings from Scumm to Po file"}, exportTr );
-    
-    parser.add_option({"import", 'i', nullptr, 0, "import from Po file to Scumm strings file"}, importTr );
-    
-    parser.add_option({nullptr, 's', "stringFile", 0, "strings file extracted with scummtr.exe"}, fileStrings);
-    
-    parser.add_option({nullptr, 'p', "poFile", 0, "Po/Pot file to export/import strings"}, filePoTranslation);
-    
-    
-    if (parser.parse(argc, argv)) {
-        std::cerr << "parsing OK\n";
-    } else {
-        std::cerr << "there was an error - exiting\n";
-        return 1;
+    options.add_options()
+        ("s,strings", "strings file (generated from scummtr.exe)", cxxopts::value<std::string>())
+        ("p,po", "po file", cxxopts::value<std::string>())
+        ("c,config", "config file (default: stringsFile.cfg)", cxxopts::value<std::string>())
+        ("e,export", "export translations from game", cxxopts::value<bool>()->default_value("false"))
+        ("i,import", "import translations to game", cxxopts::value<bool>()->default_value("false"))
+        ("t,test", "duplicate string as translation", cxxopts::value<bool>()->default_value("false"))
+        ("d,debug", "Enable debugging", cxxopts::value<bool>()->default_value("false"))
+        
+        ("h,help", "\nexport:\n   scummtr2po -e -s stringsEN.txt -p atlantis.pot\nimport:\n   scummtr2po -i -s stringsEN.txt -p ca.po\n")
+    ;
+    options.custom_help("-i/-e -s STRINGS_FILE -p PO_FILE [-d] [-h] [-c CONFIG_FILE]");
+    auto result = options.parse(argc, argv);
+
+    if (result.count("help"))
+    {
+      std::cout << options.help() << std::endl;
+      
+      exit(0);
     }
-
     
+    // Check parameters
+    
+    // Check options are correct:
+    importTr = result["import"].as<bool>();
+    exportTr = result["export"].as<bool>();
+    
+    // Check only one action is requested:
+    if( importTr == exportTr )
+    {
+        std::cerr << "You need to specify if you want to export translations from game (-e) or import translations to the game (-i)" << std::endl;
+        exit(0);
+    }
+    // Check filenames are provided and exist
+    fileStrings = checkParameterIsSetAndFileExists( result, "strings", "Provide: -s STRINGS_FILE" );
+    filePo = checkParameterIsSetAndFileExists( result, "po", "Provide: -p PO_FILE" );
+        
+    if( result.count("config") == 1)
+    {
+        fileStringsConfig = result["config"].as<std::string>();
+    }else
+    {
+        fileStringsConfig = fileStrings + ".cfg";
+    }
+    if ( importTr )
+    {
+        if ( !fileExists(fileStringsConfig) ) 
+        {
+            std::cerr << "ERR: a valid config file is needed. Default file is: "<< fileStringsConfig << "\n Provide a valid file with: -c CONFIG_FILE" << std::endl;
+            exit(0);
+        }
+        if ( fileExists(fileStrings) )
+        {
+            std::cerr << "WARNING: importing to an existing strings file: "<< fileStrings << "\n Overwrite? [y/N]" << std::endl;
+            std::string userInput;
+            std::cin >> userInput;
+            if( ! ( (userInput == "y") || (userInput == "Y") ) )
+            {   
+                std::cerr << "ERR: Exiting" << std::endl;
+            }else
+            {
+                std::cerr << "\nWARNING: " << fileStrings << " will be overwritten!!"<< std::endl;
+            }
+        }
+    }
+        
+    debug = result["debug"].as<bool>();
+    test  = result["test"].as<bool>();
 
     // Create converter with strings file and pot file.
-    scummtr2po converter = scummtr2po( fileStrings, filePoTranslation );
     
+    scummtr2po converter = scummtr2po( fileStrings, filePo , fileStringsConfig, debug );
+    
+    // Execute action: import or export.
     if( exportTr )
     {
-        converter.scummToPo();
+        converter.scummToPo( test );
     }
     else if ( importTr )
     {
         converter.poToScumm();
     }
-    else
-    {
-        std::cerr << "You need to specify import or export with -i or -e\n";
-    }
-        
-    
+
     
     return 0;
 }

@@ -50,10 +50,12 @@ const std::string scummtr2po::getHeader(void)
 
 
     
-scummtr2po::scummtr2po( const std::string& inputFilename, const std::string& oututFilename )
+scummtr2po::scummtr2po( const std::string& stringsFilename, const std::string& poFilename, const std::string& configFilename, const bool debug ):
+stringsFilename_(stringsFilename),
+poFilename_(poFilename),
+configFilename_(configFilename),
+debug_(debug)
 {
-    inputFilename_ = inputFilename;
-    oututFilename_ = oututFilename;
     //TODO: check if file exists
 }
 
@@ -97,51 +99,199 @@ const std::string scummtr2po::createContext( objects& obj, stringId& strId )
     return stream.str();
 }
 
+void copyFileTo(std::string sourceFile, std::string destFile )
+{
+    std::ifstream source(sourceFile, std::ios::binary);
+    std::ofstream dest(destFile, std::ios::binary);
+    std::cout << "Copying " << sourceFile << " to: " << destFile << std::endl; 
+    dest << source.rdbuf();
+
+    source.close();
+    dest.close();
+}
+
+bool getStringFromPoFile( std::fstream& pos, const int stringNumber, std::string& msgstr_)
+{
+    bool ret=false;
+    std::string lineStr;
+    std::string msgstr;
+    bool foundId = false;
+    if (pos.is_open() ){ 
+        std::string lineStr;
+        std::string msgstr="NOT FOUND";
+        while( getline(pos, lineStr) )
+        {
+            //std::cout << "getStringFromPoFile: "<<lineStr<<std::endl;
+            // Read PO file 
+            // if line contains: "#. stringId:", read stringId number.
+            std::string searchStr = "#. stringId:" + std::to_string(stringNumber);
+            std::size_t found = lineStr.find(searchStr);
+            
+            if( found != std::string::npos)
+            {
+                foundId = true;
+            }
+            else if( foundId == true )
+            {
+                std::size_t found = lineStr.find("msgstr \"");
+                if( found != std::string::npos)
+                {
+                    std::string cut=lineStr.substr(8); //remove initial part "msgstr \""
+                    msgstr_ = cut.substr(0,cut.length()-1);
+                    ret=true;
+                    break;
+                }
+                else
+                {
+                    continue;
+                }
+                    
+            }else
+            {
+                continue;
+            }
+        }
+    }else
+    {
+        std::cerr << "ERR: String stream is not opened" << std::endl;
+    }
+    
+    return ret;
+}
+
 void scummtr2po::poToScumm()
 {
+    // Read po file.
+    // read comment #. stringId:20
+    // find next msgstr "XXX20"
+    // store XXX
+    // read config file and substitute  SCUMMTR2PO_STRING_ID_20 for XXX20
+    // write to new stringsEN_ca.txt
+    std::fstream strs;
+    std::fstream pos;
+    std::fstream configos;
+    int lineNumber = 0;
+    // Copy config file into destination file
+    
+    //copyFileTo (configFilename_, stringsFilename_ );
+    
+    //objects objs = objects(stringsFilename_, "objects.txt");
+
+    strs.open( stringsFilename_, std::ios::out ); 
+    pos.open( poFilename_, std::ios::in );  
+    configos.open( configFilename_, std::ios::in );  
+
+    if(debug_)
+    {
+        std::cout << "Strings Filename: " << stringsFilename_ << " - " <<  strs.is_open() <<std::endl;
+        std::cout << "Po Filename: " << poFilename_ << " - " <<  pos.is_open() << std::endl;
+        std::cout << "Intermediate config Filename: " << configFilename_ << " - " <<  configos.is_open() << std::endl;
+    }
+    
+    if( pos.is_open() && configos.is_open() && strs.is_open() ){  
+        std::string lineStr;
+        std::string msgstr;
+        std::cout << "Looping.." <<std::endl;
+        
+        while( getline(configos, lineStr) )
+        {
+             
+            //read input string
+            //search translation
+            if( getStringFromPoFile( pos, lineNumber, msgstr) )
+            {
+                //write output translated string
+                //get initial part 
+                std::string substitution;
+                std::size_t found = lineStr.find("SCUMMTR2PO_STRING_ID_");
+                if( found != std::string::npos)
+                {
+                    substitution = lineStr.substr( 0 ,found) + msgstr;
+                }
+                else{
+                    std::cerr <<"ERR: wrong config file! "<< configFilename_ << " should contain string substitutions like SCUMMTR2PO_STRING_ID_NNN" << std::endl;
+                }
+                    
+                
+                if( debug_ )
+                {
+                    std::cout << "ORIGINAL  : " << lineNumber << ": " << lineStr << std::endl; 
+                    std::cout << "TRANSLATED: " << lineNumber << ": " << msgstr << std::endl;
+                    std::cout << "SUBST     : " << lineNumber << ": " << substitution << std::endl<<std::endl;
+                }
+                
+                strs << substitution << std::endl;
+                
+            } else {
+                std::cerr << " String "<< std::to_string(lineNumber) << " not found in file " << poFilename_ << std::endl;
+            }
+            
+            ++lineNumber;
+        }
+        pos.close(); 
+    }
+    
+    if(strs.is_open()) 
+    {
+        strs.close();    
+    }
+    if(configos.is_open()) 
+    {
+        configos.close();    
+    }        
 }
-void scummtr2po::scummToPo()
+
+void scummtr2po::scummToPo( bool test )
 {
-    std::cout << "Input Filename: " << inputFilename_ << std::endl;
-    std::cout << "Output Filename: " << oututFilename_ << std::endl;
+    if(debug_)
+    {
+        std::cout << "Strings Filename: " << stringsFilename_ << std::endl;
+        std::cout << "Po Filename: " << poFilename_ << std::endl;
+        std::cout << "Intermediate config Filename: " << configFilename_ << std::endl;
+    }
+    
     std::fstream is;
     std::fstream os;
+    std::fstream configos;
     int lineNumber = 0;
-    objects objs = objects(inputFilename_, "objects.txt");
+    objects objs = objects(stringsFilename_, "objects.txt");
 
-    os.open(oututFilename_,std::ios::out);  
+    os.open( poFilename_, std::ios::out );  
+    configos.open( configFilename_, std::ios::out );  
     
     if(os.is_open()) 
     {
         os << this->getHeader();   
     }
+
+    is.open( stringsFilename_, std::ios::in ); 
     
-    is.open( inputFilename_, std::ios::in ); 
-
     if (is.is_open()){  
-        std::string tp;
+        std::string lineStr;
 
-        while( getline(is, tp) )
+        while( getline(is, lineStr) )
         {
-            //std::cout << tp << "\n"; 
-            stringId str = stringId( tp , lineNumber );
-            
-            
+            // Write POT file 
+            stringId str = stringId( lineStr , lineNumber );
             if(os.is_open()) 
             {
-                
-                os << "#. RAW: " << tp << std::endl;
+                os << "#. RAW: " << lineStr << std::endl;
                 os << "#. stringId:"<<lineNumber<<std::endl;
                 os << str.getReference();
                 os << createContext(objs, str);   
                 os << str.getMsgId();   
-                os << str.getMsgStr();   
+                os << str.getMsgStr( test );   
                 os << std::endl;   
-                
             }  
+            
+            // Write intermediate config file
+            if(configos.is_open()) 
+            {
+                configos << str.configText_ << std::endl;
+            }  
+            
             ++lineNumber;
         }
-
         is.close(); 
     }
     
@@ -149,6 +299,10 @@ void scummtr2po::scummToPo()
     {
         os.close();    
     }
+    if(configos.is_open()) 
+    {
+        configos.close();    
+    }    
 }
 
 
@@ -172,15 +326,23 @@ stringId::stringId( const std::string& line, int id)
     op_ = line.substr(16, 2);;
     stringIdentifier_ = id;
     
+    
+    
     std::size_t found = completeStringId_.find_first_not_of("0123456789\\");
-
+    if( found != std::string::npos)
+    {
+        configText_ = line.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id ) ;
+    }else{
+        configText_ = line + "SCUMMTR2PO_STRING_ID_" +std::to_string( id ) ;
+    }
+    
     if ( found != std::string::npos )
     {
         stringId_ = completeStringId_.substr((int)found);
     }
     else
     {
-        stringId_ = completeStringId_;
+        stringId_ = "";
     }
 
     /* Convert: 
@@ -206,9 +368,16 @@ const std::string stringId::getMsgContext()
     return "msgctxt \"" +roomNumber_ + "_" + type_+ "_" + typeNumber_ + "(" + op_ + ")\"\n";
 }
 
-const std::string stringId::getMsgStr()
+const std::string stringId::getMsgStr( bool test )
 {
-    return "msgstr \"\"\n";
+    if ( test ) 
+    {
+        return "msgstr \"" + stringId_ + "\"\n";
+    }
+    else
+    {    
+        return "msgstr \"\"\n";
+    }
 }
 
 
@@ -219,9 +388,9 @@ const std::string stringId::getMsgStr()
  *
  *************************************/
 
-objects::objects( const std::string& inputFilename, const std::string& objectsFilename)
+objects::objects( const std::string& stringsFilename, const std::string& objectsFilename)
 {
-    inputFilename_ = inputFilename;
+    stringsFilename_ = stringsFilename;
     objectsFilename_ = objectsFilename;
     
     createObjectTable();
@@ -255,7 +424,7 @@ void objects::createObjectTable()
     
     std::cout << "Creating table of objects" << std::endl;
     
-    is.open( inputFilename_, std::ios::in ); 
+    is.open( stringsFilename_, std::ios::in ); 
     objects.open ( objectsFilename_, std::ios::out);
     
     if (is.is_open()){  
@@ -263,7 +432,7 @@ void objects::createObjectTable()
         
         while( getline(is, line) )
         {
-            //std::cout << tp << "\n"; 
+            //std::cout << line << "\n"; 
             stringId str = stringId( line , 0 );
             if ( str.type_ == "OBNA" )
             {

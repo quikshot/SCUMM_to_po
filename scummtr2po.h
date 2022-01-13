@@ -44,6 +44,7 @@ public:
     std::string type_;
     std::string typeNumber_;
     std::string op_;
+    std::string configText_;
     int stringIdentifier_;
     /* 
         * Convert: 
@@ -60,7 +61,7 @@ public:
     const std::string getMsgId();
     const std::string getReference();
     const std::string getMsgContext();
-    const std::string getMsgStr();
+    const std::string getMsgStr( bool test = false);
     
 };
 
@@ -76,8 +77,9 @@ private:
     void createObjectTable();        
 
     std::map<int, std::string> objectNumberToName;
-    std::string inputFilename_;
-    std::string objectsFilename_;        
+    std::string stringsFilename_;
+    std::string objectsFilename_;     
+    std::string configFilename_;
 };
 
 
@@ -85,9 +87,9 @@ class scummtr2po
 {
 public:
     
-    scummtr2po( const std::string& inputFilename, const std::string& oututFilename);
+    scummtr2po( const std::string& inputFilename, const std::string& oututFilename, const std::string& configFilename, const bool debug = false );
     ~scummtr2po();
-    void scummToPo();
+    void scummToPo( bool test = false);
     void poToScumm();
     const std::string createContext(objects& obj, stringId& strId);
     const std::string getHeader(void);
@@ -96,8 +98,10 @@ public:
 
 private: 
     
-    std::string inputFilename_;
-    std::string oututFilename_;
+    std::string stringsFilename_;
+    std::string poFilename_;
+    std::string configFilename_;
+    bool debug_;
 };
 
 #endif // SCUMMTR2PO_H

@@ -2,15 +2,15 @@
  
 # *****************************************************
 # Variables to control Makefile operation
- 
+INCLUDES=-Ithird-party/cxxopts/include
 CC_LINUX = g++
-CFLAGS_LINUX = -Wall -g
+CFLAGS_LINUX = -Wall -g -std=c++1z
 
 CC = g++
-CFLAGS = -Wall -g
+CFLAGS = -Wall -g $(INCLUDES)
 
 CC_WIN = i686-w64-mingw32-g++
-CFLAGS_WIN = -Wall -g -static -Ithird-party/cxx_argp
+CFLAGS_WIN = -Wall -g -static $(INCLUDES)
 
 BINARY_LINUX = ./bin/linux/scummtr2po
 BINARY_WIN = ./bin/windows/scummtr2po.exe
