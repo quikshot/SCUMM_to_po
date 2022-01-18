@@ -32,7 +32,9 @@ const std::string scummtr2po::getHeader(void)
    
     // convert now to string form
     char* dt = ctime(&now);
+    std::string dateString (dt);
     
+    dateString=dateString.substr(0,(int)dateString.length()-1);
     std::stringstream stream;
     stream << "# POT File created using scummtr2po \n" 
            << "# https://github.com/quikshot/SCUMM_to_po\n" 
@@ -40,7 +42,7 @@ const std::string scummtr2po::getHeader(void)
            << "msgid \"\"\n" 
            << "msgstr \"\"\n" 
            << "\"Project-Id-Version: \\n\"\n" 
-           << "\"POT-Creation-Date: " <<  dt <<  "\\n\"\n" 
+           << "\"POT-Creation-Date: " <<  dateString <<  "\\n\"\n" 
            << "\"PO-Revision-Date: \\n\"\n" 
            << "\"Language-Team: \\n\"\n" 
            << "\"MIME-Version: 1.0\\n\"\n" 
@@ -119,38 +121,61 @@ bool getStringFromPoFile( std::fstream& pos, const int stringNumber, std::string
     if (pos.is_open() ){ 
         std::string lineStr;
         std::string msgstr="NOT FOUND";
-        while( getline(pos, lineStr) )
+        auto currentPositionInFile = pos.tellg();
+        
+        int loopFile=0;
+        pos.seekg(0,pos.beg);
+        while( loopFile <= 1 )
         {
-            //std::cout << "getStringFromPoFile: "<<lineStr<<std::endl;
-            // Read PO file 
-            // if line contains: "#. stringId:", read stringId number.
-            std::string searchStr = "#. stringId:" + std::to_string(stringNumber);
-            std::size_t found = lineStr.find(searchStr);
-            
-            if( found != std::string::npos)
+            while( getline(pos, lineStr) )
             {
-                foundId = true;
-            }
-            else if( foundId == true )
-            {
-                std::size_t found = lineStr.find("msgstr \"");
+                //std::cout << "getStringFromPoFile: "<<lineStr<<std::endl;
+                // Read PO file 
+                // if line contains: "#. stringId:", read stringId number.
+                std::string searchStr = "#. stringId:" + std::to_string(stringNumber) + "_";
+                //std::cout << "search: "<<searchStr << "-->";
+                std::size_t found = lineStr.find(searchStr);
+                
                 if( found != std::string::npos)
                 {
-                    std::string cut=lineStr.substr(8); //remove initial part "msgstr \""
-                    msgstr_ = cut.substr(0,cut.length()-1);
-                    ret=true;
-                    break;
+                    foundId = true;
+                    //std::cout << "FOUND id"<<std::endl;
                 }
-                else
+                else if( foundId == true )
                 {
+                    //std::cout << "search msgstr...";
+                    std::size_t found = lineStr.find("msgstr \"");
+                    if( found != std::string::npos)
+                    {
+                        //std::cout << "FOUND msg"<<std::endl;
+                        std::string cut=lineStr.substr(8); //remove initial part "msgstr \""
+                        msgstr_ = cut.substr(0,cut.length()-1);
+                        //ret=true;
+                        //break;
+                        return true;
+                    }
+                    else
+                    {
+                        //std::cout << "not found. continue"<<std::endl;
+                        continue;
+                    }
+                        
+                }else
+                {
+                    //std::cout << "not found initial stringId. continue"<<std::endl;
                     continue;
                 }
-                    
-            }else
-            {
-                continue;
             }
+            //std::cout << "RESTARTING SEARCH FROM BEGINNING OF FILE"<<std::endl;
+            ++loopFile;
+            pos.seekg(0,pos.beg);
         }
+        //std::cout << "Looped 2. NOT FOUND. returning position file to "<<currentPositionInFile<<std::endl;
+        
+        //string not found after 2 loops in file.
+        //move file reading position to last string found.
+        pos.seekg(currentPositionInFile);
+        return false;
     }else
     {
         std::cerr << "ERR: String stream is not opened" << std::endl;
@@ -191,28 +216,55 @@ void scummtr2po::poToScumm()
     if( pos.is_open() && configos.is_open() && strs.is_open() ){  
         std::string lineStr;
         std::string msgstr;
-        std::cout << "Looping.." <<std::endl;
+        if(debug_) { std::cout << "Looping.." <<std::endl; }
         
         while( getline(configos, lineStr) )
         {
-             
+            if(debug_)
+            {
+                std::cout << "CFG: " << lineStr << std::endl;
+            }
+            //storeContext from config file. Map:
+            
+            //if duplicated string, get string from context map.
+            
             //read input string
             //search translation
-            if( getStringFromPoFile( pos, lineNumber, msgstr) )
+            int stringToSearch = lineNumber;
+            
+            
+            // Is string duplicated?
+            std::size_t foundDupl = lineStr.find("DUPLICATED_TO_");
+            if( foundDupl != std::string::npos )
+            {
+                if(debug_) { std::cout << "DUPLICATED:"<<lineStr.substr(foundDupl+14) << std::endl; }
+                stringToSearch = std::stoi(lineStr.substr(foundDupl+14));
+            }
+            std::size_t found = 0;
+            
+            // Is string empty?
+            if( (found = lineStr.find("SCUMMTR2PO_EMPTY_STRING")) != std::string::npos )
+            {
+                if(debug_) { std::cout << "EMPTY_STRING" << std::endl; }
+                std::string substitution;
+        
+                substitution = lineStr.substr( 0 ,found);
+                strs << substitution << std::endl;
+            
+                            
+            }else if( getStringFromPoFile( pos, stringToSearch, msgstr) )
             {
                 //write output translated string
                 //get initial part 
                 std::string substitution;
                 std::size_t found = lineStr.find("SCUMMTR2PO_STRING_ID_");
-                if( found != std::string::npos)
+                if( (found != std::string::npos) || foundDupl )
                 {
                     substitution = lineStr.substr( 0 ,found) + msgstr;
-                }
-                else{
+                }else{
                     std::cerr <<"ERR: wrong config file! "<< configFilename_ << " should contain string substitutions like SCUMMTR2PO_STRING_ID_NNN" << std::endl;
                 }
                     
-                
                 if( debug_ )
                 {
                     std::cout << "ORIGINAL  : " << lineNumber << ": " << lineStr << std::endl; 
@@ -223,7 +275,7 @@ void scummtr2po::poToScumm()
                 strs << substitution << std::endl;
                 
             } else {
-                std::cerr << " String "<< std::to_string(lineNumber) << " not found in file " << poFilename_ << std::endl;
+                std::cerr << "ERR: String "<< std::to_string(lineNumber) << " not found in file " << poFilename_ << std::endl;
             }
             
             ++lineNumber;
@@ -241,8 +293,28 @@ void scummtr2po::poToScumm()
     }        
 }
 
+bool stringDuplicated( std::map<int, stringId>& contextMap, stringId& str, int &duplicatedId  )
+{
+    for (auto &it : contextMap)
+    {
+        //int id = static_cast<int>(it.first);
+        std::string sid = (it.second).getMsgId();
+        //std::cout << std::to_string(id)  << ':' << str.getMsgId()<< " =? " << sid << std::endl;
+        
+        if ( sid  == str.getMsgId() )
+        {
+            //stringDuplicated
+            duplicatedId = (it.second).stringIdentifier_;
+            return true;
+        }
+    }
+    return false;
+}
+
 void scummtr2po::scummToPo( bool test )
 {
+    std::map<int, stringId> contextMap;
+    std::string context="";
     if(debug_)
     {
         std::cout << "Strings Filename: " << stringsFilename_ << std::endl;
@@ -256,6 +328,7 @@ void scummtr2po::scummToPo( bool test )
     int lineNumber = 0;
     objects objs = objects(stringsFilename_, "objects.txt");
 
+    is.open( stringsFilename_, std::ios::in ); 
     os.open( poFilename_, std::ios::out );  
     configos.open( configFilename_, std::ios::out );  
     
@@ -264,24 +337,52 @@ void scummtr2po::scummToPo( bool test )
         os << this->getHeader();   
     }
 
-    is.open( stringsFilename_, std::ios::in ); 
     
     if (is.is_open()){  
         std::string lineStr;
-
+        
+        // read strings file line by line and process 
         while( getline(is, lineStr) )
         {
-            // Write POT file 
+            // Process line 
             stringId str = stringId( lineStr , lineNumber );
-            if(os.is_open()) 
+            bool duplicated = false;
+            if( str.isNotEmpty() && os.is_open()) 
             {
-                os << "#. RAW: " << lineStr << std::endl;
-                os << "#. stringId:"<<lineNumber<<std::endl;
-                os << str.getReference();
-                os << createContext(objs, str);   
-                os << str.getMsgId();   
-                os << str.getMsgStr( test );   
-                os << std::endl;   
+                auto contextStr = createContext(objs, str); 
+                
+                // store all strings related to this context
+                // search duplicates of current string in same context
+                if( context != contextStr )
+                {
+                    if(debug_) {std::cout << "New context: " << contextStr <<std::endl;}
+                    context = contextStr;
+                    contextMap.clear();
+                    contextMap.insert( std::pair<int,stringId>( lineNumber, str ) );
+
+                }else{
+                    //search if current string already exists.
+                    //if it already exists, mark as duplicate.
+                    int duplicatedId = 0;
+                    if( (duplicated = stringDuplicated( contextMap, str, duplicatedId ) ) )
+                    { 
+                        str.setStringDuplicated( duplicatedId );
+                        if(debug_) {std::cout << "Found duplicated string: " << duplicatedId << std::endl;}
+                    }
+                    contextMap.insert( std::pair<int,stringId>( lineNumber, str ) );
+                }
+                // Only write to PO file if string is not duplicated in the same context.
+                if( !duplicated )
+                {
+                    // Write POT file 
+                    os << "#. RAW: " << lineStr << std::endl;
+                    os << "#. stringId:"<<lineNumber<<"_"<<std::endl;
+                    //os << str.getReference();
+                    os << contextStr;
+                    os << str.getMsgId();   
+                    os << str.getMsgStr( test );   
+                    os << std::endl;   
+                }
             }  
             
             // Write intermediate config file
@@ -316,35 +417,52 @@ void scummtr2po::scummToPo( bool test )
 
 stringId::stringId( const std::string& line, int id)
 {
-    rawText_ = line;
-    // extract substrings:
-    completeStringId_ =  line.substr(19);
-    //stringId_ = completeStringId_;
-    roomNumber_ =  line.substr(1, 3);
-    type_ = line.substr(5, 4);;
-    typeNumber_ = line.substr(10, 4);
-    op_ = line.substr(16, 2);;
-    stringIdentifier_ = id;
+    duplicatedId_ = -1;
     
-    
-    
-    std::size_t found = completeStringId_.find_first_not_of("0123456789\\");
-    if( found != std::string::npos)
+    if(line.length()>19)
     {
-        configText_ = line.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id ) ;
-    }else{
-        configText_ = line + "SCUMMTR2PO_STRING_ID_" +std::to_string( id ) ;
-    }
-    
-    if ( found != std::string::npos )
-    {
-        stringId_ = completeStringId_.substr((int)found);
-    }
-    else
-    {
-        stringId_ = "";
-    }
+        rawText_ = line;
+        // extract substrings:
+        completeStringId_ =  line.substr(19);
+        //stringId_ = completeStringId_;
+        roomNumber_ =  line.substr(1, 3);
+        type_ = line.substr(5, 4);;
+        typeNumber_ = line.substr(10, 4);
+        op_ = line.substr(16, 2);;
+        stringIdentifier_ = id;
+        
+        
+        // What if some translation starts with a number? "3 bananas"
+        // should count groups of 4: /022
+        std::size_t found = completeStringId_.find_first_not_of("0123456789\\");
+        //cut the string with numbers only divisable by 4:
+        int rest = (int)found%4;
+        if( rest < (int)found)
+        {
+            found = (std::size_t)((int)found - rest);
+        }
 
+        
+        if( found != std::string::npos)
+        {
+            stringId_ = completeStringId_.substr((int)found);
+            isEmptyString_ = false;
+            if( duplicatedId_ != -1 )
+            {
+                configText_ = line.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id ) + "_DUPLICATED_TO_"+ std::to_string(duplicatedId_);
+            }else{
+                configText_ = line.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id );
+            }
+        }else{
+            // empty string!
+            stringId_ = "";
+            isEmptyString_ = true;
+            configText_ = line + "SCUMMTR2PO_EMPTY_STRING_" +std::to_string( id ) ;
+        }
+    }else{
+        std::cerr << "String too short!! missing headers. Line: "<< std::to_string(id) << " " << line << std::endl;
+        isEmptyString_ = true;
+    }
     /* Convert: 
     //[097:LSCR#0210](27)\255\010\056\245\255\010\107\000\255\010\010\000\255\010\000\000Brace the door with a\016rock!
     */
@@ -352,6 +470,30 @@ stringId::stringId( const std::string& line, int id)
 
 stringId::~stringId()
 {}
+
+bool stringId::isNotEmpty(){
+    return !isEmptyString_;
+}
+
+void stringId::setStringDuplicated( int duplicatedId ){
+    duplicatedId_ = duplicatedId;
+    //TODO: Reuse code
+    std::size_t found = completeStringId_.find_first_not_of("0123456789\\");
+    //cut the string with numbers only divisable by 4:
+    int rest = (int)found%4;
+    if( rest < (int)found)
+    {
+        found = (std::size_t)((int)found - rest);
+    }
+    if( found != std::string::npos)
+    {
+        configText_ = rawText_.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( stringIdentifier_ ) + "_DUPLICATED_TO_"+ std::to_string(duplicatedId_);
+    }else{
+        configText_ = rawText_ + "SCUMMTR2PO_EMPTY_STRING_" +std::to_string( stringIdentifier_ ) ;
+
+    }
+}
+
 
 const std::string stringId::getMsgId()
 {
@@ -455,6 +597,8 @@ void objects::createObjectTable()
         }                
 
     }
+    std::cout << "..done" << std::endl;
+    
 }
 
 

@@ -57,11 +57,16 @@ public:
     msgid "Here's a cartouche from\016The\016Well\016of\016Souls."
     msgstr ""
     */
-    
+    bool isNotEmpty();
     const std::string getMsgId();
     const std::string getReference();
     const std::string getMsgContext();
     const std::string getMsgStr( bool test = false);
+    void  setStringDuplicated( int duplicatedId );
+    
+private:
+    bool isEmptyString_;
+    int duplicatedId_;
     
 };
 

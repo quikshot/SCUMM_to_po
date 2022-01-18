@@ -62,7 +62,7 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "shelves"
-msgstr "prestatgeria"
+msgstr ""
 
 #. RAW: [001:VERB#0016](D8)\255\010\071\213\255\010\004\000\255\010\014\000\255\010\000\000It's already\016open.
 #. stringId:7
@@ -83,7 +83,7 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "door"
-msgstr "porta"
+msgstr ""
 
 #. RAW: [001:VERB#0022](D8)\255\010\008\039\255\010\009\000\255\010\010\000\255\010\000\000I guess it's mayonnaise, but it looks like used\016motor\016oil.
 #. stringId:10
@@ -149,14 +149,14 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "jar@@@@@@@@@@@@@@@@@"
-msgstr "pot"
+msgstr ""
 
 #. RAW: [001:OBNA#0028](__)fridge-door
 #. stringId:20
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "fridge-door"
-msgstr "porta de la nevera"
+msgstr ""
 
 #. RAW: [001:VERB#0021](D8)\255\010\165\098\255\010\007\000\255\010\014\000\255\010\000\000It's already\016open.
 #. stringId:21
@@ -205,14 +205,14 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "ice box"
-msgstr "nevera"
+msgstr ""
 
 #. RAW: [001:OBNA#0019](__)bathroom door
 #. stringId:28
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "bathroom door"
-msgstr "porta del lavabo"
+msgstr ""
 
 #. RAW: [001:VERB#0020](D8)\255\010\073\074\255\010\006\000\255\010\014\000\255\010\000\000I can't give my whip\016away.
 #. stringId:29
@@ -254,7 +254,7 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "whip"
-msgstr "fuet"
+msgstr ""
 
 #. RAW: [001:VERB#0018](14)\255\010\067\238\255\010\005\000\255\010\014\000\255\010\000\000Nothing up here but a few broken\016pots.
 #. stringId:35
@@ -268,7 +268,7 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "shelf"
-msgstr "prestatge"
+msgstr ""
 
 #. RAW: [001:VERB#0023](D8)\255\010\168\109\255\010\010\000\255\010\014\000\255\010\000\000I have it already.
 #. stringId:37
@@ -299,7 +299,7 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "National Archaeology"
-msgstr "Arqueologia Nacional"
+msgstr ""
 
 #. RAW: [001:VERB#0025](D8)\255\010\253\055\255\010\011\000\255\010\018\000\255\010\000\000It's an expensive topcoat.
 #. stringId:42
@@ -313,7 +313,7 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Object name"
 msgid "coat"
-msgstr "abric"
+msgstr ""
 
 #. RAW: [001:VERB#0024](D8)\255\010\100\133\255\010\011\000\255\010\014\000\255\010\000\000I'd better call a\016glazier.
 #. stringId:44
@@ -383,7 +383,7 @@ msgstr ""
 #. ref
 msgctxt "Room: 001 Entry screenplaying"
 msgid "Stranger"
-msgstr "Desconegut"
+msgstr ""
 
 #. RAW: [001:LSCR#0200](14)
 #. stringId:54
