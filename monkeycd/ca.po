@@ -16140,7 +16140,7 @@ msgstr ""
 #. stringId:2955_
 msgctxt "Room: 038 Script 0203"
 msgid "My name's Guybrush Threepwood, and I want to be a pirate!"
-msgstr ""
+msgstr "àéèíïóòúüÁÉÈÍÏÓÒÚÜçÇ..."
 
 #. RAW: [038:LSCR#0203](14)\255\010\187\075\255\010\189\005\255\010\010\000\255\010\000\000Yikes!
 #. stringId:2956_

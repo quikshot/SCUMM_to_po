@@ -58,8 +58,180 @@ poFilename_(poFilename),
 configFilename_(configFilename),
 debug_(debug)
 {
+    //https://www.ascii-codes.com/cp850.html
     //TODO: check if file exists
+    //init substitutions:
+    fromCode["\\173"]="¡";
+    fromCode["\\168"]="?";
+    fromCode["\\135"]="ç";
+    fromCode["\\128"]="Ç";
+    fromCode["\\164"]="ñ";
+    fromCode["\\165"]="Ñ";
+    fromCode["\\143"]="Á";
+    fromCode["\\160"]="á";
+    fromCode["\\133"]="à";
+    fromCode["\\183"]="À";
+    fromCode["\\144"]="É";
+    fromCode["\\130"]="é";
+    fromCode["\\136"]="ê";
+    fromCode["\\138"]="è";
+    fromCode["\\212"]="È";
+    fromCode["\\214"]="Í";
+    fromCode["\\161"]="í";
+    fromCode["\\139"]="ï";
+    fromCode["\\216"]="Ï";
+    fromCode["\\224"]="Ó";
+    fromCode["\\162"]="ó";
+    fromCode["\\149"]="ò";
+    fromCode["\\227"]="Ò";
+    fromCode["\\233"]="Ú";
+    fromCode["\\163"]="ú";
+    fromCode["\\129"]="ü";
+    fromCode["\\015"]="™";
+    fromCode["\\255\\001"]="/newLine/"; 
+    fromCode["\\254\\001"]="/new2Line/"; 
+    fromCode["\\255\\002"]="/keepText/"; 
+    fromCode["\\255\\003"]="/wait/"; //wait()
+    fromCode["\\255\\004"]="/getInt/"; //
+    fromCode["\\255\\006"]="/getName/"; //
+    fromCode["\\255\\007"]="/getString/";
+    fromCode["\\254\\008"]="/unknownOp/";
+    
+    for (const auto& kv : fromCode) {    
+        if(debug_)
+        {    std::cout << "Replacements: code:" << kv.first << " value:" << kv.second << std::endl; }
+        
+        toCode[kv.second] = kv.first;
+    }
+    //strReplaceTest();
+    //exit(0);
 }
+
+void scummtr2po::strReplaceTest()
+{
+    //test
+    bool dbg=debug_;
+    debug_=true;
+    //std::string s ="r\\161o. Ara ve un wait \\255\\003 i despres una var amb params: \\255\\007\\016\\133. Bon dia, a ca\\135ar.";
+    std::string s="219_: \\255\\005\\110\\000 \\255\\006\\109\\000@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+
+    std::string inputs(s);
+    std::cout << "TEST!!!!"<<std::endl;
+    std::cout << "1: "<<s<<std::endl;
+    strReplaceFromCodeToChar(s);
+    std::string outputs(s);
+    std::cout << "2: "<<s<<std::endl;
+    strReplaceFromCharToCode(s);
+    std::string back(s);
+    std::cout << "3: "<<s<<std::endl;
+    std::cout << "TEST!!!!"<<std::endl;
+    debug_=dbg;
+    std::cout << "RESULT:"<<std::endl;
+    std::cout << "Input:"<<inputs<<std::endl;
+    std::cout << "Output:"<<outputs<<std::endl;
+    std::cout << "Back:"<<back<<std::endl;
+    if( inputs == back)
+        std::cout << "check: OK!" << std::endl;
+    else
+        std::cout << "check: ERROR!" << std::endl;
+}
+
+void scummtr2po::strReplaceFromCodeToChar(std::string& str)
+{
+    if(debug_)
+    {
+        /*for (const auto& kv : toCode) {    
+            std::cout << "key:" << kv.first << " value:" << kv.second << std::endl;
+        } */       
+        std::cout << "FromCode: input: "<<str<<std::endl;
+    }
+    std::map<std::string,std::string>::iterator it;
+    for (const auto& kv : fromCode) 
+    {    
+
+        std::string characterToSearch = kv.first;
+        std::string repl = kv.second;
+        std::size_t found = str.find(characterToSearch);
+        while (found != std::string::npos)
+        {
+            // get number and substitute
+            //found. replace
+            str.replace(found, characterToSearch.length(), repl);
+            if(debug_)
+            {
+                std::cout << "FromCode: replace: " << repl << std::endl;
+                std::cout << "FromCode: output: " << str << std::endl;
+            }  
+            found = str.find(characterToSearch,found+repl.length());
+        }
+    }
+    
+    //Check any pending special chars
+    std::size_t found = str.find("\\");
+    while (found != std::string::npos)
+    {
+        std::cout << "DIGITS: "<< str.substr(found,4) << std::endl;
+        //check if 3 following chars ar digits.
+        if( isdigit((int)(str.substr(found+1,1).c_str()[0])) && isdigit((int)((char)str.substr(found+2,1).c_str()[0])) && isdigit((int)((char)str.substr(found+3,1).c_str()[0])))
+        {
+            
+            str.replace(found, 1, "//");
+        }
+        
+
+        //find next substitution in string
+        found = str.find("\\",found+4);
+    }    
+}
+
+
+void scummtr2po::strReplaceFromCharToCode( std::string& str )
+{
+
+    if(debug_)
+    {
+        std::cout << "ToCode: input: "<<str<<std::endl;
+    }
+    std::map<std::string,std::string>::iterator it;
+    for (const auto& kv : toCode) 
+    {    
+        std::string characterToSearch = kv.first;
+        std::string repl = kv.second;
+        std::size_t found = str.find(characterToSearch);
+        while (found != std::string::npos)
+        {
+            // get number and substitute
+            //found. replace
+            str.replace(found, characterToSearch.length(), repl);
+            if(debug_)
+            {
+                std::cout << "ToCode: replace: " << repl << std::endl;
+                std::cout << "ToCode: output: " << str << std::endl;
+            }  
+            found = str.find(characterToSearch,found+repl.length());
+        }
+    }
+    //substitute /XXX to \XXX
+    
+    //Restore pointers
+    std::size_t found = str.find("//");
+    while (found != std::string::npos)
+    {
+        //check if 3 following chars ar digits.
+        
+        if( isdigit((int)(str.substr(found+2,1).c_str()[0])) && isdigit((int)((char)str.substr(found+3,1).c_str()[0])) && isdigit((int)((char)str.substr(found+4,1).c_str()[0])))
+        {
+            str.replace(found, 2, "\\");
+            
+        }
+        if(debug_){std::cout << "ToCode: output: " << str << std::endl;            }
+
+        //find next substitution in string
+        found = str.find("//",found+4);
+    }
+    
+}
+
 
 scummtr2po::~scummtr2po()
 {
@@ -254,6 +426,7 @@ void scummtr2po::poToScumm()
                             
             }else if( getStringFromPoFile( pos, stringToSearch, msgstr) )
             {
+                //TODO: If duplicated, search from stored context.
                 //write output translated string
                 //get initial part 
                 std::string substitution;
@@ -271,7 +444,8 @@ void scummtr2po::poToScumm()
                     std::cout << "TRANSLATED: " << lineNumber << ": " << msgstr << std::endl;
                     std::cout << "SUBST     : " << lineNumber << ": " << substitution << std::endl<<std::endl;
                 }
-                
+                //replace extended ASCII characters (and special chars) for ASCII code in text
+                strReplaceFromCharToCode( substitution );
                 strs << substitution << std::endl;
                 
             } else {
@@ -346,6 +520,10 @@ void scummtr2po::scummToPo( bool test )
         {
             // Process line 
             stringId str = stringId( lineStr , lineNumber );
+            strReplaceFromCodeToChar ( str.stringId_ );
+            std::string strId = str.getMsgId();
+            
+            
             bool duplicated = false;
             if( str.isNotEmpty() && os.is_open()) 
             {
@@ -379,7 +557,7 @@ void scummtr2po::scummToPo( bool test )
                     os << "#. stringId:"<<lineNumber<<"_"<<std::endl;
                     //os << str.getReference();
                     os << contextStr;
-                    os << str.getMsgId();   
+                    os << strId;   
                     os << str.getMsgStr( test );   
                     os << std::endl;   
                 }
@@ -449,15 +627,16 @@ stringId::stringId( const std::string& line, int id)
             isEmptyString_ = false;
             if( duplicatedId_ != -1 )
             {
-                configText_ = line.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id ) + "_DUPLICATED_TO_"+ std::to_string(duplicatedId_);
+                //configText_ = line.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id ) + "_DUPLICATED_TO_"+ std::to_string(duplicatedId_);
+                configText_ = line.substr(19,(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id ) + "_DUPLICATED_TO_"+ std::to_string(duplicatedId_);
             }else{
-                configText_ = line.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id );
+                configText_ = line.substr(19,(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( id );
             }
         }else{
             // empty string!
             stringId_ = "";
             isEmptyString_ = true;
-            configText_ = line + "SCUMMTR2PO_EMPTY_STRING_" +std::to_string( id ) ;
+            configText_ = line.substr(19) + "SCUMMTR2PO_EMPTY_STRING_" +std::to_string( id ) ;
         }
     }else{
         std::cerr << "String too short!! missing headers. Line: "<< std::to_string(id) << " " << line << std::endl;
@@ -487,9 +666,9 @@ void stringId::setStringDuplicated( int duplicatedId ){
     }
     if( found != std::string::npos)
     {
-        configText_ = rawText_.substr(0, 19+(int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( stringIdentifier_ ) + "_DUPLICATED_TO_"+ std::to_string(duplicatedId_);
+        configText_ = rawText_.substr(19, (int)found) + "SCUMMTR2PO_STRING_ID_" +std::to_string( stringIdentifier_ ) + "_DUPLICATED_TO_"+ std::to_string(duplicatedId_);
     }else{
-        configText_ = rawText_ + "SCUMMTR2PO_EMPTY_STRING_" +std::to_string( stringIdentifier_ ) ;
+        configText_ =  "SCUMMTR2PO_EMPTY_STRING_" +std::to_string( stringIdentifier_ ) ;
 
     }
 }
