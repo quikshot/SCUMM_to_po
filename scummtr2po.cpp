@@ -29,7 +29,8 @@ const std::string scummtr2po::getHeader(void)
 {
     // current date/time based on current system
     time_t now = time(0);
-   
+    tm *ltm = localtime(&now);
+
     // convert now to string form
     char* dt = ctime(&now);
     std::string dateString (dt);
@@ -42,15 +43,16 @@ const std::string scummtr2po::getHeader(void)
            << "msgid \"\"\n" 
            << "msgstr \"\"\n" 
            << "\"Project-Id-Version: \\n\"\n" 
-           << "\"POT-Creation-Date: " <<  dateString <<  "\\n\"\n" 
+           << "\"POT-Creation-Date: " <<  1900 + ltm->tm_year << "-" << 1 + ltm->tm_mon <<"-"<< ltm->tm_mday  <<" "<< ltm->tm_hour << ":"<<ltm->tm_min << "+0100"<< "\\n\"\n" 
            << "\"PO-Revision-Date: \\n\"\n" 
            << "\"Language-Team: \\n\"\n" 
            << "\"MIME-Version: 1.0\\n\"\n" 
-           << "\"Content-Type: text/plain\"\n\n";
+           << "\"Content-Type: text/plain; charset=UTF-8\\n\"\n" 
+           << "\"Last-Translator: \\n\"\n" 
+           << "\"Content-Transfer-Encoding: 8bit\\n\"\n" 
+           << "\"X-Generator: Poedit 3.0\"\n\n";
     return stream.str();
 }
-
-
     
 scummtr2po::scummtr2po( const std::string& stringsFilename, const std::string& poFilename, const std::string& configFilename, const bool debug ):
 stringsFilename_(stringsFilename),
@@ -61,42 +63,6 @@ debug_(debug)
 
     //strReplaceTest();
     //exit(0);
-}
-
-void scummtr2po::strReplaceTest()
-{
-    //test
-    bool dbg=debug_;
-    debug_=true;
-    //std::string s ="r\\161o. Ara ve un wait \\255\\003 i despres una var amb params: \\255\\007\\016\\133. Bon dia, a ca\\135ar.";
-//[001:LSCR#0201](D8)\255\010\230\196\255\010\001\000\255\010\010\000\255\010\000\000No creo que pueda traducir lo dem\160s.
-//[002:OBNA#0030](__)playa@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    
-    std::string s="219_: \\255\\005\\110\\000 \\255\\006\\109\\000@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
-    stringId sid = stringId("[001:LSCR#0201](D8)\\255\\010\\230\\196\\255\\010\\001\\000\\255\\010\\010\\000\\255\\010\\000\\000No creo que pueda traducir lo dem\\160s.\\255\\001\\222\\1111\\255\\004\\122\\221", 0 );
-    std::string obj="baul@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
-    std::string inputs(sid.stringId_);
-    std::cout << "TEST!!!!"<<std::endl;
-    std::cout << "RAW: "<<sid.rawText_<<std::endl;
-    
-    sid.strReplaceFromCodeToChar( sid.stringId_ , true);
-    std::string outputs(sid.stringId_);
-    sid.strReplaceFromCharToCode(sid.stringId_);
-    std::string back(sid.stringId_);
-
-    debug_=dbg;
-    std::cout << "RESULT:"<<std::endl;
-    std::cout << "Input:"<<inputs<<std::endl;
-    std::cout << "Output:"<<outputs<<std::endl;
-    std::cout << "Back:"<<back<<std::endl;
-    if( inputs == back)
-        std::cout << "check: OK!" << std::endl;
-    else
-        std::cout << "check: ERROR!" << std::endl;
-    
-    std::string objRemoved = stringId::removeFinalAt(obj);
-    std::cout << "OBJ        : "<<obj<<std::endl;
-    std::cout << "OBJ REMOVED: "<<objRemoved<<std::endl;
 }
 
 
@@ -189,6 +155,19 @@ bool getStringFromPoFile( std::fstream& pos, const int stringNumber, std::string
                         //std::cout << "FOUND msg"<<std::endl;
                         std::string cut=lineStr.substr(8); //remove initial part "msgstr \""
                         msgstr_ = cut.substr(0,cut.length()-1);
+                        while( getline(pos, lineStr) )
+                        {
+                            if( lineStr.substr(0,1)=="\"")
+                            {
+                               msgstr_ = msgstr_ + lineStr.substr(1,lineStr.length()-2);     
+                               std::cout << "MULTILINE: " << msgstr_<<std::endl;
+                            }
+                            else
+                            {
+                                
+                                break;
+                            }
+                        }
                         //ret=true;
                         //break;
                         return true;
@@ -395,13 +374,13 @@ void scummtr2po::scummToPo( bool test )
             if( str.isNotEmpty() && os.is_open()) 
             {
                 auto contextStr = createContext(objs, str); 
-                
+                std::string internalContext = str.roomNumber_;
                 // store all strings related to this context
                 // search duplicates of current string in same context
-                if( context != contextStr )
+                if( context != internalContext )
                 {
                     if(debug_) {std::cout << "New context: " << contextStr <<std::endl;}
-                    context = contextStr;
+                    context = internalContext;
                     contextMap.clear();
                     contextMap.insert( std::pair<int,stringId>( lineNumber, str ) );
 
@@ -453,3 +432,42 @@ void scummtr2po::scummToPo( bool test )
 }
 
 
+/***************************************
+ * TEST
+ */
+
+void scummtr2po::strReplaceTest()
+{
+    //test
+    bool dbg=debug_;
+    debug_=true;
+    //std::string s ="r\\161o. Ara ve un wait \\255\\003 i despres una var amb params: \\255\\007\\016\\133. Bon dia, a ca\\135ar.";
+//[001:LSCR#0201](D8)\255\010\230\196\255\010\001\000\255\010\010\000\255\010\000\000No creo que pueda traducir lo dem\160s.
+//[002:OBNA#0030](__)playa@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    
+    std::string s="219_: \\255\\005\\110\\000 \\255\\006\\109\\000@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+    stringId sid = stringId("[001:LSCR#0201](D8)\\255\\010\\230\\196\\255\\010\\001\\000\\255\\010\\010\\000\\255\\010\\000\\000No creo que pueda traducir lo dem\\160s.\\255\\001\\222\\1111\\255\\004\\122\\221", 0 );
+    std::string obj="baul@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+    std::string inputs(sid.stringId_);
+    std::cout << "TEST!!!!"<<std::endl;
+    std::cout << "RAW: "<<sid.rawText_<<std::endl;
+    
+    sid.strReplaceFromCodeToChar( sid.stringId_ , true);
+    std::string outputs(sid.stringId_);
+    sid.strReplaceFromCharToCode(sid.stringId_);
+    std::string back(sid.stringId_);
+
+    debug_=dbg;
+    std::cout << "RESULT:"<<std::endl;
+    std::cout << "Input:"<<inputs<<std::endl;
+    std::cout << "Output:"<<outputs<<std::endl;
+    std::cout << "Back:"<<back<<std::endl;
+    if( inputs == back)
+        std::cout << "check: OK!" << std::endl;
+    else
+        std::cout << "check: ERROR!" << std::endl;
+    
+    std::string objRemoved = stringId::removeFinalAt(obj);
+    std::cout << "OBJ        : "<<obj<<std::endl;
+    std::cout << "OBJ REMOVED: "<<objRemoved<<std::endl;
+}
