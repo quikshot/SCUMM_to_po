@@ -15,7 +15,7 @@ CFLAGS_WIN = -Wall -g -static $(INCLUDES)
 BINARY_LINUX = ./bin/linux/scummtr2po
 BINARY_WIN = ./bin/windows/scummtr2po.exe
 
-OBJS=main.cpp scummtr2po.cpp
+OBJS=main.cpp scummtr2po.cpp stringId.cpp objects.cpp
 
 # ****************************************************
 # Targets needed to bring the executable up to date
