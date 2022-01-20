@@ -45,17 +45,11 @@ public:
     const std::string createContext(objects& obj, stringId& strId);
     const std::string getHeader(void);
     
-    //String replacement for extended ASCII chars. from ascii code to char and viceversa.
-    void strReplaceFromCodeToChar( std::string& str );
-    void strReplaceFromCharToCode( std::string& str );
+
+    void strReplaceTest();
 
 
 private: 
-    //to test replacement.
-    void strReplaceTest();
-    
-    std::map<std::string, std::string> fromCode;
-    std::map<std::string, std::string> toCode;
     std::string stringsFilename_;
     std::string poFilename_;
     std::string configFilename_;

@@ -58,51 +58,7 @@ poFilename_(poFilename),
 configFilename_(configFilename),
 debug_(debug)
 {
-    //https://www.ascii-codes.com/cp850.html
-    //TODO: if game is in another laguage (i.e. german/french) more keys must be added!
-    //init substitutions:
-    fromCode["\\173"]="¡";
-    fromCode["\\168"]="¿";
-    fromCode["\\135"]="ç";
-    fromCode["\\128"]="Ç";
-    fromCode["\\164"]="ñ";
-    fromCode["\\165"]="Ñ";
-    fromCode["\\143"]="Á";
-    fromCode["\\160"]="á";
-    fromCode["\\133"]="à";
-    fromCode["\\183"]="À";
-    fromCode["\\144"]="É";
-    fromCode["\\130"]="é";
-    fromCode["\\136"]="ê";
-    fromCode["\\138"]="è";
-    fromCode["\\212"]="È";
-    fromCode["\\214"]="Í";
-    fromCode["\\161"]="í";
-    fromCode["\\139"]="ï";
-    fromCode["\\216"]="Ï";
-    fromCode["\\224"]="Ó";
-    fromCode["\\162"]="ó";
-    fromCode["\\149"]="ò";
-    fromCode["\\227"]="Ò";
-    fromCode["\\233"]="Ú";
-    fromCode["\\163"]="ú";
-    fromCode["\\129"]="ü";
-    fromCode["\\015"]="™";
-    fromCode["\\255\\001"]="/newLine/"; 
-    fromCode["\\254\\001"]="/new2Line/"; 
-    fromCode["\\255\\002"]="/keepText/"; 
-    fromCode["\\255\\003"]="/wait/"; //wait()
-    fromCode["\\255\\004"]="/getInt/"; //
-    fromCode["\\255\\006"]="/getName/"; //
-    fromCode["\\255\\007"]="/getString/";
-    fromCode["\\254\\008"]="/unknownOp/";
-    
-    for (const auto& kv : fromCode) {    
-        if(debug_)
-        {    std::cout << "Replacements: code:" << kv.first << " value:" << kv.second << std::endl; }
-        
-        toCode[kv.second] = kv.first;
-    }
+
     //strReplaceTest();
     //exit(0);
 }
@@ -113,18 +69,21 @@ void scummtr2po::strReplaceTest()
     bool dbg=debug_;
     debug_=true;
     //std::string s ="r\\161o. Ara ve un wait \\255\\003 i despres una var amb params: \\255\\007\\016\\133. Bon dia, a ca\\135ar.";
+//[001:LSCR#0201](D8)\255\010\230\196\255\010\001\000\255\010\010\000\255\010\000\000No creo que pueda traducir lo dem\160s.
+//[002:OBNA#0030](__)playa@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    
     std::string s="219_: \\255\\005\\110\\000 \\255\\006\\109\\000@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+    stringId sid = stringId("[001:LSCR#0201](D8)\\255\\010\\230\\196\\255\\010\\001\\000\\255\\010\\010\\000\\255\\010\\000\\000No creo que pueda traducir lo dem\\160s.\\255\\001\\222\\1111\\255\\004\\122\\221", 0 );
+    std::string obj="baul@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+    std::string inputs(sid.stringId_);
+    std::cout << "TEST!!!!"<<std::endl;
+    std::cout << "RAW: "<<sid.rawText_<<std::endl;
+    
+    sid.strReplaceFromCodeToChar( sid.stringId_ , true);
+    std::string outputs(sid.stringId_);
+    sid.strReplaceFromCharToCode(sid.stringId_);
+    std::string back(sid.stringId_);
 
-    std::string inputs(s);
-    std::cout << "TEST!!!!"<<std::endl;
-    std::cout << "1: "<<s<<std::endl;
-    strReplaceFromCodeToChar(s);
-    std::string outputs(s);
-    std::cout << "2: "<<s<<std::endl;
-    strReplaceFromCharToCode(s);
-    std::string back(s);
-    std::cout << "3: "<<s<<std::endl;
-    std::cout << "TEST!!!!"<<std::endl;
     debug_=dbg;
     std::cout << "RESULT:"<<std::endl;
     std::cout << "Input:"<<inputs<<std::endl;
@@ -134,102 +93,10 @@ void scummtr2po::strReplaceTest()
         std::cout << "check: OK!" << std::endl;
     else
         std::cout << "check: ERROR!" << std::endl;
-}
-
-void scummtr2po::strReplaceFromCodeToChar(std::string& str)
-{
-    if(debug_)
-    {
-        /*for (const auto& kv : toCode) {    
-            std::cout << "key:" << kv.first << " value:" << kv.second << std::endl;
-        } */       
-        std::cout << "FromCode: input: "<<str<<std::endl;
-    }
-    std::map<std::string,std::string>::iterator it;
-    for (const auto& kv : fromCode) 
-    {    
-
-        std::string characterToSearch = kv.first;
-        std::string repl = kv.second;
-        std::size_t found = str.find(characterToSearch);
-        while (found != std::string::npos)
-        {
-            // get number and substitute
-            //found. replace
-            str.replace(found, characterToSearch.length(), repl);
-            if(debug_)
-            {
-                std::cout << "FromCode: replace: " << repl << std::endl;
-                std::cout << "FromCode: output: " << str << std::endl;
-            }  
-            found = str.find(characterToSearch,found+repl.length());
-        }
-    }
     
-    //Check any pending special chars
-    std::size_t found = str.find("\\");
-    while (found != std::string::npos)
-    {
-        //std::cout << "DIGITS: "<< str.substr(found,4) << std::endl;
-        //check if 3 following chars ar digits.
-        if( isdigit((int)(str.substr(found+1,1).c_str()[0])) && isdigit((int)((char)str.substr(found+2,1).c_str()[0])) && isdigit((int)((char)str.substr(found+3,1).c_str()[0])))
-        {
-            
-            str.replace(found, 1, "//");
-        }
-        
-
-        //find next substitution in string
-        found = str.find("\\",found+4);
-    }    
-}
-
-
-void scummtr2po::strReplaceFromCharToCode( std::string& str )
-{
-
-    if(debug_)
-    {
-        std::cout << "ToCode: input: "<<str<<std::endl;
-    }
-    std::map<std::string,std::string>::iterator it;
-    for (const auto& kv : toCode) 
-    {    
-        std::string characterToSearch = kv.first;
-        std::string repl = kv.second;
-        std::size_t found = str.find(characterToSearch);
-        while (found != std::string::npos)
-        {
-            // get number and substitute
-            //found. replace
-            str.replace(found, characterToSearch.length(), repl);
-            if(debug_)
-            {
-                std::cout << "ToCode: replace: " << repl << std::endl;
-                std::cout << "ToCode: output: " << str << std::endl;
-            }  
-            found = str.find(characterToSearch,found+repl.length());
-        }
-    }
-    //substitute /XXX to \XXX
-    
-    //Restore pointers
-    std::size_t found = str.find("//");
-    while (found != std::string::npos)
-    {
-        //check if 3 following chars ar digits.
-        
-        if( isdigit((int)(str.substr(found+2,1).c_str()[0])) && isdigit((int)((char)str.substr(found+3,1).c_str()[0])) && isdigit((int)((char)str.substr(found+4,1).c_str()[0])))
-        {
-            str.replace(found, 2, "\\");
-            
-        }
-        if(debug_){std::cout << "ToCode: output: " << str << std::endl;            }
-
-        //find next substitution in string
-        found = str.find("//",found+4);
-    }
-    
+    std::string objRemoved = stringId::removeFinalAt(obj);
+    std::cout << "OBJ        : "<<obj<<std::endl;
+    std::cout << "OBJ REMOVED: "<<objRemoved<<std::endl;
 }
 
 
@@ -243,7 +110,7 @@ const std::string scummtr2po::createContext( objects& obj, stringId& strId )
     stream << "msgctxt \"" ;
     if( strId.type_ == "VERB" ) 
     {
-        stream <<"Room: " << strId.roomNumber_ << " Text related to object: " << obj.getObjectName( stoi(strId.typeNumber_) );
+        stream <<"Room: " << strId.roomNumber_ << " Text related to object: " << stringId::removeFinalAt(obj.getObjectName( stoi(strId.typeNumber_) ));
     }
     else if( strId.type_ == "OBNA" ) 
     {
@@ -445,7 +312,7 @@ void scummtr2po::poToScumm()
                     std::cout << "SUBST     : " << lineNumber << ": " << substitution << std::endl<<std::endl;
                 }
                 //replace extended ASCII characters (and special chars) for ASCII code in text
-                strReplaceFromCharToCode( substitution );
+                stringId::strReplaceFromCharToCode( substitution );
                 strs << substitution << std::endl;
                 
             } else {
@@ -520,7 +387,7 @@ void scummtr2po::scummToPo( bool test )
         {
             // Process line 
             stringId str = stringId( lineStr , lineNumber );
-            strReplaceFromCodeToChar ( str.stringId_ );
+            stringId::strReplaceFromCodeToChar ( str.stringId_ );
             std::string strId = str.getMsgId();
             
             
@@ -553,8 +420,9 @@ void scummtr2po::scummToPo( bool test )
                 if( !duplicated )
                 {
                     // Write POT file 
-                    os << "#. RAW: " << lineStr << std::endl;
+                    //os << "#. RAW: " << lineStr << std::endl;
                     os << "#. stringId:"<<lineNumber<<"_"<<std::endl;
+                    //TODO: Add extra translation
                     //os << str.getReference();
                     os << contextStr;
                     os << strId;   
