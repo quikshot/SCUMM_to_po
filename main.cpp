@@ -45,6 +45,7 @@ int main(int argc, char** argv)
     std::string fileStrings = "";
     std::string filePo = "";
     std::string fileStringsConfig = "";
+    std::string fileAddTranslation = "";
     
     cxxopts::Options options("ScummTranslations", "\nConverts strings extracted from Scumm games into PO/POT format\nConverts PO translations into strings formated for Scumm games\nhttps://github.com/quikshot/SCUMM_to_po");
 
@@ -52,11 +53,11 @@ int main(int argc, char** argv)
         ("s,strings", "strings file (generated from scummtr.exe)", cxxopts::value<std::string>())
         ("p,po", "po file", cxxopts::value<std::string>())
         ("c,config", "config file (default: stringsFile.cfg)", cxxopts::value<std::string>())
+        ("a,add-translation", "add a translation as notes(i.e another language)", cxxopts::value<std::string>())        
         ("e,export", "export translations from game", cxxopts::value<bool>()->default_value("false"))
         ("i,import", "import translations to game", cxxopts::value<bool>()->default_value("false"))
         ("t,test", "duplicate string as translation", cxxopts::value<bool>()->default_value("false"))
         ("d,debug", "Enable debugging", cxxopts::value<bool>()->default_value("false"))
-        
         ("h,help", "\nexport:\n   scummtr2po -e -s stringsEN.txt -p atlantis.pot\nimport:\n   scummtr2po -i -s stringsEN.txt -p ca.po\n")
     ;
     options.custom_help("-i/-e -s STRINGS_FILE -p PO_FILE [-d] [-h] [-c CONFIG_FILE]");
@@ -116,10 +117,18 @@ int main(int argc, char** argv)
         
     debug = result["debug"].as<bool>();
     test  = result["test"].as<bool>();
-
+    if( result.count("add-translation") == 1)
+    {
+        fileAddTranslation = result["add-translation"].as<std::string>();
+    }else
+    {
+        fileAddTranslation = "";
+    }
     // Create converter with strings file and pot file.
     
     scummtr2po converter = scummtr2po( fileStrings, filePo , fileStringsConfig, debug );
+    
+    converter.addTranslation(fileAddTranslation);
     
     // Execute action: import or export.
     if( exportTr )

@@ -44,7 +44,7 @@ public:
     void poToScumm();
     const std::string createContext(objects& obj, stringId& strId);
     const std::string getHeader(void);
-    
+    void addTranslation(std::string& translationFile);
 
     void strReplaceTest();
 
@@ -53,6 +53,7 @@ private:
     std::string stringsFilename_;
     std::string poFilename_;
     std::string configFilename_;
+    std::string translationFilename_;
     bool debug_;
 };
 

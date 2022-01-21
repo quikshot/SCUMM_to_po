@@ -65,6 +65,12 @@ debug_(debug)
     //exit(0);
 }
 
+void scummtr2po::addTranslation(std::string& translationFile)
+{
+    //TODO: std::list
+    translationFilename_ = translationFile;
+        
+}
 
 scummtr2po::~scummtr2po()
 {
@@ -223,7 +229,7 @@ void scummtr2po::poToScumm()
     strs.open( stringsFilename_, std::ios::out ); 
     pos.open( poFilename_, std::ios::in );  
     configos.open( configFilename_, std::ios::in );  
-
+    
     if(debug_)
     {
         std::cout << "Strings Filename: " << stringsFilename_ << " - " <<  strs.is_open() <<std::endl;
@@ -233,11 +239,13 @@ void scummtr2po::poToScumm()
     
     if( pos.is_open() && configos.is_open() && strs.is_open() ){  
         std::string lineStr;
+        
         std::string msgstr;
         if(debug_) { std::cout << "Looping.." <<std::endl; }
         
         while( getline(configos, lineStr) )
         {
+ 
             if(debug_)
             {
                 std::cout << "CFG: " << lineStr << std::endl;
@@ -310,7 +318,8 @@ void scummtr2po::poToScumm()
     if(configos.is_open()) 
     {
         configos.close();    
-    }        
+    }   
+       
 }
 
 bool stringDuplicated( std::map<int, stringId>& contextMap, stringId& str, int &duplicatedId  )
@@ -345,9 +354,12 @@ void scummtr2po::scummToPo( bool test )
     std::fstream is;
     std::fstream os;
     std::fstream configos;
+    std::fstream extraTranslation;
+
     int lineNumber = 0;
     objects objs = objects(stringsFilename_, "objects.txt");
 
+    extraTranslation.open(translationFilename_, std::ios::in);
     is.open( stringsFilename_, std::ios::in ); 
     os.open( poFilename_, std::ios::out );  
     configos.open( configFilename_, std::ios::out );  
@@ -369,6 +381,11 @@ void scummtr2po::scummToPo( bool test )
             stringId::strReplaceFromCodeToChar ( str.stringId_ );
             std::string strId = str.getMsgId();
             
+            std::string translationStr="";
+            if(extraTranslation.is_open())
+            {
+                getline(extraTranslation, translationStr);
+            }
             
             bool duplicated = false;
             if( str.isNotEmpty() && os.is_open()) 
@@ -401,6 +418,8 @@ void scummtr2po::scummToPo( bool test )
                     // Write POT file 
                     //os << "#. RAW: " << lineStr << std::endl;
                     os << "#. stringId:"<<lineNumber<<"_"<<std::endl;
+                    os << "#. "<< translationStr <<std::endl;
+                    
                     //TODO: Add extra translation
                     //os << str.getReference();
                     os << contextStr;
@@ -428,6 +447,10 @@ void scummtr2po::scummToPo( bool test )
     if(configos.is_open()) 
     {
         configos.close();    
+    }    
+    if(extraTranslation.is_open()) 
+    {
+        extraTranslation.close();    
     }    
 }
 
