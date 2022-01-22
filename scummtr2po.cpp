@@ -454,6 +454,54 @@ void scummtr2po::scummToPo( bool test )
 }
 
 
+void scummtr2po::convertFromAscii( )
+{
+    std::string outputFile = stringsFilename_ +".utf8.txt";
+    if(debug_)
+    {
+        std::cout << "convertFromAscii =========" << std::endl;
+        std::cout << "Strings Filename: " << stringsFilename_ << std::endl;
+        std::cout << "Converted: " << outputFile << std::endl;
+    }
+    
+    std::fstream is;
+    std::fstream os;
+    
+    int lineNumber = 0;
+
+    
+    is.open( stringsFilename_, std::ios::in ); 
+    os.open( outputFile, std::ios::out );  
+    
+    
+    if (is.is_open()){  
+        std::string lineStr;
+        
+        // read strings file line by line and process 
+        while( getline(is, lineStr) )
+        {
+            // Process line 
+            stringId::strReplaceFromCodeToCharWithoutSpecial ( lineStr ,false);
+            lineStr = stringId::removeFinalAt(lineStr);
+            if(os.is_open()) 
+            {
+                os<<lineStr<<std::endl; 
+            }            
+            ++lineNumber;
+        }
+        is.close(); 
+    }
+    
+    if(os.is_open()) 
+    {
+        os.close();    
+    }
+  
+}
+
+
+
+
 /***************************************
  * TEST
  */

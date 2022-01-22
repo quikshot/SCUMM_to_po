@@ -46,7 +46,7 @@ public:
     const std::string createContext(objects& obj, stringId& strId);
     const std::string getHeader(void);
     void addTranslation(std::string lang, std::string translationFile);
-
+    void convertFromAscii();
     void strReplaceTest();
 
 

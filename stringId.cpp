@@ -230,3 +230,51 @@ std::string stringId::removeFinalAt(std::string str)
     }
     return str;
 }
+
+
+void stringId::strReplaceFromCodeToCharWithoutSpecial(std::string& str, bool debug_)
+{
+    if(debug_)
+    {
+       std::cout << "FromCode: input: "<<str<<std::endl;
+    }
+    std::map<std::string,std::string>::iterator it;
+    for (const auto& kv : replaceMapClean_) 
+    {    
+
+        std::string characterToSearch = kv.first;
+        std::string repl = kv.second;
+        std::size_t found = str.find(characterToSearch);
+        while (found != std::string::npos)
+        {
+            // get number and substitute
+            //found. replace
+            str.replace(found, characterToSearch.length(), repl);
+            if(debug_)
+            {
+                std::cout << "FromCode: replace: " << repl << std::endl;
+                std::cout << "FromCode: output: " << str << std::endl;
+            }  
+            found = str.find(characterToSearch,found+repl.length());
+        }
+    }
+    
+    //Check any pending special chars
+    std::size_t found = str.find("\\");
+    while (found != std::string::npos)
+    {
+        //std::cout << "DIGITS: "<< str.substr(found,4) << std::endl;
+        //check if 3 following chars ar digits.
+        if( isdigit((int)(str.substr(found+1,1).c_str()[0])) && isdigit((int)((char)str.substr(found+2,1).c_str()[0])) && isdigit((int)((char)str.substr(found+3,1).c_str()[0])))
+        {
+            
+            str.replace(found, 4, "");
+            found = str.find("\\",found);
+            continue;
+        }
+        
+
+        //find next substitution in string
+        found = str.find("\\",found+1);
+    }    
+}

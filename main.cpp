@@ -58,6 +58,7 @@ int main(int argc, char** argv)
         ("i,import", "import translations to game", cxxopts::value<bool>()->default_value("false"))
         ("t,test", "duplicate string as translation", cxxopts::value<bool>()->default_value("false"))
         ("d,debug", "Enable debugging", cxxopts::value<bool>()->default_value("false"))
+        ("convertFromAscii", "convert strings file from ascii.output extension.utf8.txt", cxxopts::value<bool>()->default_value("false"))        
         ("h,help", "\nexport:\n   scummtr2po -e -s stringsEN.txt -p atlantis.pot\nimport:\n   scummtr2po -i -s stringsEN.txt -p ca.po\n")
     ;
     options.custom_help("-i/-e -s STRINGS_FILE -p PO_FILE [-d] [-h] [-c CONFIG_FILE]");
@@ -70,8 +71,7 @@ int main(int argc, char** argv)
       exit(0);
     }
     
-    // Check parameters
-    
+
     // Check options are correct:
     importTr = result["import"].as<bool>();
     exportTr = result["export"].as<bool>();
@@ -84,8 +84,10 @@ int main(int argc, char** argv)
     }
     // Check filenames are provided and exist
     fileStrings = checkParameterIsSetAndFileExists( result, "strings", "Provide: -s STRINGS_FILE" );
-    filePo = checkParameterIsSetAndFileExists( result, "po", "Provide: -p PO_FILE" );
-        
+    if( !result.count("convertFromAscii") )
+    {
+        filePo = checkParameterIsSetAndFileExists( result, "po", "Provide: -p PO_FILE" );
+    }   
     if( result.count("config") == 1)
     {
         fileStringsConfig = result["config"].as<std::string>();
@@ -123,9 +125,10 @@ int main(int argc, char** argv)
     
     scummtr2po converter = scummtr2po( fileStrings, filePo , fileStringsConfig, debug );
     
-    auto& ff = result["add-translation"].as<std::vector<std::string>>();
     if( result.count("add-translation") )
     {
+        auto& ff = result["add-translation"].as<std::vector<std::string>>();
+        
         int i=1;
         for (auto& translationFile : ff)
         {
@@ -143,7 +146,13 @@ int main(int argc, char** argv)
     // Execute action: import or export.
     if( exportTr )
     {
-        converter.scummToPo( test );
+            // Check parameters
+        if( result.count("convertFromAscii") )
+        {
+            converter.convertFromAscii();
+        }else{
+            converter.scummToPo( test );
+        }
     }
     else if ( importTr )
     {

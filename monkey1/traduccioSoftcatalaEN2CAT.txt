@@ -1,0 +1,5858 @@
+jungla
+rems i rems
+jungla
+jungla
+jungla
+És una gran ampolla vella.
+No ho vull.
+ampolla
+nota
+Herman Toothrot
+Hi ha un missatge!
+És una memòria
+Hmm.
+Sona com el legal.
+No crec que pugui traduir la resta.
+platja
+platja
+esquer
+
+@
+tureture
+@
+@
+..............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+..............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+platja
+fort
+pond
+bifurcació
+llit sec
+riu
+pond
+llit sec
+neteja
+platja
+riu
+platja
+poble
+llibre pols
+tinta
+No tinc res important a escriure.
+Mai ho faig.
+Sembla un bolígraf de ploma de punta.
+ploma
+Sembla un pit buit.
+Sembla un vell cofre del tresor.
+pit
+És massa pesat per portar a qualsevol altre lloc.
+Mira!  Un tros de paper.
+I alguns pals de canyella.
+El pit és buit.
+És aquest pit de metall pesat que vaig portar aquí.
+pit
+pit
+Sembla un pit metàl·lic molt pesat.
+pit
+El gabinet ja està obert.
+Sembla estar tancat.
+És el bon govern del capità.
+gabinet
+Hi ha un llibre vell i polsós dins.
+A veure què és.
+És buit.
+Sembla el calaix del capità.
+calaix
+porta
+És la part superior d'una caixa de cereals, utilitzada com a marcador.
+marcador
+paper
+bastons de canyella
+Està fet!
+Ha de ser .dealer-prep..
+Hi haurà temps per a això més tard.
+El llit del capità
+Estic condemnat.
+Diu:
+El registre del capità, 10 de març..
+.El meu company Toothrot i jo hem estat buscant el Monkey IslandTM durant més d'un mes sense èxit..
+Les direccions que vam comprar a Mlélée van demostrar ser una recepta, no un mapa com havíem cregut..
+El registre del capità, 12 de març..
+(Riures)
+.El registre del capità, 17 de març..
+(Riures)
+El registre del capità, 23 de març..
+La trompa està començant a posar-me els nervis. Suposo que només és qüestió de temps abans que esclatem..
+. Registre del capità, 2 d'abril..
+.Com un gest per restaurar la nostra amistat, Toothrot es va oferir a arreglar el sopar aquesta nit .
+El registre del capità, 3 d'abril..
+.No sé com ho vam fer, però hem arribat a Monkey IslandTM..
+.Both Toothrot i jo vam sortir de la sopa que va arreglar ahir a la nit, quan vam despertar, Monkey IslandTM estava assegut fora de l'arc .
+.El registre del capità, 4 d'abril..
+ooToothrot i jo vam omplir el vaixell de rems amb subministraments i estem preparats per anar a Monkey IslandTM..
+.Estem excitats davant la perspectiva de ser la primera gent civilitzada a aprendre el secret de Monkey IslandTM..
+El registre del capità, 5 d'abril..
+Vam haver de girar i tornar al vaixell.  Toothrot va oblidar anar al bany abans de marxar..
+againSe'n sortirem demà..
+Aquesta és l'última entrada.
+
+Home, és pesat.  Emplenat, sens dubte, amb or i joies.
+escala
+AU! Pólvora!
+Crec que me n'aniré una mica.
+M'emportaré una mica més.
+Tinc prou pólvora per ara.
+S'assemblen a cadells de pólvora.
+kegs
+És a .
+peça de corda
+tros petit de corda
+tros petit de corda
+corda
+corda infinitament petita
+tros gegant de corda
+
+
+
+
+
+Aquí hi ha un bon vi.
+L'agafaré.
+
+És buit.
+Sembla el pit d'un pirata vell.
+pit
+Estan oxidats.
+Només són vells troncs rústics.
+troncs
+Estan buits.
+Només són vells barrils buits.
+kegs
+Sembla explosiu.
+pólvora
+Tots estan plens de ruscs.
+Només són cofres vells.
+pits
+S'ha tancat.
+Només és un vell pit rovellat.
+pit negre
+Un bon ram.
+Crec que ha de respirar a temperatura ambient durant un temps més.
+No soc enòleg, però si s'ha de jutjar pel color vermell profund^
+És un bon vi.
+bon vi
+Yech!!!
+La inqüestionable estendard de micos!!!
+Tot aquest vaixell fa olor de primats calents i suats.
+Sabia que l'hauria d'haver dut a una vela de prova.
+Em penso que em faran mal.
+Està tancat.
+finestra
+escala
+ombreig
+porta
+
+
+
+@
+@
+
+El secret de l'illa Monkey -- versió CD-ROM 2.3b
+
+Joc en pausa.  Premeu ESPAI per continuar.
+Insereix el disc per cent i premeu el botó per continuar.
+No es poden trobar els percentatges, (%c%d) prémer el botó.
+Error en llegir el disc per centc, (%c%d) Premeu Botó.
+Confirmes que vols reiniciar?  (Y/N)Y
+Segur que voleu sortir?  (Y/N)Y
+Reinicia
+Codi de pas actual
+Introduïu el codi
+Codi de pas no vàlid
+N'estàs segur?
+Desa
+Carrega
+Reprodueix
+Cancel·la
+Surt
+OK
+Insereix un disc de partida de desament/càrrega
+Heu d'introduir un nom
+No s'ha desat la partida
+No s'ha carregat la partida
+S'està desant «%s»
+S'està carregant «%s»
+Nom de la partida de desament
+Seleccioneu un joc a CARREGAR
+Guybrush
+
+seltzer
+seltzer
+seltzer
+És massa fosc veure-ho.
+No hi puc arribar.
+Crec que aconseguiria millors resultats amb el lloro.
+No sembla obrir.
+No puc moure-la.
+No hi veig res especial.
+No puc recollir això.
+No puc arribar a això des d'aquí.
+Sembla que això no funciona.
+La valoració de la màquina és la velocitat
+Segur que voleu guanyar? (S/N)
+Màquina Molasses.
+Màquina legal de carrer.
+Màquina d'unitat de transmissió.
+L'actor seleccionat és
+Color de la conversa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dona'm el maleït vaixell.
+
+
+
+Passa a
+Dona
+Obre
+Push
+Parla
+Tanca
+Pull
+Selecciona
+Utilitza
+Mira
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a
+amb
+a
+a
+<ADVERTISEMENT>
+
+
+
+
+Hmm.  Sembla que aquesta porta està tancada.
+Va intentar completar el judici dues vegades.  AIXÒ ÉS DOLENT!
+S'ha intentat completar el judici no vàlid:  AIXÒ ÉS DOLENT!
+Threepwood
+Profunditat al Carib
+
+
+
+L'illa de Mlélée
+
+
+
+
+TM . (c) 1990 LucasArts Entertainment Company.Tots els drets reservats.
+
+
+Creat i dissenyat per en Gilbert
+
+
+Escrit i programat perDave Grossman, Tim Schaferand Ron Gilbert
+Escrit i programat perTim Schafer, Ron Gilbertand Dave Grossman
+Escrit i programat perRon Gilbert, Dave Grossmanand Tim Schafer
+
+
+
+Conversió CD-ROM byAric Wilmunder, Wallace Poulter i Sean Clark
+
+
+BySteve Purcell, Mark Ferrari i Mike Ebert
+
+
+Animació bySteve Purcell, Mike Ebertand Martin Cameron com `Bucky`
+
+
+
+Art addicional de TamiBorowick, JamesDollar, BillEaken, AvrilHarrison, IainMcCaig, JimMcLeod, MichaelStemmle, SeanTurner i Especial gràcies a BradTaylor, PeterChan i RonLussier
+
+Música original deMichael Land^
+
+^Barney Jones i Andy Newellof earwax productives^
+
+dyandPatrick Mundy
+
+
+IBM Sounds byMichael Land, Peter McConnell, i J. Anthony White
+
+
+Proves per Judith Lucero i Kirk Roulston
+
+
+Biaix de prova de CD-ROM Hinnenberg
+
+
+TestersBretBarrett, MarkCartwright, WayneCline, JimCurrent, DaveDahle, JustinGraham, CarlaGreen, JamesHampton,
+
+
+MikeKerry, KirkLesser, BretMogilefsky, AaronMuszalski, LizNagy, EzraPalmer-Persen, BarryGysbers, JoAshburn, JonVan, i J'Fretless'AnthonyWhite
+
+
+Projecte IBM CD-ROM Lead byAric Wilmunder
+
+
+IBM CD-ROM System byAric Wilmunder
+
+
+Produït per ByGreg Hammond
+
+
+Projecte IBM CD-ROM Produït perBrenna Kruppa-Holden
+
+
+Sistema d'història deRon Gilbert, Aric Wilmunder,Brad Taylor i Vince Lee
+
+
+camí avall
+És la mateixa roca que vaig posar allà.
+Sembla que algú ho ha posat aquí a propòsit.
+Ja era prou difícil portar-la aquí.
+No crec que ho vulgui.
+rock
+roques
+Vaja!
+Semblava que colpejava el gran plàtan de la platja!
+Aposto que les probabilitats contra això són increïbles!
+Va arribar a prop, però no crec que ho torni a colpejar.
+Aquell tret va ser un d'un cílion!
+Ho posaré aquí.
+Ja n'hi ha un.
+Què vull amb una gran roca?
+Arbre de la fusta!
+Herman Toothrot
+Whoops^
+És el segon cap de mico més gran que he vist mai!
+cap de mico gegant
+jungla
+Yipes.
+cranis
+Eep.
+cranis
+No anirà així.
+Vaja!
+No crec que pugui aconseguir que es quedi aquí.
+nas
+pol
+pol
+cadàver
+cadàver
+cadàver
+PRIVATEPROPIETAT PRIVADA`
+.L'oració està permesa, però si us plau no entreu al cap de mico.
+`... G.P. LeChuck`
+símbol
+Noi, deu estar cansat.
+Ook
+Ook
+Eep
+mico
+Shish keBob
+Shish keJoe
+Shish keLarry
+L'artista li va tallar el seu nom:
+byFerida per l'Skrull Vermell..
+.Ferida per Sharptooth..
+Herman Toothrot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Està ple de merda. Espero no haver de menjar això.
+Sembla la teva olla de cuina de la nau.
+No posaré res més en aquesta olla!
+No tinc una recepta.  No sabria on començar a fer sopa.
+cuiner
+Molt bonica i calenta.
+Ouch, està calent!
+Veuen a pensar-hi, només ballen lliçons.
+Per què cremar un menjar perfectament bo?
+Sí, com si volgués matar-me.
+Potser ho necessito més tard.
+Els cremaré a tots.
+No crec que vagi a incendiar-se.
+Ouch, està calent!
+foc calent vermell
+Hmmmm^
+M'encantava això quan era una nena.
+M'agradava la manera en què es mastegava la teulada de la boca.
+Engreix
+GENIAL!
+Un premi de joguina dins.
+Ja estic massa malalt per menjar.
+cereal
+Hmmmm^
+M'encantava això quan era una nena.
+M'agradava la manera en què es mastegava la teulada de la boca.
+cereal
+arma
+És de la mateixa mida que el meu cap.
+Només ho posaré si ho he de fer.
+pot
+escala
+Yikes!
+Ja està cremant.
+No voldria incendiar-ho.
+massa flamejant
+No és cap premi!
+És una petita clau amb un mico finament gravat.
+És una petita clau amb un mico finament gravat.
+tecla petita
+Sembla que aquesta clau no encaixa aquí.
+tecla petita
+
+Em sento horrible.
+Fsspt.
+Grrfk.
+Psspert.
+Aaak.
+Blfftp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yikes!
+Em penso que m'estic posant marejat!
+Supervinguda pels fums i la pudor, Guybrush perd ràpidament la consciència.
+
+
+
+Moments més tard, l'encanteri voodoo s'introdueix, apagant el vaixell a un rumb desconegut i en el seu misteriós viatge.
+
+
+Pas de dies
+
+
+
+premi
+bastions
+pólvora
+presa
+Oh, és clar.  Camineu cap al sol.
+No vull encegar-me!
+el sol
+Jo també m'emportaré aquesta flint.
+Jo també agafaré aquesta roca interessant.
+nota sota la roca
+No soc geòleg, però si s'ha de jutjar per aquestes fractures concoideals^^
+Diria que això és un tros de sílex!
+ntnt
+Com he dit, és flint.
+Ho comprovaré mentre hi sigui.
+Flint funciona millor amb coses fetes d'acer.
+rock a la part superior de la nota
+camí a la jungla
+camí a la jungla
+presa
+Noi, segur que fa calor aquí.
+És massa fosc aquí.
+riu
+bastions
+nota
+camí avall
+És una representació incisiva de la futilitat de man^
+O és un tronc i un parell de roques.
+art primitiu
+art primitiu
+No anirà més enllà.
+L'oceà és bonic d'aquí The
+Hi ha una mica de runes a la dreta.
+I hi ha la meva nau a la dreta.
+Hi ha restes flotants on solia ser el meu vaixell!
+Escolta, puc veure la meva nau des d'aquí!
+Quin tros de brossa!
+Hi ha algunes restes a l'esquerra the
+Hi ha la meva nau a l'esquerra
+I el gran arbre a la platja de la dreta.
+Puc veure aquest gran plàtan a la platja!
+Quina jungla!
+Hi ha el gran plàtan a la platja de l'esquerra.
+La selva és força gruixuda
+alltot el que veig és un munt d'animals menjant-se els uns als altres!
+Escolta, puc veure l'observació a Mlélée IslandTM!
+Em mira!
+El que no donaria per un globus d'aigua bonic, gran ara mateix.
+barca
+Quina bonica bandera.
+Talla'm les fustes mirant-ho.
+Jolly Roger
+Sembla guapo.
+aturada
+jungla
+Sembla fort.
+branca forta
+No crec que els pugui lligar.
+És un parell de rems.
+re
+Aquí no hi ha plàtans.
+La corda no és prou llarga per arribar al terra del canyó des de l'arbre.
+Ho provaré amb aquesta branca.
+arbre
+És espantós, i no vaig més enllà.
+Què hi ha allà baix a la esquerda?
+porta
+ombreig
+No hi ha lloc per posar la pólvora.
+Això no funcionarà.
+No hi ha fusible.
+canó
+Déja vu!
+Això no funcionarà.
+No tinc cap desig de sortir a la mar.
+De cap manera!  M'obriré el cap quan aterri!
+És massa perillós pujar allà fora sense cap raó.
+canó
+Està lligat.
+escala de corda
+Quins porcs mandrosos.
+Què era això?
+Res.
+Sí, el que no donaria per poder penjar-los.
+No crec que això vagi a ajudar a la situació.
+Tinc la sensació que no són els que s'utilitzen aquí.
+No crec que la violència sigui la resposta^
+Encara que em faria sentir millor.
+Què era això?
+Res.
+tripulació mutinosa
+És massa lluny per caminar, i a més, no puc nedar.
+AU!!!  Això valia bé $59.95 + Impost
+Monkey IslandTM
+fus
+Primer de tot^
+M'agradaria dir que és fantàstic estar treballant amb una tripulació tan bona.
+El viatge que ens espera no serà fàcil.
+Prendrà l'habilitat, la resistència i, sobretot,^
+TREBALL EN EQUIP.
+Primer vaig pensar que assignaríem alguns deures.
+Què ens ha tocat tornar a fer?
+He fet una llista.
+«Suckered» té raó.
+No veig què és el gran problema de rescatar el governador.
+És clar que pot cuidar-se d'ella mateixa.
+La manera en què la miro
+Tenim aquesta gran nau
+wellpera^
+Tenim un vaixell.
+Per què no tornem, lligar una corda a la roda i creuar durant un temps.
+Podria fer una petita feina en el meu tan.
+Vine a pensar-hi, m'han destacat una mica últimament.
+Podria fer servir un descans.
+Llavors es decideix
+Hem creuat el Carib.
+--sigh--
+Hey look^
+L'hem fet a Monkey IslandTM
+Fes-nos saber quan has trobat el Governador the
+Tenim una cadira extra que pot utilitzar.
+No crec que vagin a ser de gran ajuda.
+Ho tens.
+No crec que vagin a ajudar.
+Què era això?
+Res.
+Ei, nois, què passa?
+Hi ha alguna cosa que pugui fer per ajudar-me?
+He sentit que el temps ha acabat bastant bé amb Monkey IslandTM.
+Ei!  He trobat un mapa a Monkey IslandTM.
+Us donaré cinc segons de silenci per arribar als vostres sentits!
+Crec que tornaré a cuidar la nau.
+Treu-ho, Guybrush.
+Bon intent, Guybrush, però sense plàtan.
+Llavors començaré a fotre una mica de cul!
+Disculpa'm Guybrush^
+?T'importa la paraula 'keelhaul'?
+Veig el seu punt, gràcies.
+Keelhaul /K.(e)l-hol 1: transportar sota la quilla d'un vaixell com a càstig o tortura.
+Veig el seu punt, gràcies.
+Em sap greu, Guybrush^
+- Estàs bloquejant el sol.
+I?
+Sí!
+I?
+Déu meu, Bladders!
+És Monkey IslandTM.
+
+
+
+És millor que ho deixi aquí.
+paper
+Sembla que gairebé estan llestos per a demolir l'arbre.
+plàtans luxosos i sucosos
+Mmm.  Aquests són uns plàtans d'aspecte luxós!
+arbre
+Segur que pots veure tota l'illa des d'allà.
+Aquest és el lloc amb la gran vista.
+roca amb torre
+Profund.
+Fos.
+Prohibició.
+jungla
+És estrany
+Diu .Sea Monkey..
+barca
+Alguns plàtans van caure de l'arbre!
+plàtans
+És groc.
+plàtan
+És groc.
+plàtan
+Sembla un gran cul de cotó.
+clau de cap de mi
+És groc.
+plàtan
+nota
+rems i rems
+rems i rems
+El puc remoure amb aquests rems.
+No tinc res amb el que bregar.
+mico
+ook
+ook
+ook
+Hola!
+Soc en Herman Toothrot!
+No et molestis a dir hola.
+Només he estat esperant vint anys per parlar amb algú civilitzat, no m'importa.
+Bé.
+Per cert, potser voldries pensar a fer fora aquest foc.
+Algú podria estar ferit.
+
+ICENOTÍCIA DE LA REUNIÓ PÚBLICA`
+WednesdayHi haurà una reunió el dimecres a la tarda per discutir la recent ocupació del cap de mico sagrat pel pirata fantasma LeChuck^`
+andi l'impacte posterior en el medi ambient i el comerç turístic.
+AllS'anima a tots els caníbals de l'Illa de Monkey a assistir..
+
+Mai em canso d'aquesta visió.
+Fins i tot si l'he estat observant des de fa vint anys.
+Encara que sigui l'única vista de l'illa.
+És un vell amic meu, el que vaig navegar aquí.
+Ha perdut pes.
+Mai va estar millor.
+Aquell cap de mico és una mica de feina, eh?
+No obstant això, el cas Nasty de l'acumulació de cera groga.
+Hola!
+Estava buscant els nadius, per aconseguir que tornessin el meu pirata de plàtan
+Però no els puc trobar.
+Mira el fabulós vaixell allà fora!
+Has vingut en això?
+Has vingut a la nau que vaig veure allà fora?
+Ets més valent del que mires.
+De fet, sembla molt com un vaixell que solia posseir
+
+Sí, és una bona visió.
+No m'importa.
+Què li ha passat?
+Sembla força dolent
+Vaig veure un mico que marxava d'aquí.  Ho deu haver fet.
+Ho sento.
+Hauria trucat, però no podia trobar una porta.
+He tocat.  No ho has d'haver sentit.
+Sí, és bastant impressionant.
+Què?
+M'ha agafat un paio anomenat Stan^
+Què vols dir?
+Deixa'm en pau, oi?
+Um^
+Em temo que me n'he d'anar ara.
+Premsa, ja saps.
+--
+No siguis un idiota.
+Oh, accident desagradable.
+Intentava fer un gronxador.
+Seria una gran atracció turística, si algú pogués trobar l'illa.
+Bé, està bé.
+La pròxima vegada serà més prudent.
+Stan of Stan's Used Ships?
+A M?lée IslandTM?
+Heh heh heh
+Ei, no ho toquis.
+És l'únic que tinc.
+Mai el vas veure quan encara era viu!
+No m'enganyes, fill.
+Res.
+No importa.
+Ets una mena d'escapada?
+Com és, el cuidador?
+Escolta aquest paio:
+Soc una mena d'escapada?
+Heh.
+
+Pensava que aquesta illa estava deshabitada.
+Qui ets?
+Amb qui parles?
+Crec que ara me'n vaig.
+Bé, has pensat malament.
+Jo?
+Per què, la gent observa, és clar.
+Segur.
+Em dic Toothrot.  Herman Toothrot.
+Viu aquí.
+Bé, no aquí.
+Al fort del volcà.
+Vas quedar encallat?
+Creus que em quedo aquí per la meva salut?
+Hoo, noi.
+
+
+Com et vas quedar atrapat aquí?
+Així que no ets l'únic de l'illa?
+Ets l'únic de l'illa?
+Has prestat alguna cosa als caníbals?
+Soc en Guybrush.  Soc aquí per rescatar algú.
+Dius que tens una clau dels locals?
+Tinc el teu pirata.
+Per què no em dones la clau del cap de mi?
+Què li va passar als pantalons?
+Perdona, tinc un negoci urgent que cuidar.
+Sí, jo també.
+--
+Vaig navegar aquí amb un amic meu fa vint anys.
+Esperàvem descobrir el Secret de Monkey IslandTM.
+Però el meu amic es va trobar amb un accident terrible i tràgic
+hisque va reclamar la seva vida^
+I jo no podia navegar de tornada a la nau.
+Vaig entrenar un munt de ximpanzés per tripular el vaixell i tornar a l'Illa Mlélée.
+Se suposava que havien de rebre ajuda i tornar per mi^
+Alguna cosa ha d'haver passat.
+Com és que no vas anar amb els ximpanzés?
+SETMANES en un vaixell ple de micos.
+Oh, alegria.
+
+Soc l'única persona CIVILitzada de l'illa.
+Hi ha una tribu nativa de caçadors/recol·lectors--
+--well, HEADhunter/gatherers, en realitat--
+- Però no els parlo.
+Són caníbals, però no són perillosos^
+lessPer descomptat que els prestes alguna cosa.
+
+Bé, aquí estic.
+M'alegro que hagis vingut a rescatar-me...
+- Encara que potser havies estat una mica abans.
+La multa d'aquest llibre de la biblioteca hauria de ser força gran ara mateix.
+Anem.
+Er^
+Això no és exactament el que volia dir.
+Vaig navegar aquí perseguint al governador de Mlélée IslandTM, que ha estat segrestat per un fantasma.
+Bé, no em rescatis.
+M'agrada aquí.
+La pluja al cap, el vent a l'esquena
+sels errors de la meva placa^
+Um^
+Bé, potser podria portar-te de tornada també^
+Però primer hauré de trobar el Governador.
+Això no és cap problema.
+Estic segur que està en el vaixell fantasma, en l'amagatall secret subterrani.
+De debò?
+Com ho saps?
+Com puc arribar-hi?
+El camí més fàcil és a través de l'ídol del cap del mico.
+Vaig entrar-hi jo mateix, fa anys.
+Necessitaràs una clau per obrir-ho.
+En tinc un d'alguns dels locals.
+
+Però primer he de rescatar el governador.
+Crec que està en el subterrani de la nau fantasma.
+Oh, d'acord.
+
+Els vaig deixar el meu recollidor de plàtans, i mai la van retornar.
+Com a col·laterals em van donar aquest enorme panís de cotó.
+Obre el cap de mico, veus?
+Obre l'ídol del cap del mico que adoren.
+No com si mai hagués d'anar al cap de mico
+Però si ho volen, primer he de tenir el meu piquet.
+És una qüestió d'orgull, saps?
+
+
+Et vaig dir que em manllevaven el meu pirata de plàtan i que mai el tornava, oi?
+Quins pantalons?
+No, ho necessito per recuperar el meu pirata de plàtan.
+
+
+
+Gràcies!
+Pensava que mai tornaria a veure això!
+Aquí, pots portar aquesta clau al cap de mico als nadius.
+D'ACORD.
+I no et preocupis, no l'utilitzaré ni res.
+No, gràcies, en tinc un.
+No obstant això, tant de bo pogués trobar-la.
+Què em farà?
+EI, RESPIRADORS!
+Això és el que més trobo a faltar en la civilització.
+Els diners no són gaire bons aquí.
+Ja he llegit prou notes per durar una vida.
+No, gràcies, tinc el meu, encara que algú els va llançar a un abisme.
+Què em farà?
+Està imprès a la capçalera!
+:A l'Illa de Monkey Cannibals::
+.Si us plau, deixi de moure això..
+.És delicadament equilibrat..
+Her--Herman Toothrot--`
+rSr. Toothrot :
+.Suprimiu aquest objecte perillós.
+.Lemonhead li va colpejar una roca des del penya-segat de dalt i gairebé va ferir algú que estava fent un gronxador al plàtan de la platja del sud .
+LLemonhead li va colpejar una roca des del penya-segat de dalt i gairebé va enfonsar un vaixell que passava..
+---els caníbals`
+thePer al pirata fantasma LeChuck::
+(Hem de demanar-li una vegada més que interrompi les seves activitats nocturnes en la zona del cap de mico sagrat).
+!Decent gent intenta dormir!`
+.Descandalitza el nivell de soroll .
+Mon--El Monkey IslandTM Cannibals`
+PP.S.--`
+!T'hem vist portar aquesta dona amb la bufanda allà baix! !
+:A l'Illa de Monkey Cannibals::
+worshipNo m'importa que adoreu davant de l'Idol de la Micola Sagrada que es doblega com a base de les meves operacions a casa i secreta^`
+.Per favor, podria abstenir-se de deixar sacrificis desordenats al meu porxo .
+.Per favor, no entris al cap de mico .
+`--G.P. LeChuck`
+thePer al pirata fantasma LeChuck::
+mustHem de protestar per la teva 'adquisició' del nostre voodoo antiroot .
+!Sabem que representa un perill per a tu i la teva tripulació, però això és un robatori!!
+Mon--El Monkey IslandTM Cannibals`
+HerHerman--`
+.Si us plau retorneu la nostra clau al cap de mico .
+---els caníbals`
+sCannibals--`
+.No et donaré un fill de puta la teva clau al cap de mico fins que tornis el meu pirata de plàtan .
+.--H.T.`
+HermanPer Herman Toothrot`
+atDe Yammer, Hem i Haw, advocats de la llei`
+.Rea demanda contra la tribu caníbal per llançar maliciosament els vostres rems a un xasm..
+.Crec que tenim un cas aquí..
+.Potser els podem escalfar per angoixa emocional i possiblement també per danys punitius .
+
+notes
+unes quantes notes
+diverses memòries
+un munt de notes
+una pila d'anotacions
+un munt de memòries
+massa notes
+ntnt
+roca notable
+Hola!
+Em penso que em vaig a buscar.
+He d'afanyar-me i rescatar el governador i sortir d'aquesta illa!
+Soc aquí per rescatar el governador de Mlélée IslandTM.
+Soc un pirata poderós.
+Veient pirates grans, lletjos i espantats per aquí?
+Hi ha res de bo per menjar en aquesta illa?
+Porta'm al teu líder.
+Sempre fa tanta calor aquí?
+jungla
+jungla
+No crec que estigui interessat.
+No fins que caigui.
+Sembla molt famolenc.
+Encara té gana.
+Sembla feliç.
+Governador Elaine Marley.
+T'he donat l'ídol, oi?
+Així que, només ho manllevaries, oi?
+Així que el meu ídol pertany a un museu, eh?
+Així que els líders pirates et van fer fer-ho, oi?
+Em vas treure el meu ídol per un petit respirador, oi?
+Uh^
+Gee^
+Well^
+Gosh^
+Relax, Sr. Threepwood.
+Sé per què ets aquí.
+Creu-me, no ets el primer que ho ha intentat.
+Encara que, haig d'admetre, no molts arriben tan lluny com tu.
+Er^
+Um^
+Golly^
+Jeepers^
+El meu guant em va dir de la teva arribada.
+Volia conèixer-te des que vaig sentir el teu nom fascinant.
+Digue'm, Guybrush, per què vols ser pirata?
+No sembles un.
+La teva cara és massa^
+Estupefaent.
+Blfft^
+Grlpyt^
+Hrdrl^
+Rldft^
+Veig
+Bé, és clar que no estàs de l'humor de fer un raix inactiu, oi?
+Suposo que tens moltes coses més interessants que fer.
+Ja no t'agafaré més temps, Sr. Threepwood.
+Bgglw!
+Mfrnkf?
+Dmnkly^
+--sigh--
+
+Realment m'agradaria saber com parlar amb les dones.
+D'una manera primitiva, però efectiva, està tancada.
+Crec que puc entrar aquí ara.
+porta
+Hmmm.  Uns plàtans bonics i sucosos!
+plàtans
+Sembla una mica exagerat, excepte aquells bonics i sucosos plàtans!
+No queda res més que fruita dolenta.
+Només vull aquests plàtans.  L'altra fruita sembla una mica més enllà del seu primer.
+No gràcies.  La resta no és bona.
+bol de fruita
+Crec que estan esperant que els doni alguna cosa.
+caníbals
+Crec que estan tenint una discussió seriosa.
+nadius amics
+No crec que treballés molt bé si ho fes.
+Preferiria agafar a algú de la meva mida.
+Crec que vol que vagi a l'esquerra.
+Crec que vol que vagi a la dreta.
+Crec que vol que vagi al front.
+Crec que vol que vagi a l'esquena.
+Crec que és una mica confús.
+cap del navegador
+No crec que funcioni molt bé si ho fes.
+No vull tocar-ho més del que he de fer.
+És espècia i goopy i està al meu coll.
+És espúblic i goopy.
+collaret al navegador
+No seria una bona idea treure-ho d'aquí.
+Ja ho té.
+Em sembla que millor que m'hi quedi.
+No seria una bona idea treure això d'aquí.
+collaret al navegador
+No pots tenir-ho.
+És meva.
+No ho necessito aquí...
+No hi ha fantasmes al voltant.
+No puc posar-ho ara... tinc el cap espantat.
+collaret al navegador
+S'està barallant amb ell mateix.
+Fils i sense pantalons, com és habitual.
+Potser no és savi.
+Herman Toothrot
+Per què?  És buit.
+hut
+Per què?  És buit.
+hut
+Per què?  És buit.
+hut
+Per què?  És buit.
+hut
+Per què?  És buit.
+hut
+No puc veure dins des d'aquí.
+Però aposto que està buit.
+hut
+Sembla gran i buit.
+Ja està obert.
+No vull acostar-me a aquesta cosa.
+Podria ser rematat amb un booby.
+
+cap de pedra
+jungla
+És groc.
+plàtan
+És groc.
+plàtan
+natiu
+natiu
+natiu
+És un plàtan a la butxaca, o simplement t'alegra veure'ns?
+Has robat molt de nervis als notoris caníbals Monkey IslandTM!
+Ets caníbals?
+Bé, sí.
+Encara que últimament hem estat intentant allunyar-nos de la carn vermella.
+Només per motius de salut.
+Encara som tan viciosos com sempre.
+Especialment amb turistes que intenten robar les nostres coses per records.
+Bé, què has de dir per tu?
+Ah, el lladre del plàtan torna a l'escena del crim.
+Potser hauríem de menjar-lo ara mateix.
+Tens idea de quant de colesterol hi ha en una d'aquestes coses?
+Llavors, com vas sortir de la nostra cabana i per què vas tornar?
+Bé, bé, bé.
+Ets l'artista de fugida, oi?
+Et vaig dir que l'havíem de menjar.
+La manera de sortir és gairebé un misteri com per què segueixes tornant.
+El veritable misteri és per què no s'està enfonsant amb les pastanagues ara mateix.
+No sé si això s'avorreix per tu, però és segur per mi.
+Què ara?
+
+No em mengis!  Soc un pirata poderós!
+No em mengis!  Et donaré res!
+Endavant i menja'm.  Mira si m'importa.
+Mira darrere teu!  Un mico de tres caps!
+Això vol dir que la seva pell serà coriosa i la seva carn dura i decorada.
+No ens serveix de res, parlant nutricionalment, but,
+Sí, sí.  Ho sabem.
+Alguna cosa?
+Hmmm^
+OK^
+Ei, el que diguis!
+Ha!
+No tornarem a caure per aquest vell truc.
+Ei!
+Realment creus que som tan estúpids?
+No l'empenyia si fos tu.
+Suposo que et menjarem ara.
+Tret que
+Si tinguessis algun tipus d'oferta per a nosaltres^
+thealguna cosa que podríem passar al Gran Mico^
+
+Us donarem una oportunitat més de comerciar alguna cosa vostra per la vostra llibertat.
+
+Bé?
+Ah, la clau del Gran Mico.
+Moltes gràcies.
+Per què no et quedes amb això ara?
+Ah, una d'aquestes brúixoles magnètiques.
+Massa alta tecnologia.
+Sí, dona'm un bon cap desembossat de moda en qualsevol dia.
+
+No ho podíem acceptar.  Ja ens has donat molt.
+Apreciem les fibres naturals, però no gràcies.
+Un pollastre de goma amb una politja al mig?
+No gràcies.  Ja en tenim un.
+Ho sento, ja en tenim molts.
+Ha!
+La teva moneda no significa res per al Gran Mico!
+De debò creus que volem això després que hagis tingut les teves potes arrugades?
+Gràcies, però ja tenim un dels nostres.
+No crec que el Gran Mico volgués això.
+Ja en tenim un.
+Sí.  No, gràcies.
+Què faria el Gran Mico amb això?
+Vinga, pots fer-ho millor que això.
+Tens alguna cosa més espiritual?
+No és un artefacte digne del Gran Mico.
+Òbviament, no té res per a nosaltres.
+Ei, vaja!
+Això és impressionant!
+LEMONHEAD!!!
+Mira això.
+És bonic.
+I diu: MFadat per Lemonhead`^
+- Com un dels meus!
+Hauríem de portar-ho al Gran Mico.
+Sí, estic d'acord.
+Li estem molt agraïts per aquest bon regal.
+Si hi ha alguna cosa que necessites a Monkey IslandTM, veniu a veure'ns.
+
+No aniràs enlloc fins que ens donis alguna cosa.
+Sí.  Encara buit.
+És una cabana buida.
+Aquesta cabana està molt buida.
+Noi, aquesta és la cabana més buida que he vist mai.
+No hi ha dues maneres... aquesta cabana està buida.
+Aposto que si mirés !buida! al diccionari, hi hauria una foto d'aquesta cabana!
+Has tornat per deixar-nos pagar pel teu bon regal?
+Bé, de fet, hi ha alguna cosa^
+No gràcies.  La generositat és una recompensa pròpia.  Adeu.
+Bé, si hi ha alguna cosa que necessites de nosaltres, fes-nos saber.
+Gràcies.
+Quin paio!
+Digue'ns.  Què és?
+Busco algú.
+Necessito un vaixell.
+Podreu tripular un vaixell?
+Els diners.  Vull diners.
+Pensant en segon lloc, ja has fet tant^
+Com has arribat aquí si no tens un vaixell?
+Bé, aquesta gran roca va caure del cel
+Ja ho veig.  No diguis res més.
+Bé, ho sento, però no tenim un vaixell.
+
+No, ens quedem lluny del viatge per mar.
+És massa difícil aconseguir tota la vitamina C que necessites quan ets en un vaixell per períodes prolongats.
+
+Això no és exactament el que teníem al cap.
+
+Hi ha alguna cosa més que puguem fer per tu?
+Aquí?
+A Monkey IslandTM?
+Som l'única gent que viu a Monkey IslandTM.
+Bé, l'única gent civilitzada.
+
+Està bé. La gent que busco no viu.
+Està bé. La gent que busco no està civilitzada.
+Ai.  Suposo que vaig arribar a l'illa equivocada.  Disculpa'm.
+Busco 30 nois morts i una dona.
+No crec que vulgui sentir res més sobre això.
+Espera, potser està parlant d'aquells pirates morts.
+Sí.  AQUESTS PAIOS.
+Llavors has vist el pirata fantasma LeChuck i la seva tripulació cadaverosa?
+Aquells idiotes ens han estat enganyant durant mesos!
+Apropant-se aquí en el navili esgarrifós de la seva^
+untilmanegant i moant-se fins a totes les hores del matí^
+aways'està espantant tot el negoci dels vaixells de creuer.
+Normalment, quan tenim problemes amb els no morts,
+Només cuinem la nostra poció estàndard d'exorcisme i fem-ho amb ella.
+
+Per què no ho fas ara?
+Què hi ha a la teva poció estàndard d'exorcisme?
+Dona'm la poció!  L'utilitzaré a LeChuck!
+On s'amaguen en LeChuck i la seva tripulació?
+No podem.
+Per què no?
+Bé, l'ingredient principal de la poció és una arrel molt rara
+De fet, només n'hi ha un.
+Només utilitzem una mica a la vegada, ho veus.
+Però en LeChuck va robar tot!
+
+On l'amaga?
+Com puc arribar a aquestes catacumbes?
+Què hi ha a la teva poció estàndard d'exorcisme?
+En LeChuck va venir aquí i va robar la teva arrel?  Quin cad!
+Vaig a buscar en LeChuck i aconseguir l'arrel!
+I suposo que robar plàtans és millor?
+El mateix Gran Mico és la porta a les catacumbes de l'inframon.
+És en un lloc sota aquesta illa^
+ofalgun lloc d'un gran sistema de catacumbes^
+placeun lloc infernal ple d'ànimes torturades atrapades per sempre a la roca the
+On sagnaven les parets i l'aire és gruixut amb l'olor ranci del mal pur.
+Els turistes solien alinear-se durant hores per veure'l.
+Què ha passat?  El departament de salut t'ha tancat?
+No pots anar-te'n i fotre'l?
+I llavors en LeChuck va venir i ho va arruïnar tot, oi?
+Sona bé.  Ho puc veure?
+No, hem perdut la clau.
+Va ser robat!
+L'hem cedit a un ermità que viu a l'illa.
+I fins que aquest estrany i cruixent i sense pany el torni, estarem mantenint el seu pirata.
+Ho sento, però no és tan fàcil.
+Intentar trobar en LeChuck podria ser molt perillós.
+Mai trobaries el camí a través de les catacumbes sense el--
+Ei!
+Ixnay a l'Eadhay de l'Avigatornay!
+El què?
+Res.
+Res.
+
+Què és l'Eadhay de l'Avinatornay?
+Per què esteu parlant en llatí de porc?
+Oday ouyay avehay lluny de l'amay ofway ethay atacombscay?
+Vinga.  Digue'm.  Et vaig donar l'ídol.
+Orrysay.  Onay.
+És un ídol molt bonic.
+Veig que està desconcertat pel nostre dialecte natiu.
+Bé.
+Almenys podríem dir-li què fa el cap.
+Bé, és una eina de navegació--
+És un cap.
+Una vegada es va unir a un navegant.
+L'hem mantingut viva màgicament per tal d'aprofitar el seu innat sentit de la direcció.
+Travessar les catacumbes sense que sigui impossible.
+Però és la nostra única, així que no pots tenir-la.
+Suposo que no tenim res a oferir-te.
+I després ens va donar aquest bon ídol, també^
+Tingui's lliure d'acudir al Gran Mico i visitar el teu ídol en qualsevol moment.
+
+De totes maneres, Lemonhead, què deia sobre els olis tropicals?
+Well^
+
+--ahem--
+Disculpin-nos, però estem enmig d'una discussió seriosa.
+Ho sé, però realment necessito aquesta cosa del cap del navegador.
+T'ho vaig dir, només en tenim un.
+No sabem com aconseguir un altre.
+Ho sento.
+T'ho vaig dir, no pots tenir el cap.
+No sabem com aconseguir un altre.
+
+Herman Toothrot
+Tot el que vull és que torni el meu recollidor de plàtans.
+Però em donaran?
+Volen que la clau del cap de mico torni primer.
+SERÀ EL DIA!
+No creus que són irracionals?
+No és com si estigués demanant molt.
+- I no, no m'estic escanyant.
+M'encantaria menjar-me'l!
+Així que fem-ho!
+Però penseu en les vostres artèries!
+Som caníbals, per cridar alt!
+Sí, però els caníbals han de veure els seus greixos saturats com tots els altres.
+Si he de menjar més fruita el meu cap es convertirà en un cítric gran!
+Sense ofendre, Lemonhead.
+Mira això.
+Sembla instruccions sobre com aconseguir un cap!
+Podríem donar-li el cap, i utilitzar aquestes instruccions per aconseguir-nos un de nou!
+Sí, suposo que ara et podem donar això.
+Gràcies.
+Sembla força bo per un cap vell assecat, oi?
+
+El mantenim embolicat en aquest collaret màgic que el fa invisible per als fantasmes.
+Mira.
+Crec que li agrada a tu.
+Segueix el nas, i et portarà a l'amagatall de LeChuck a les catacumbes.
+Llavors obté l'arrel de LeChuck i torna aquí^
+.i barrejarem un munt de la nostra solució especial, enzimàtica per a la resolució de fantasmes.
+I pots abocar-ho a LeChuck com sal en una gerra!
+Sí!
+Bona sort.
+Espera!
+Què?
+Ni tan sols sé on és l'entrada a les catacumbes!
+Sí, és el cap de mico gran al costat est.
+No ho pots perdre.
+Divertiu-vos!
+
+Podem menjar-te, podem deixar-te anar.
+Haurem de parlar d'això amb el nutricionista del poble.
+Vine.  Deixa'm ensenyar-te la nostra cabana de convidats.
+- Això hauria de fer-ho.
+Ho vaig fer!
+Tinc l'arrel!
+Vaja!
+Mira, no fa broma!
+Aquí està!
+Al cap i a la fi, no és tan enginyós!
+Vinga, fem la cervesa de l'arrel fermentada.
+Espera aquí.  Tornarem.
+Bon mico.
+Tinc l'arrel.
+Al cap i a la fi, no soc un glop.
+M'encantaria fer-te farcir.  Faria una fortuna.
+Aquí està.
+Un escuder d'aquella cosa i l'ectoplasma colpeja el fan!
+I, si us queda alguna, és deliciós amb un petit gelat de vainilla.
+Bona sort.
+Gràcies.
+
+ampolla de seltzer màgic
+No puc fer-ho córrer.
+collaret al navegador
+És millor que torni a posar el collaret de la manera en què els nadius ho van tenir primer.
+Hmmm^
+No crec que estigui recollint res.
+No.  Res.
+Hola, senyor Navigator.
+Hola.
+No em tornaràs a mirar amb el meu collaret, oi?
+D'acord, som aquí.
+Ara què vols de mi?
+Sí?
+Hola, cap.
+Puc tenir aquest collaret?
+Gràcies per portar-me al vaixell fantasma.
+Gràcies de nou per portar-me al vaixell fantasma.
+Bé, ha estat agradable.  Ara et tornaré a posar.
+Hola.
+Hi ha alguna cosa que pugui fer per tu?
+No hi ha cap problema.
+Quan només teniu una tasca
+Ho fas bé.  Saps què vull dir?
+Tinc la sensació que em demanaràs un favor.
+On?
+Cap dels teus assumptes.
+Sí, ho entenc.
+No, però gràcies per demanar-ho amb tanta cortesia.
+Per què no puc tenir-ho?
+Oh, vinga, sisplau?
+Pretens?
+És bonic, per favor?
+Pretty, si us plau, amb sucre a sobre?
+Potser ho agafi
+No vull haver de fer-te mal
+Què faràs?  Em vas fer un cop?
+Si volgués poder-te ficar a la lava.
+Bé.  De totes maneres no ho volia.
+D'acord, t'ho has d'emportar.
+Tinc un mal pressentiment sobre aquest lloc.
+Crec que ho necessitaré.
+Mira, no siguis un idiota, d'acord?
+Pots pregar tot el que vulguis, però no pots tenir-ho.
+Molt bé, nena gran.
+Ho pots tenir.
+Potser millor que no.
+I no vull haver de fer-te lamentar.
+Recorda, em necessites per sortir d'aquest lloc.
+Si volgués deixar-te aquí per sempre.
+En segon pensament On
+Ei, quin bé és un collaret si no tens espatlles?
+collaret a Guybrush
+Tinc la sensació que això només funciona sota terra.
+Això és estrany.
+Després d'una mica més furiosa remolí
+
+
+
+Crec que així és com acabaré si no surto d'aquí aviat.
+I pensar que gairebé vaig acabar així.
+No gràcies.  Encara tenen una mica de carn.
+bol
+porta
+No crec que penjar-me sigui la resposta.
+vinyes
+Puc veure sota la cabana!
+Sembla solta.
+forat
+Ja està obert.
+Què?
+tauler
+Crec que puc fer servir la porta ara.
+tauler
+Quin petit crani més bonic.
+No va passar res.
+crani
+No crec que penjar-me sigui la resposta.
+vinyes
+No crec que penjar-me sigui la resposta.
+vinyes
+No puc superar-ho.
+No està obert.
+Ja està tancat.
+finestra
+No crec que necessiti més plàtans.
+No crec que necessiti més plàtans.
+Aquest plàtan ja està recollit.
+No hi ha plàtans que recollir.
+Diu: «Si es troba, si us plau, torni a Herman Toothrot..
+Selector de plàtans
+nota
+forat
+Podria encaixar a través d'aquest forat, però no crec que ho faci aquest pirata.
+porta
+porta
+cortina
+Cozy.
+Per què?
+Només els tiraré a tots.
+Podria cuinar-la, però mai ho aconseguiria.
+No vull cremar això.
+xemeneia
+No crec que ara tingui molt.
+Sembla un tanc de pewter.
+mug
+No crec que ara tingui molt.
+Sembla un tanc de pewter.
+mug
+No crec que ara tingui molt.
+Sembla un tanc de pewter.
+mug
+No crec que ara tingui molt.
+Sembla un tanc de pewter.
+mug
+No crec que ara tingui molt.
+Sembla un tanc de pewter.
+mug
+Per què hauríem d'acceptar-ho?
+pirates d'aspecte important
+No vull venir entre un pirata i la seva grog.
+pirata
+No crec que sigui assenyat despertar un pirata que dorm.
+pirata
+Grrrrrr.
+Crec que està content amb el seu os.
+gos
+No els vull molestar.
+Estan ocupats escoltant el paio de l'esquerra.
+Estan ocupats escoltant el paio de l'esquerra.
+pirates
+No gràcies.  No puc suportar venedors.
+pirata
+Sembla força ganxo
+Millor que el deixi sol.
+pirata
+Crec que estan ocupats.
+pirata
+No crec que sigui assenyat despertar un pirata que dorm.
+pirata
+cu
+cu
+pirates d'aspecte important
+Ei!
+No pots tornar aquí!
+Ei!
+No vagis a la cuina!
+Veig que has sentit parlar dels tres judicis pirata
+Sí, sí, ho hem vist.
+Si no és el noi que vol ser un pirata.
+Com t'ho pots arreglar?
+Com et fas, espadatxer?
+Com et fas, lladre?
+Com et fas, cercador d'or?
+Benvingut, jove amic.
+Has batut el mestre de l'espasa?
+Ja has robat l'ídol?
+Has trobat el tresor?
+Deus haver sentit parlar dels tres judicis pirata
+Què vols, noi?
+Vull matar-vos a tots!
+Vull ser un pirata.
+Vull ser un bomber.
+I què?
+Per què ens preocupa?
+Escolta, no oblidis que no tenim ajuda per tot això de LeChuck.
+I?
+Així que, cap pirates vol dir que no hi ha pantans, i cap pantà vol dir que no hi ha grog, i ens estem baixant perillosament a grog^
+Hmm^
+Tens alguna habilitat especial?
+Puc aguantar la respiració durant deu minuts!
+Well^
+D'acord, però no et converteixes en un pirata només preguntant.
+Haurà de passar
+Els tres judicis!
+Els tres judicis!
+Els tres judicis!
+
+Er^
+Quins tres judicis són aquests?
+Hi ha tres proves que han de passar tots els pirates.
+Has de dominar l'espasa
+arti l'art del robatori^
+I la recerca.
+El què?
+Treasure huntin, ya urchin!
+D'acord.
+Ha de demostrar-ho en cadascun d'aquests tres àmbits:
+joc d'espasa, entreteniment i, er, caçador de tresors;
+Llavors torna amb la prova que l'has fet.
+I llavors has de beure grog amb nosaltres!!
+GROG!!!
+GROG!!!
+GROG!!!
+
+
+Tranquil·la, noi, ens molestes.
+
+Parla'm més sobre el domini de l'espasa.
+Torna-me a parlar de dominar l'espasa.
+Soc l'escalawag més mortífer que mai ha sacsejat una espasa!
+Parla'm més sobre el domini de l'art del robatori.
+Torna-me a parlar de compilar l'ídol.
+Jo soc el tauler més esgarrifós d'aquestes illes!
+Explica'm més sobre la caça del tresor.
+Parla'm de nou del tresor perdut.
+He trobat el teu "tresor de la llegenda".
+Ets un munt de porcs que es desvenen d'una brutícia i de grogs.
+De totes maneres, què hi ha en aquestes grogs?
+Ara mateix correré.
+Primer, agafa't una espasa.
+Has de buscar i derrotar el mestre de l'espasa.
+Algú de la ciutat pot dirigir-te.
+Oh!
+Vols trobar algú que t'entreni primer.
+Ha ha.
+Imagina't intentant agafar l'espasa mestra sense cap entrenament!
+Har
+Har
+Har
+
+I entrenar-te primer.
+Volem que procureu un petit element per a nosaltres^
+L'ídol de moltes mans The
+!a la mansió del Governador!
+El governador manté l'Idol o' Many Hands en un cas d'exhibició a la mansió fora de la ciutat.
+Hauràs de superar els guàrdies, naturalment.
+La part trucada passarà els gossos fora.
+Són una raça especialment viciosa
+- Podries drogar-los o alguna cosa així.
+La llegenda diu que hi ha un tresor enterrat aquí a l'illa
+L'únic que has de fer és trobar el tresor llegendari perdut de Mostlée IslandTM i portar-lo de tornada aquí.
+Hauria de tenir un mapa o alguna cosa?
+No es pot esperar trobar un tresor sense un mapa!
+:i no ho oblidis :
+X marca el punt!
+Har
+Har
+Har
+
+Bé, va derrotar el mestre de l'espasa, oi?
+Ets un home fort!
+Es pot mantenir la samarreta estilitzada.  Ja en tenim prou.
+Ah, l'ídol de moltes mans!
+Ets un noi valent!
+I gràcies per robar-ho per nosaltres.
+Va descobrir el tresor perdut, eh?
+És un noi llest!
+- Sí, pot guardar la samarreta de chic.  Tenim molt.
+Per ser un pirata, també ha de ser un porc amb roba de grog.
+Grog és una mescla secreta que conté una o més de les següents:
+eneosene
+propilè glicol
+edulcorants artificials
+àcid sulfúric
+rum
+aceton
+tint vermell no.2
+escuma
+greix d'axle
+àcid de la bateria
+i/o pepperoni
+Com probablement es pot imaginar, és una de les substàncies més càustiques i volàtils conegudes per l'home.
+Les coses mengen a través d'aquestes mugs i el cuiner està perdent una fortuna substituint-les.
+Har
+Har
+Har
+
+Deixa'ns a la nostra grog.
+Torna més tard i ens diu com ho fas.
+
+
+
+
+
+Què passa?
+On són tots els pirates?
+Porta'm una beguda!
+Tots estan saquejant la mansió del governador.
+Com pots pensar en beure en un moment com aquest?
+El governador ha desaparegut!
+LeChuck i la seva tripulació espectral van venir i la van agafar!
+La van posar a la nau fantasma i la van escorcollar!
+Era tan bona per a mi^
+^Sempre perdent convenientment els informes de la Junta de Salut^
+Per una petita consideració, per descomptat.
+Què serà del meu negoci?Oh, jo soc.
+Què puc fer per salvar-la?
+Has d'aconseguir un vaixell i anar a buscar-la!
+El cau del pirata fantasma és a Monkey IslandTM, tothom ho sap.
+(No em pregunti com))
+L'única cosa que has de fer és trobar un camí.
+Per què hauria de fer-ho?
+On puc aconseguir un vaixell?
+T'uniràs a mi?
+D'acord!  Me'n vaig!
+Porta'm una beguda!
+Per què, per amor, fill meu!
+No ho negueu, està escrit per tot arreu.
+AMOR
+Per què, a les drassanes de Smilin' Stan, igual que tots els altres.
+Digues-li que t'he enviat, som vells amics.
+Er. . salas, no puc anar al mar.
+Una antiga lesió de guerra.
+Segur que ho entens.
+Bona sort!
+Assegura't i porta els seus mittens.
+I les teves galoixes.
+I no t'oblidis d'escriure.
+Adeu.
+Ja en tens una de perfectament bona.
+Agafa la teva pròpia beguda.
+porta
+Pobre pollastre
+Millor que no.  Probablement se'ls està salvant per un ritual pagà, i no vull fer-ho malbé.
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+pollastre
+
+Potser ningú es perdrà aquesta cosa
+Segurament ha d'haver-hi un pollastre de goma amb una politja al mig, però no és així.
+pollastre
+Pobre petit
+Sigui el que sigui.
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+ossos
+Aquesta és la copa d'un fuster.
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+calze
+Probablement hi ha un cos.
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+tron
+adoració de vudú
+endevinador
+Sembla còmoda, d'una manera esgarrifosa.
+No gràcies.  Mai em puc adormir en llocs estranys.
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+sof
+Veiem, hi ha un gerro de bat
+boxuna caixa que diu: `^Escales assajades`^
+run batedor ple de flocs de mico^
+- I alguns ganxos de gat.
+Cat knuckles?!?
+Quina barbàrie!
+
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+voodoo knickknacks
+Em sembla que sento haver-me endinsat.
+No gràcies.  Probablement alguna cosa saltaria i em mossegaria.
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+cistella
+No puc.  No m'agrada.
+por
+Em pregunto què hi ha en aquestes cistelles.
+De fet, no tinc tanta curiositat per esbrinar què hi ha dins.
+Probablement serps verinoses.
+
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+cistelles
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+
+estàtua
+Em pregunto què hi ha en aquestes cistelles.
+De fet, no tinc tanta curiositat per esbrinar què hi ha dins.
+Probablement serps verinoses.
+
+No gràcies.  Preferiria no tocar res d'aquest vudú esgarrifós.
+cistelles
+Pobre pollastre
+No gràcies.  No has sentit parlar mai de salmonel·la?
+pollastre
+Amb què et puc ajudar, fill?
+Sí?
+Em dic Guybrush Threepwood i soc un pirata poderós.
+Quant per a aquest pollastre tan audaç?
+Pots llegir palmeres?  Seré ric?
+He canviat d'idea sobre saber que el futur ho va vessar.
+Journey?  Què em pots dir del meu viatge?
+Necessita un lloc on hagis arribat.  Suposo que ja vinc.
+Wait^
+No diguis res.
+Puc sentir que el teu nom és^
+isis^
+brushGuybrush^
+.Guybrush Nosehair.
+No^
+woodThreepwood.
+Guybrush Threepwood.
+No tinc raó?
+Vaja!  Ha estat increïble.  Coneixes altres trucs?
+Endevinalla.
+No m'abordo en trucs.
+El que sé és la veritat.
+La meitat de les persones que conec es diuen Guybrush.
+Us suggereixo que obriu la vostra ment.  T'ajudarà en el teu pròxim viatge.
+Ahhh^
+Sento la culpa de robar el meu pollastre creix.
+Agafa'l.
+És teu.
+Per què no ho vols?
+Està enfadat amb una antiga maledicció de vudú?
+No^
+sles bigues de politge.
+So^
+Les meves habilitats de lectura mental em diuen que és el teu futur en el que estàs interessat.
+Estàs segur que això és una cosa que realment vols saber?
+Sí!  Digue'm tot el que em passarà.
+No!  No em diguis res.  La vida ha de ser inesperada i emocionant.
+Suit.
+Puc dir-ho, t'has cansat.
+Ves-te'n, si us plau.
+T'he canviat d'idea.
+Journey?  Què em pots dir del meu viatge?
+Pensava que no volies saber el teu futur?
+Has canviat d'idea?
+Tinc una visió
+Veig que fas un viatge, un llarg viatge.
+Et veig capitanejant un vaixell.
+Sí!
+Veig
+Què?
+Veus què?
+Veig un mico gegant.
+Yikes!
+Et veig dins el mico gegant.
+Gross.
+Wait^
+Tot està quedant clar.
+El viatge tindrà moltes parts.
+Ja veuràs que les coses millor no es veuen.
+Escoltaràs que les coses millor no ho sentis.
+Aprendràs que les coses es queden sense adormir.
+Quina mena de coses?
+Odio les sorpreses.
+NO!
+No és el moment de saber-ho.
+Quan coneguis el teu propòsit, vine a veure'm
+Et faré saber.
+Yikes!
+No crec que torni.
+Hola?
+Ei! He tornat i estic preparat per saber més sobre el futur.
+Suposo que ara me'n vaig.
+Suposo que ningú és aquí.
+Yikes!
+Així que has tornat per aprendre futur.
+Sí, he d'anar darrere del governador.
+Em pots dir res que ajudi?
+Els veig amb uns altres disposats a ajudar en la seva causa.
+Primer has de trobar altres que ajudin en la teva causa.
+De debò odio que parpelleig, em fa veure taques.
+Silenci!
+Tinc una altra visió.
+Has^
+Què?
+Has d'anar a Monkey IslandTM.
+Un cop allà, buscaràs el Ghost Pirate LeChuck.
+Ell amaga el profund
+.deep sota Monkey IslandTM.
+Només hi ha una cosa prou poderosa per destruir LeChuck.
+Què?
+És una arrel antiga.
+Una vegada preparada, l'arrel pot destruir un fantasma amb un toc.
+Sí!
+M'estic tornant més
+Més visió.
+Escampa!
+Veig els caníbals que viuen a l'IllaTM.
+Ells
+areEsteu ajudant-vos^
+eatingo menjant-te^
+No ho puc dir, la visió ja no està sortint clara.
+Genial.
+Ara ves a buscar el que t'estima.
+Però alerta^
+No et preocupis, miraré a LeChuck.
+No de LeChuck. i el que trobareu.
+El que descobrireu de tu i del teu món.
+T'espantarà.
+
+
+
+
+.Esteu amb una nansa amb les nanses GRIPMASTERTM .
+Ei!  Allunya't d'això!
+No et fiquis amb això!
+nan
+lastDavey JonesTM Lockers: L'última paraula en dispositius d'emmagatzematge resistents al robatori, foc i grog .
+
+Es tracta d'una caixa forta resistent a les groges.
+Ho diu molt bé.
+No crec que això ho obri.
+Està tancat.
+Ja està tancat.
+segur
+camp
+.Trenta de servei.
+Millor que no ho toqui.
+Aquest paio de la botiga em pot mossegar el cap.
+símbol
+magatzem
+BREATHMASTERTM - Pel pirata que es preocupa de les primeres impressions.
+Oooo!  Això és refrescant!
+formigues
+DIGDIGMASTERTM -- L'única pala per a entusiastes de la caça de tresors greus..
+pala
+Jo, el bon i honorable guardià, assumeixo la responsabilitat pels deutes del portador d'aquesta nota per qualsevol quantitat de fins a 5000 peces de vuit.
+nota del guardià
+porta
+SLSLASHMASTERTM -- Quan vols una espasa tan afilada com el teu enginy..
+En aquests gossos indefensos?
+És inhumà!
+espasa
+On has anat?
+Vaig caminar a mig camí a través de l'illa per intentar fer-te una reserva amb l'espasa mestra...
+- qui, per cert, diu que pots saltar al llac--
+- i quan torni, ja no hi ets!
+Mira si mai et torno a fer un favor, petit lladre desagraït!
+Mira si mai et torno a fer un favor!
+T'he vist, noi.
+Roba qualsevol cosa i et trenco les cames.
+Allà, uns pantalons elegants.
+Hmmm^
+Aquí no hi ha res més que aquesta nota.
+Hmmm^
+És buit.
+Buscant un mestre de l'espasa, oi?
+Buscant un petit "compte de cinc dits" em sembla!
+Veus si mai confio en tu de nou, petit i desgraciat xic de xarampió!
+No puc creure que hagi caigut per això de nou!
+Tu, jove, necessites una quilla!
+No és tan car!
+Per què no ho compres, monopatí?
+Espero que tingui un atac de cor amb tot això, oi?
+Ha!
+Només segueix sent més divertit i més divertit, oi?
+Ajup-te!
+Ah-ha!
+T'has atrapat, petit lladre!
+T'has tornat a fotre, rata petita!
+No aprens mai?
+D'acord, tos amunt.
+Potser t'agradaria pagar per això?
+Potser t'agradaria pagar per això?
+Què hi ha d'això?
+Ho vull.
+Quant és?
+No ho vull.
+Mai falla!
+M'allunyo del comptador durant dos segons i algun idiota ja està sonant aquesta campana estúpida!
+Hauria d'haver sabut que tornaria a ser tu.
+El mestre de l'espasa diu que pots saltar al llac, per cert.
+
+Ho sento, no hi ha reemborsaments.
+Ho sento, no hi ha reemborsaments.
+No gràcies.  M'agrada la respiració d'aquesta manera.
+Per què?
+No soc tan estúpid.
+No vaig dir que ho fóssiu.
+No en veu alta, almenys.
+Aquí només agafem diners.
+Vols la Waddya?
+Sobre aquesta espasa
+Sobre aquesta pala
+Busco el mestre de l'espasa de Mlélée IslandTM.
+Ara que tinc aquesta espasa, a qui puc provar-la?
+M'interessa obtenir una nota de crèdit.
+Realment podria fer servir una formiga d'alè.
+M'agradaria un repel·lent de rata, si us plau.
+Teniu fitxers?
+Crec que m'agradaria navegar.
+Crec que m'agradaria navegar per ara.
+Ja t'ho he dit, són 100 peces de vuit.
+Has portat prou diners aquesta vegada?
+Són 100 peces de vuit.
+Agafa-la o deixa-la.
+Jo me'n vaig.
+No tinc prou diners.
+No ho vull.
+Genial.
+Les millors 100 peces de vuit que has gastat mai.
+Figures.
+Com si no vols perdre el meu temps?
+El mateix preu que l'última vegada que em vas preguntar:
+75 peces de vuit.
+Un altre caçador de tresors, eh?
+Això et costarà 75 peces de vuit.
+
+Jo me'n vaig.
+75 peces de vuit?  No tinc tant.
+No ho vull.
+Genial.
+Pagarà per si mateix, creu-me.
+Faràs 75 peces de vuit en temps lliure.
+Però ei, salveu un tresor per la resta de nosaltres, oi?
+Ha ha ha!
+
+Llavors serà millor que ho tornis a posar.
+Hi ha alguna cosa aquí que et puguis permetre?
+Bé, si busques una bona lluita^
+Tenim el millor lluitador d'espases de tot el Carib aquí a l'Illa Mlélée.
+Per descomptat, ningú sap on és el seu amagatall secret
+Mira, t'ho he dit, no vol veure't.
+Potser si la vas tornar a preguntar?
+Sí, com si tornés a caure per això!
+Oh, si us plau.
+No robaré res aquesta vegada, ho prometo.
+Torna.
+Espera un segon!
+Tranquil, amb tinta lleugera
+No creus que soc prou estúpid per provar el mateix truc tres vegades seguides, oi?
+Estàs començant a marcar-me.
+El mestre de l'espasa de l'Illa Mêlée?
+No ho sé
+Ningú coneix el parador del seu amagatall secret
+Ningú excepte jo.
+Hauria d'anar-me'n i preguntar-li si està bé ensenyar-te el camí.
+Hmmm^
+Suposo que podria caminar fins allà
+- UNA ALTRA VEGADA.
+- UNA VEGADA.
+Torna.
+I NO TOQUIS RES!
+Tinc els ulls en tu, nena!
+No intentis res!
+I cap dels teus vells trucs!
+No puc creure que torni a fer això!
+Espero tornar en uns cinc segons.
+I NO TOQUIS--
+Estic cansat d'aquesta merda.
+bla, bla, bla, ulls al cap, bla, bla, bla
+lahblah, bla, bla, coll, bla, bla, bla
+- Coneixes la història.
+Això és realment avorrit.
+Ho ets, oi?
+Tens una feina?
+Per fi tens feina, eh?
+Sí, és clar que sí.
+Per ser honest, senyor, no tinc feina.
+Molt bé.
+Agafaré una de les meves notes i l'omplirem.
+
+Veiem aquí
+Què vas dir que era la teva ocupació?
+Soc un pirata amb grogs voladors i maldestres.
+Estic esperant taules a la barra de Scumm.
+Soc un acròbat amb un circ que viatja.
+He netejat vaixells al pati de vaixells usats de Stan.
+Per ser honest, senyor, estic entre treballs.
+Foul-smelling, sí^
+Grog-swilling, potser^
+Però un pirata?
+No em facis riure.
+Torna quan tens tatuatges o un clavell o almenys un pegat, per plorar alt.
+
+I jo soc la reina d'Anglaterra.
+El cuiner espera totes les seves taules.
+Li agrada escopir a tots els seus clients personalment.
+No només estàs desocupat, ets un mentider!
+
+Ets un dels germans Fettucini?
+On és el teu accent ximple?
+I on són les teves ximpleries?
+Torna quan tinguis una feina en un negoci creïble.
+
+Fa anys que no he vist un vaixell net.
+O estàs mentint, o només ets un treballador crummy.
+Sigui com sigui, no confio en tu.
+Agraeixo la teva honestedat.
+Però no vaig arribar a tenir vuitanta-tres si no era una camisa.
+Sense feina, sense crèdit.
+Vine a veure'm quan aterris una feina, i parlarem.
+
+
+Gràcies per dir-m'ho.
+Respecto la teva honestedat.
+Però no vaig arribar a tenir vuitanta-tres si no era una camisa.
+Sense feina, sense crèdit.
+Torna quan en tinguis un.
+M'ho estàs dient!
+Aquí pren un one
+- Si us plau.
+Fes un rotlle!
+Això serà un tros de vuit.
+
+En tinc, però no són lliures.
+Hah!
+Segur que ho faries.
+Però no en tinc cap.
+Volies dir penjar arxius o fitxers de claus?
+Sí.
+Penjant arxius.
+Fitxers de Nail.
+No, el metall amb el que utilitzes per obrir panys.
+Ah.
+Ho sento, estem fora d'això.
+Què més vols?
+Ei, això no és una boutique.
+No t'ho prenguis tot el dia.
+D'acord, però no posis els llavis en res.
+El que sigui.
+D'acord.
+Desperta'm si necessites res.
+Sigues el meu convidat, boniques pantalons.
+
+Tinc un especial a les pales d'avui^
+Podries afanyar-te?
+Esperava tancar-me aviat avui.
+Si penses robar alguna cosa, pensa-ho de nou.
+Afanya't!
+Vinga!  Només compra alguna cosa.
+Què creus que és això?  Un museu?
+No tinc tot el dia.
+Som-hi!
+No pensis, només compra!
+Has vingut aquí per sortir del fred, o necessites alguna cosa?
+Estàs esperant que em quedi adormit o alguna cosa?
+Et puc ajudar?
+Tinc un bon tracte amb les espases ara mateix^
+Sembla dolent i lletja.
+Oh, sí?  Bé, la teva vella.
+
+
+
+
+magatzem
+portal
+bloqueig
+Parla amb la mort?  No gràcies.
+Sembla nerviós.
+presoner
+bloqueig
+Està tancat.
+Crec que ara està soldada.
+És millor que no ho tregui abans de que em porti l'ídol.
+No crec que això ho obri.
+cel·la
+Està tancat.
+Crec que ara està soldada.
+No hi ha necessitat.
+cel·la
+fitxer
+Hi ha un fitxer!
+És pesat.
+És un arxiu de metall de raspy.
+pastís
+Otis
+presoner
+Has vingut a alliberar-me?
+Vine a tornar a interrogar el presoner, eh?
+Qui ets?
+Què vas fer per acabar allà dins?
+Com està el menjar?
+Què vas dir de les flors?
+I qui voldria emmarcar-te?
+El xèrif Shinetop segur que és un idiota, oi?
+Qui és el xèrif?
+El governador ha estat segrestat!
+Si et deixés sortir, s'uniria a la meva tripulació?
+Passaria a tenir un arxiu?
+Et puc aconseguir res?
+Bé, guarda un llavi superior rígid.  Me n'he d'anar.
+Otis
+Em dic Otis.
+Almenys, crec que sí.
+He estat aquí tant de temps que no puc recordar.
+M'has de treure d'aquí abans de perdre la ment completament!
+No veus que soc innocent?
+
+Però per què ets a la presó, si ets innocent?
+No em sembles innocent.
+Estava emmarcat!
+No vaig tocar les estúpides flors!
+Quines flors?
+Em podria dir el nom d'aquelles flors una altra vegada?
+Qui t'ha emmarcat?
+Com està el menjar?
+Què vas dir que menjaves allà dins?
+Les flors grogues de Caniche Endormi al bosc...
+És contra la llei triar-los.
+No sé exactament qui
+Crec que va ser una conspiració.
+I si hi ha un tipus de pirateria no m'agrada
+És una conspiració.
+
+No ho faries si haguessis estat aquí tant com jo.
+No vaig fer res.
+Especialment no per aquelles flors típiques.
+Per això soc aquí, per aquestes flors estúpides
+No és broma.
+Vols dir que encara no has entrat al nou xèrif?
+Ets un home afortunat.
+És millor evitar en Fester Shinetop.
+
+En Fester qui?
+Què li passa?
+Només ho dius perquè et va posar a la presó.
+Ho tindré en compte.  Fins després.
+Fester Shinetop és l'home més dolent del Mlélée IslandTM.
+Afortunadament, el governador el manté sota control la major part del temps.
+Solíem tenir un home just i decent per a un xèrif...
+- Però recentment va morir en circumstàncies misterioses.
+Si em preguntes, crec que el nou xèrif tenia alguna cosa a veure amb això.
+Crec que ja n'has dit prou, Otis!
+Au, vinga.
+No!  Pregunta a qualsevol
+Ves a buscar-me un advocat!
+Un barat!
+És clar!
+És clar!
+Per al meu emancipador, estaré eternament en deute.
+Fins llavors, vaig al ritme.
+Què?
+Mira aquesta nota.
+Han segrestat el governador?
+Això em fa enfadar.
+Em sento com fotre un tret a algú.
+Hmmm^
+Em pregunto si va deixar el seu lloc desbloquejat^
+
+Sí^
+EM POTS TREURE D'AQUÍ!
+De fet, alguna cosa per desfer-se d'aquestes rates seria agradable.
+Et comerciaria aquest pastís de pastanaga fet per la meva tia Tillie.
+Odio el pastís de pastanaga.
+Creus que estaria aquí si ho fes?
+Tot el que tinc és aquest pastís de pastanaga que em va fer la meva tia Tillie.
+Ho pots tenir si em portes alguna cosa per desfer-te d'aquestes rates.
+No puc suportar pastanaga.
+Moltes gràcies.
+Oh, ja saps, el habitual^
+Slop, grog, gruel^
+Rates, bugs i polls del cos si puc agafar-los.
+Tinc un pastís de pastanaga fet per la meva tia Tillie, tot i que sap que descarto el pastís de pastanaga.
+De fet, el cuiner del bar és un vell amic meu, i de vegades em fa menjar.
+Com les trinxeres de porc, la majoria dels peus i llavis, però una vegada en una estona
+bringsporta aquest rump roast realment estrany^
+
+És fastigós.  No vull sentir res més.
+Què era tan estrany amb el rostit?
+Ei, col·lega, ho has preguntat.
+Bé, és l'únic rostit que he vist amb una cua prènsil.
+M'agraden els visitants i tot,
+Però no tinc molt més a dir.
+A més, la meva gola s'està assecant de tot això.
+Per què no vas a buscar algú amb qui parlar?
+No és com si fos l'únic pirata que quedava a l'illa o res.
+T'ho vaig dir, no tinc molt més a dir.
+Mira, t'agraeixo que intentis mantenir-me companyia i tot
+Però llevat que siguis advocat
+too sabeu alguna manera de dissoldre màgicament aquest bloqueig^
+anyNo veig cap motiu per continuar aquesta conversa.
+M'has de treure d'aquí!
+Soc víctima de la societat.
+Per no parlar de l'halitosi.
+Sí!
+Escolta, és difícil mantenir l'alè amb una mica de fresca quan no hi ha res a menjar aquí, sinó rates.
+
+Però ho necessito per aconseguir l'ídol.
+Ooooh!
+Grog-O-Mint!
+Que refrescant!
+Gràcies.
+Això pot funcionar amb les rates!
+Gràcies!
+Aquí està el pastís.
+Aquí, agafa aquest pastís de pastanaga a canvi.
+La meva tieta Tillie ho va aconseguir.
+T'ho vaig dir, ODIO el pastís de pastanaga!
+No necessito el teu company de caritat.
+Bé, potser només una peça.
+No vull res més que la meva llibertat!
+I potser una mica de respir.
+I potser alguna cosa per desfer-se d'aquestes rates.
+
+Home!  Parla de mal alè!
+Em dic Otis, per cert.
+Si hi ha alguna cosa que pugui fer per tu...
+Bé, de fet, hi ha alguna cosa^
+Busco gent valenta per unir-me a la meva tripulació i navegar cap a Monkey IslandTM amb mi per rescatar el governador.
+Ha estat segrestada per l'estrany pirata LeChuck, i se l'està empresonant contra la seva voluntat en algun lloc del seu amagatall secret.
+Veig
+Bé, sí, hmmm^
+LeChuck, dius?
+Bé, sí.  Sí, és clar.  Hem de navegar cap a Monkey IslandTM i--
+EI!  MIRA DARRERE TEU!  UN MICO DE TRES CAPS!
+No puc creure que hagi caigut per això.
+Tot i això, un bon truc.
+
+Espero que no t'hagis pres aquest fastigós vagabund massa de debò.
+Diria qualsevol cosa per evitar pagar el seu deute a la societat.
+
+Em sembla innocent.  Per què no el deixes sortir?
+És brut.  I també fa mala olor.
+T'importa?  Teníem una conversa privada.
+Omigosh!  MIRA't!  M'encantaria quedar-me i xatejar, però,
+Potser t'hauries d'importar el teu propi negoci, estrany.
+Jo decidiré qui és innocent i qui és culpable per aquí.
+Hola, moltes gràcies.
+Teniu molt de nervi en entrar a la ciutat i jutjar els locals.
+Si hi ha alguna cosa que no t'agrada sobre la manera en què fem olor, ets benvingut a sortir en qualsevol moment.
+No agafis aquest to amb mi, noi.
+O et tancaré amb gust amb Otis there
+enllavors tindrien molt temps per a conversa privada.
+Ja ho veig.
+Té vostè temps per a conjuminar-se amb els criminals, però no amb els interessats a respectar la llei.
+Ho sento.
+Mira, no sé què vols fer
+- Però sigui el que sigui, probablement és il·legal.
+Oblida-ho.
+On vagis, M MléeTM, estaré mirant.
+I si intentes qualsevol negoci de micos, acabaràs aquí per sempre.
+És una píndola o què?
+Veus amb què he de suportar?
+Serà millor que vagis abans que ens portis amb els dos problemes.
+Aquesta abraçada ja no és gaire útil.
+Una mug buida no és molt útil aquí.
+Hola, genial, una beguda!
+Tinc molta set.
+Yiiikes!
+Au, vinga.
+Vaja.
+I pensar que jo solia beure això
+Soc lliure!
+Sí, gràcies.
+Fill de puta!
+HA HA HA!!!
+But^
+Encara tenim un tracte?
+Segur que tornarà
+Em va donar la seva paraula de pirata.
+Genial, genial.
+Salva la rata i deixa'm aquí per podrir-me.
+Ets un veritable humanitari, amic.
+Suposo que el meu advocat tenia raó
+Hauria d'haver-me escorxat.
+
+carrer
+Ooooh!  Un circ.
+M'encanta un circ!
+
+pòster
+És vil, horrible, horrible, i està a punt de tornar-me a colpejar.
+LeChuck
+ENomés mp
+símbol
+Hola?
+Algú d'aquí?
+HOLA??
+Saps, les coses dolentes podrien passar a una persona en un carreró fosc i desert com aquest.
+I en aquest moment de la nit, ningú estaria a prop per veure-ho.
+
+De debò?  És interessant.  Bé, mira't.
+També has sentit alguna cosa aquí?
+Sí, i les coses dolentes li passen a la gent que s'atrapa amb altres persones del darrere.
+Per què tens tanta pressa?
+No.
+Així que em donaràs una mica d'actitud, oi?
+Serà millor que rebi el teu nom.
+Soc Guybrush Threepwood, i soc un pirata poderós.
+Soc Guybrush Threepwood, i soc nou a la ciutat.
+Soc en Guybrush Threepwood, i només me n'anava.
+Escolta Peepwood...
+Treser!
+Guybrush Threepwood!
+Sigui com sigui el teu nom, escolta:
+Soc el xèrif.
+Xèrif Fester Shinetop.
+Agafa'l de mi, és un mal moment per estar visitant el Mlélée IslandTM.
+UN MOMENT MOLT DOLENT.
+El meu consell és trobar un altre lloc per prendre les teves vacances.
+Un lloc més segur.
+Noi, em sento molt millor sabent que hi ha un oficial de la llei.
+sideside
+arc
+porta
+Et salvaré l'Elaine, t'ho prometo.
+És el meu petit conillet de saqueig.
+Veig com en LeChuck podria caure per ella tan ràpid.
+Veig com aquest pirata podria caure per ella tan ràpidament.
+Reelecciona el governador Marley.
+WhenQuan només hi ha un candidat, només hi ha una opció .
+
+pòster
+piranha poodles
+mansió del governador
+No és l'església.
+carrer
+Aquest no és el camí a l'església.
+arc
+No és l'església.
+portal
+No és l'església.
+porta
+poble
+Aquest no és el camí a l'església.
+arc
+porta
+Ps
+Pss
+Vine aquí.
+Les seves reserves són per dos trenta, senyor.
+Torna.
+Té vostè reserves?
+Puc ajudar-te?
+Soc aquí per saquejar la mansió del Governador.
+Estava de camí a la mansió del Governador.
+He d'estar en el lloc equivocat, agafa't més tard.
+Ets aquí per al saqueig?
+Sí.  Sembla divertit, ara que soc un pirata i tot.
+Per descomptat que no!
+Això és bo
+Perquè estem reservats per les properes cinc hores.
+I té reserves, senyor?
+Reserves?!?  Per saquejar?
+Per què, sí, tinc reserves.
+No tinc reserves.  Hauria d'haver-ho fet?
+Oh sí, molt popular quan el governador està fora.
+Els caos es produirien si no tinguéssim un sistema.
+Now^
+Si no tens reserves, hauràs de marxar.
+I amb quin nom estarien?
+Threepwood, Guybrush Threepwood.
+Ah. Crec que és el primer d'aquí a la part superior de la llista.
+Probablement està sota la "S", per a Shinetop.
+Ho sento
+No veig el teu nom aquí.
+Per descomptat^
+Prova Nice
+butperò^
+Prova Nice
+butperò^
+Per descomptat que hauries d'haver-ho demanat.
+És un lloc molt popular.
+Now^
+Estem reservats per les següents cinc hores.
+Però podria ser capaç d'esprendre't en^
+Al voltant de les dues en punt.
+Estaria bé?
+Sí, estaria bé.
+No, gràcies, tinc un vaixell per agafar.
+Súper^
+Et posaré per .un per robar la mansió del Governador a dos quarts de set.
+La propera vegada, truqui.
+Suit.
+rat
+Què mires?
+Homes de fibra moral baixa (pirates)
+arc
+He d'anar a l'església!
+porta
+mapa
+eYe Olde Rubber-Chicken-With-a- Pulley-in-the-Middle Shoppe^`
+.Servint les vostres necessitats de cautxú amb ullet al mig de l'escala durant més de 50 anys..
+símbol
+porta
+porta
+porta
+porta
+rellotge
+Què mires?
+Ciutadà de Mlélée
+L'església va en l'altra direcció!
+arc
+spectre
+Segur que hi ha molts errors ortogràfics.
+Són errors ortogràfics, no gramaticals.
+minuts
+Ciutadà de Mlélée
+Braaaak!
+A les 10.
+Hmm.  Encara a les deu.
+Sembla que sempre són les deu en punt d'aquesta illa.
+Creepy!
+Disculpa'm.
+Tens una invitació al casament?
+Per què sí, ho faig.
+No, soc un cambrer.
+No, però tinc aquesta cervesa d'arrel màgica.
+Devia haver-ho deixat en els meus altres pantalons.
+Puc veure-ho, si us plau?
+No.
+És clar, és aquí en aquesta ampolla de seltzer.
+Em sembla que deu estar en els meus altres pantalons.
+Adeu, ara.
+No tan ràpid, amic!
+No em sembles gaire fantasmal.
+Ets molt rosa You
+És una cremada de sol.
+Pateixo d'una síndrome d'eficiència de pigmentació rara.
+Intenta no prendre aquesta cervesa arrel massa personalment.
+Tampoc sembles un fantasma.
+Podries rentar-te, molar o arrebossar algunes cadenes o alguna cosa així?
+aaAAOOOOoooooo^
+Les meves cadenes són a les persones que estan desgraciades.
+Intenta no prendre aquesta cervesa arrel massa personalment.
+Digues, sones molt com el meu gos.
+Bé, d'acord.
+Però, on és aquesta olor de fantasmes, pudent, més enllà de la que hi ha?
+Està ocupat que et superin la teva pròpia estètica mortal.
+Oh, això!  Deixa'm treure'm les botes
+És una nova colom de cervesa d'arrel.  Potser t'agradaria provar-ho?
+Mira
+No, no importa.
+Si realment ets un fantasma, prova-ho.
+Anem a veure com t'apagues el cap.
+Er^
+Um^
+Well^
+Vols dir el cap d'aquesta cervesa arrel?
+Oh, oblida-ho!
+Això és genial!
+Compte, LeChuck!
+Hi ha un nou xèrif a la ciutat, i el seu nom...
+--Hey!  Serà millor que vagi a l'església!
+Ei!  No et fiquis amb la meva rata!
+He dit que no molestis la rata!
+No us tornaré a avisar!
+Deixa la rata sola!
+Ei, home!
+Frank, fes-lo sortir!
+Mira el que has fet!
+
+Demano disculpes pel que he dit sobre les rates.
+Ho sento per la rata the
+Ara que aquesta maleïda bèstia ha desaparegut, podem parlar.
+Hola, rata!
+Com pots estar a prop d'aquest verí?
+Coneixeu l'home amb aspecte estrany a la cantonada oposada?
+Saps on puc trobar un mapa de tresors per aquí?
+Agafaré aquests minuts si em pagues dos trossos de vuit.
+Estic molt interessat en aquesta cosa piradora.
+Diuen, són pirates?
+Sabies que el Governador ha estat segrestat?
+Ara ja hi vaig.
+Has vist comprar un mapa d'aquell paio allà.
+L'has mirat ja?
+Ha ha ha ha ha ha ha ha ha ha ha
+Potser hauries de considerar una font alternativa^
+Vols comprar un mapa?
+Els nostres mapes són d'alta qualitat, no com els lliberts d'ocells que obtens d'aquest pallasso a l'altre costat del carrer.
+No, de broma.
+Aquestes són, en realitat, còpies de les actes de l'última reunió de la PTA de l'Illa Mlélée.
+Ni tan sols els podem donar.
+Vols un?
+
+No, gràcies.
+No, he d'estar de camí.
+No, però en agafaré un si em dones dues peces de vuit.
+Veus?  T'ho vaig dir.
+D'acord, és just.
+T'agraden les rates?
+Sí, m'encanten les rates!
+No, no puc suportar-los.
+Sí, especialment en una salsa de vi lleugera.
+No puc parlar d'això ara mateix.  Me n'he d'anar.
+AIEEE!!!  Allunya't!
+Frank, aquest bozo m'ha espantat la rata!
+No són tan dolents.
+-- squeak --
+Sembla que aquest paio no li agraden les rates!
+Assegura'l ara!
+
+Són criatures molt intel·ligents!
+Ha ha ha ha!!
+Més intel·ligent que ELL.
+Per què, hi ha una història al voltant d'aquestes parts que un grapat de rates va tripular un vaixell aquí des de Monkey IslandTM fabulós.
+No, no està bé.
+De fet era un grup de micos.
+És increïble!
+És difícil de creure.
+De cap manera un grapat de micos estúpids tripulaven un vaixell!
+Perdona, me n'he d'anar.
+Però és veritat.
+Sí, però és veritat.
+De fet, eren ximpanzés i no eren estúpids.
+Quan van arribar, van vendre el vaixell per un bon penic.
+Només quan he vist que algú s'ha sortit bé de "ol" Stan en un tracte.
+Pensava que eren rates
+No, som un grup de circs errants.
+Però aquesta rata va espantar l'elefant.
+Però alguns idiotes van perseguir la nostra rata entrenada.
+Calla!
+És clar que som pirates!
+No pots comprar roba com aquesta de la galleda!
+Què vols?
+Què hi ha al barril?
+Em sap greu haver abusat de la seva rata.
+On has tret aquesta rata?
+Res.  Fins després.
+Com és que estàs en aquest carrer i no en un vaixell, saquejant, saquejant, saquejant, saquejant, saquejant, saquejant, acomiadant, aquesta mena de coses?
+Rum.
+Jam.
+Jam.
+Rum.
+Er. rum i jam.
+És un antic favorit dels pirates, tothom ho sap.
+Bé, la pirateria no ha estat tan bé per a nosaltres^
+Hi ha alguns pirates de talent no natural a la zona ara mateix^
+.operant fora de Monkey IslandTM.
+Així que hem estat buscant mitjans alternatius d'autosuficiència.
+Estem intentant crear un circ.
+Estava funcionant bé, fins que la rata va espantar l'elefant.
+I ara una mica de merda ha espantat la rata!
+Ara ens has deprimit.
+Ves-te'n a casa.
+Er^
+Bé, sí, ho sabíem.
+Per què estàs de peu en lloc de fer alguna cosa sobre aquest tema?
+Aniré darrere d'aquells segrestadors de figures immaterials.       Estàs amb mi?
+Puc interessar-te per una vacances de somnis a Monkey IslandTM?
+A causa d'aquest canvi sobtat en el govern local,
+Estic preparat per oferir-vos un preu d'una vegada a la vida útil en un creuer a aquesta meravellosa terra
+!Monkey IslandTM!
+I el més sorprenent d'aquesta oferta és el preu:
+Absolutament lliure!
+Tot el que has de fer és ajudar-me a tripular la nau, i el paradís de l'illa pot ser teu
+LLIURE!
+(I podríem rescatar el governador mentre hi som.)
+Uh^
+Well^
+El governador probablement pot cuidar de si mateix
+busyi estem ocupats aquí^
+- sí -
+wei tenim el circ en el que pensar^
+Hem de trobar l'elefant
+thealeta la rata the
+SÍ!
+ridi desfer-se d'aquests minuts^
+Ho sento, simplement no podem anar en aquest moment.
+Crec que millor que marxis, noi.
+Ha ha ha ha hoo hoo ha ha
+-- aak --
+-- aak --
+-- aak --
+-- aak --
+-- aak --
+-- aak --
+-- aak --
+-- aak --
+-- aak --
+-- aak --
+
+Disculpa, però...
+Només ets tu un altre cop.
+Et vaig dir que només n'hi havia un.
+Torna al mapa del Tresor Lost Legendary de Mlélée IslandTM, eh?
+Espero que aquesta vegada hagis portat prou diners.
+Només vull un mapa.
+El meu cosí Sven li envia records.
+Em podria tornar a dir aquest codi?
+No importa.  Puc aconseguir un mapa en un altre lloc.
+Teniu un fitxer?
+Ja ho veig.
+Vols apostar?
+Shhhhh!
+Puja, vols?
+Aquest xèrif lleig podria ser aquí.
+Ara, després
+Disculpa, però tens un cosí anomenat Sven?
+Què?
+No, no.
+Què és això?  Una mena de codi?
+No, però una vegada vaig tenir un barber anomenat Dominique.
+Teniu un fitxer?
+És clar que és un codi, idiota.
+Ja n'hi ha prou.
+No importa.
+Bona nit.
+Fitxers financers a les drassanes de Stan?
+Fitxers de personal per al Departament del Xèrif?
+De fet, em referia a la mena de metall espiós.
+Oh.
+Parlem de negocis.
+Vols comprar un mapa a la LostTreasure Legendary de Mlélée IslandTM?
+Només una existeix.
+Rare.
+Molt rar.
+Només 100 peces de vuit of
+
+No gràcies.  No tinc prou diners.
+Jo me'n vaig.  Farà un regal de conya.
+No gràcies.  No ho vull.
+Bé, gemec de nena, és dolent per als negocis.
+Aquí va.  Has pres una decisió sàvia.
+Ara perd.
+No hi ha prou diners, oi?
+Torna quan et prens de debò la caça del tresor, noi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+porta
+traça
+Estan dormint pacíficament.
+No crec que els pugui passar.
+No m'aproparé a ells!
+No vull despertar-los.
+.Queden gossos que dormien .
+piranha poodles
+piranha poodles
+
+piranha poodles
+
+AVÍS IMPORTANT
+Aquests gossos no
+morts, només són
+DORM
+.
+No s'ha danyat cap animal
+durant la producció
+d'aquest joc.
+
+Els poodles de Piranha no mengen peix.
+No crec que aquests gossos siguin vegetarians.
+Dubto que els gossos ho vulguin.
+piranha poodles
+Woof.
+Sí!
+
+gran porta de fusta
+Segueix endavant i obre'l.
+porta
+nan
+No es mourà.
+pal
+No es mourà.
+estirar el cable
+porta
+túnel
+Hi ha alguna cosa que vull ensenyar-te.
+Una cosa horrible.
+Una cosa tan horrible que em desperto a la nit pensant-hi
+Però no vull espantar-te.
+Estic segur que un paio gran i valent com tu no tindrà cap problema per enfrontar-se a aquest monstre.
+Després de tot, és molt més petit que la bèstia que em va mossegar les mans fa tants anys.
+Esperem que siguis més ràpid que jo.
+Acabo de recordar alguna cosa^
+Mai vaig arribar a alimentar-lo aquesta setmana.
+Que em facis mal.
+T'adones, és clar
+Només ha agafat el penjat.
+Et deixaré obrir aquesta última porta tu mateix.
+Deixa'm sortir del teu camí.
+Espera!
+Pujant?
+No, no sé el que se suposa que he de fer.
+Se suposa que has d'obrir aquesta petita porta^
+^i, si ets prou valent^
+- Emprova la bèstia dins.
+Això és tot?
+D'acord.  Ves endavant
+ickchicken.
+Si tens els intestins.
+
+porta
+Braaaak!
+No m'ho crec.
+Després de tot, ets un home valent.
+Et vas enfrontar a la bèstia que he temut tots aquests anys.
+Tenies els intestins per fer el que mai vaig poder.
+Em sento com un covard.
+No soc prou bo per estar a la teva tripulació.
+Ni tan sols soc prou bo per rentar les teves cobertes.
+Vinga, Meathook.
+Oh, vinga, senyor
+Meathook.
+Sr. Meathook.
+Ets un paio gran, fort, de bona aparença amb un tatuatge parlant.
+Ets un paio gran, fort, de bona aparença amb un gran tatuatge...
+Puc fer que parli.  Vols veure?
+Potser més tard.
+De totes maneres
+Pots rentar-me les meves cobertes en qualsevol moment!
+De debò?
+És clar.
+Encara puc estar a la teva tripulació?
+Empaqueta les teves coses i ens veiem al moll.
+Gràcies, gràcies!
+No et decebre.
+Ei, potser t'ho puc ensenyar tot el meu tatuatge quan estiguem al mar!
+Això sona millor i millor tot el temps.
+Intentant fugir, eh?
+Ho pensava.
+Òbviament només ets un pollastre gran.
+Un cop pollastre, sempre pollastre.
+No ho estic!
+Per què no vas a buscar un veritable capità per a la nostra tripulació?
+Me'n vaig, però no soc un pollastre!
+Ja ho veuràs!
+Sí, és clar.
+AAAAAAIIIIIEEEEE!!!
+
+AAAAAAIIIIIEEEEE!!!
+dimoni alat assassin
+Ei!
+No m'agraden els visitants!
+Qui ets?
+Ahoy, capità!
+Què fas aquí tan aviat?
+No creus que estava fent gallines, oi?
+Uh^
+No, és clar que no.
+Només volia dir-te això to
+uhuh^
+gotTinc un vaixell^
+crewTinc una tripulació^
+ingtot està bé.
+Ei, és genial.
+Suposo que et veuré al moll, oi?
+Dreta
+Fins aquí.
+Bé?
+Ens has trobat un capità?
+Bé, no, no exactament.
+No em diguis que has tornat aquí per provar el valent que ets de nou.
+Et vaig dir que no era un pollastre.
+Ja ho veurem!
+T'ho vaig dir, no tinc temps per ensenyar-te més trucs de tatuatge.
+Suposo que has vingut a envair la meva casa pacífica i tornar a insultar-me, eh?
+Mira, t'ho vaig dir
+No hi ha visitants!
+El governador ha estat segrestat!
+Soc en Bobbin Threadbare.  Ets ma mare?
+Soc un pirata, cap de canó.  Qui ets?
+Em pots tornar a ensenyar això del tatuatge neato?
+Com et dius, cap de canó?
+Disculpa, però el senyal va dir que hi havia banys aquí dins?
+Ai!  Acabo d'adonar-me que aquesta és la casa equivocada.
+No, la teva mare era un ànec.
+Ara el va colpejar.
+Què?  És absurd!
+De debò?
+Mira aquesta nota que van marxar.
+Mira aquesta nota que van marxar.
+Oh no.
+És horrible!
+
+Què farem?
+Esperava que tinguessis una idea.
+Podríem esperar que tornessin.
+Podríem reunir una tripulació i navegar després d'ells.
+Ens superem amb desesperació i ens rendim?
+Deixa'm pensar.
+Hmmm...
+Sí, podríem fer-ho.
+Però podria avorrir-se aquí here
+Quina idea!
+Bé, aquesta és una solució^
+Espera!
+Ho sé!
+Podríem aconseguir un vaixell i una tripulació i anar a rescatar-la!
+Quina idea!
+Ara, si tinguéssim un capità captain
+I jo?
+TU?
+HA HA HA HA!
+Això és bo.
+Ho dic de debò.
+De debò?
+De debò.
+D'acord, veiem que ho demostra.
+Camineu per aquí.
+Well^
+D'acord, però només un cop més.
+Mira, t'he dit que no em truquessis així.
+Em dic Meathook My
+I encara tens un petit problema d'actitud.
+I crec que tens un petit problema d'actitud.
+I encara tens un petit problema de cabell.
+Bé, crec que tens un petit problema de cabell.
+Ho sento.  No et volia dir cap de canó.
+Està bé.
+Preferiria tenir un cap de canó que una cua de poni.
+Ha ha ha!
+Ha ha ha.
+Volia dir-te cúpula cromàtica.
+Tens un bon sentit de l'humor.
+Vols veure alguna cosa realment divertida?
+Preferiria no.
+Com què?  Una foto de tota la teva família calba?
+Sí, ensenya'm, Sr. Meat.
+Vinga.
+Només trigarà un segon.
+Geeze!
+No saps quan sortir, oi?
+Òbviament, tampoc el seu barber.
+Ho sento.  Només intentava ser graciós.
+Vols veure una cosa divertida?
+Mira això!
+Hola, Roger!
+Hola, Roger.
+Molt bé, oi?
+Tinc una rutina, però no tinc temps per fer-ho bé ara mateix^
+Potser si alguna vegada anem junts en un llarg viatge per l'oceà
+^però fins llavors, soc un home molt ocupat, so^
+Ho sento, però aquest senyal està una mica antiquat.
+Solia tenir un pròsper negoci turístic aquí.
+Vaig tenir actes d'animals, demostracions de tatuatges, souvenirs I
+Però va haver-hi un petit accident amb un dels animals entrenats^
+guestun dels nostres convidats va patir molt de mal.
+Així que em van tancar, em van deixar fora de negoci.
+I des de llavors he viscut aquí tot sol
+I l'única companyia que tinc és la mateixa bèstia que va arrasar aquest turista desgraciat.
+La mateixa bèstia que em va fer ermità.
+Un monstre que, només per coincidència, és idèntic a un que em va atacar quan només era un nen^
+^i em va deixar amb aquests ganxos en lloc de mans^
+Un home deformat.
+Geeze, ara estic deprimida.
+Moltes gràcies.
+No em pots deixar sola ara?
+D'acord.
+Passa-t'ho bé a Mlélée IslandTM!
+
+Per què tu
+Adeu, Roger.
+Adeu, Roger.
+escales
+camí
+Tinc un tros de vuit.
+Tinc vuit peces.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 peça de vuit
+peces de vuit
+pieces peces de vuit
+No n'estic segur, però crec que pot estar adormit.
+lookout
+lookout
+Alguna senyal del Governador?
+Cap.
+Com he dit, em temo que hem vist l'última d'ella.
+Mira, t'ho vaig dir...
+No he vist res.
+Si estàs preocupat per ella, ves-te'n a buscar-la.
+Escolta, estic una mica ocupat ara mateix.
+Parlaré més tard.
+He sentit que hi hauria un rostit de weenie aquí.
+Busco diversió.  Seien?
+Què és verd i pelut i té mil cames?
+Alguna vegada et preguntes si som tots personatges d'una novel·la?
+Mira!  Ha ha.  Entesos?
+Yikes!
+Oh, ets tu de nou,
+
+
+
+
+
+Gairebé m'has espantat fins a la mort.
+Pensava que eres...
+- no importa.
+Què vas dir que es deia?
+Soc Guybrush Threepwood.
+De fet, em dic Guybrush Threepwood.
+Què passa amb ckGuybrush Threepwood??
+Truca'm Squinky.
+He acabat per aquí.
+Qui ets?
+Per què el governador està preocupat pels visitants inesperats?
+Ara vinc a buscar la meva fortuna.
+He vingut a Mlélée IslandTM perquè vull ser pirata.
+Has triat el lloc adequat per a això.
+Encara que potser el moment equivocat.
+Per no esmentar el nom incorrecte.
+Tens el nom més brillant que he sentit des de fa molt de temps.
+És l'únic que he sentit que era més ridícul que quinSquinky..
+D'acord, Squinky.
+Acabes de dir que eres de fusta d'una deriva o una cosa així.
+GUYBRUSH THREEPwood.
+És clar, el que sigui.
+Eh?
+Oh.
+Soc la mirada de l'Illa Mêlée.
+Veig l'oceà per apropar-se a les tempestes i vaixells, i informar-los directament al governador.
+No li agraden els visitants inesperats^
+. Sobretot ara no.
+Digues, qui ets, de totes maneres?
+És en THREEPWOOD.
+Què passa amb ckGuybrush Threepwood??
+Per què el governador està preocupat pels visitants inesperats?
+Com vas arribar a ser l'espectador quan estàs òbviament cec com a bat?
+Soc aquí.
+Ara vinc a buscar la meva fortuna.
+De fet, són els visitants esperats que ens preocupen.
+Un capità pirata en particular^
+Un mort, però això no el fa menys perillós.
+Mira la llengua.
+El xèrif Shinetop em va piratejar a mà!
+Eh?
+Oh.
+Oh, cert.
+No és això el que he dit?
+Res, si vols vendre sabates.
+Vols ser pirata, noi, agafa'm el consell:
+Canvia el teu nom.
+Prova alguna cosa com .Dreadbeard. o .Six-fingered Pete..
+
+Bona sort.
+Hola!
+Em dic Guybrush Threepwood, i vull ser pirata!
+Yikes!
+No em deixis així!
+Er^
+He acabat per aquí.
+Ah!
+Bé, llavors, hem de fer-ho
+THREEPWOOD.
+Guybrush THREEPWOOD.
+Ja ho veig.
+Vols ser un pirata, oi?
+Sembles més aviat un inspector de terra.
+Però si et prens de debò la pirateria, ves a parlar amb els líders pirata.
+Els trobaràs a la barra de l'Escuma.
+Ves, gràcies!
+Ho faré!
+Adeu, ara.
+Vaig a buscar la meva fortuna!
+Bona sort.
+Um^
+On ha dit que eren aquests líders pirates?
+EL BAR DE L'ESCÒRIA.
+D'acord.
+Gràcies.
+
+Mentrestant
+
+Sota l'illa Monkey, el pirata fantasma LeChuck està ancorat en un riu de lava.
+
+
+
+
+
+
+Capità LeChuckIsirII^
+Ah^
+No t'agraden els vents de l'infern.
+Sense sir^
+Res semblant a
+Ah^
+Sir^
+I^
+Són dies com aquest que et fan feliç d'estar mort.
+Sí senyorglglad per estar mort^
+Estàs content d'estar mort, oi?
+Sí, senyor.
+Em sento tan afortunat que hagis aconseguit capturar la meva nau, i després m'han assassinat a mi i a tots a bord^
+yessí senyor^
+Afortunat.
+M'alegro de sentir-ho.
+Per què m'has molestat?
+Ah.yes senyor.well, pot ser que tinguem un problema a Mlélée IslandTM.
+PROBLEMA?
+Quin possible problema podria haver-hi!?
+Tinc els pirates de l'astúcia tan espantats del mar que tenen por de banyar-se!
+Well^
+Sembla que hi ha un nou pirata a la ciutat.
+De fet, és un pirata que vol.
+Jove.
+Inexperta.
+Probablement res a preocupar-se.
+No sé per què et vaig molestar amb això.
+El faré cuidar de mi mateix.
+Espera!
+Jo me n'encarregaré personalment.
+Els meus plans són massa importants per a ser empassats pels aficionats.
+Sí, senyor.
+
+Mentrestant
+
+
+
+Després d'haver tornat de Mlélée, LeChuck i la seva tripulació troben el seu antic amagatall als rius subterranis de l'illa Monkey i l'àncora.
+
+
+
+Capità, senyor
+Acabo de felicitar-lo per la seva missió de segrest.
+Capità?
+Capità?  Estàs bé?
+MAI EM SENTIA MILLOR!
+I a què va el nostre presoner?
+Sí, el presoner.
+Vam tenir un petit problema^
+PROBLEMES!
+Res de què preocupar-se, senyor sir
+Tot està sota control.
+Es va escapar unes quantes vegades^
+Però la tenim tancada a la gerra.
+Ningú entra o surt d'aquí.
+Espero que no.
+Amb anys de planejament gairebé destruïts per la meva mort, no m'estic prenent cap oportunitat ara.
+Llavors vas cuidar del Sr. Threepwood?
+El Guybrush Threepwood no serà un problema.
+En aquest mateix moment, té vint peus sota l'aigua
+Probablement inflat com un porc engreixat.
+Els crancs mengen els ulls.
+El peix li pega als dits.
+Kinda et fa desitjar que eres allà per veure.
+Ahiryessir^
+--yech--
+- Sí.
+Ara ves a comprovar l'arrel.
+Assegura't que està tancat.
+Sí, capità.
+
+Fosc i ominós.
+cova
+Fosc i ominós.
+cova
+cova
+cova
+Fosc i ominós.
+cova
+Preferiria no tocar-la.
+cervell
+Preferiria no tocar-la.
+cor
+Preferiria no tocar-la.
+cor
+Preferiria no tocar-la.
+ulls
+Preferiria no tocar-la.
+ulls
+Preferiria no tocar-la.
+cara
+Preferiria no tocar-la.
+globus
+Preferiria no tocar-la.
+CAPS
+Preferiria no tocar-la.
+CAPS
+Preferiria no tocar-la.
+clúster de globus
+Preferiria no tocar-la.
+mans sagnants
+Preferiria no tocar-la.
+nas gran
+Preferiria no tocar-la.
+nas gran
+Sí.  Odio els bolets.
+Preferiria no tocar-la.
+bolet
+Sí.  Odio els bolets.
+Preferiria no tocar-la.
+bolet
+Gross.
+Sí.
+Creepy.
+Collons.
+Sickening.
+Disgustant.
+Com nàusees.
+Crec que em posaré malalt si he de mirar més coses d'aquest tipus.
+Yikes.
+És estrany.
+Merda.
+Això em recorda una cosa que vaig veure en un malson una vegada.
+Sembla gairebé tan dolent com fa olor.
+Nasty.
+És horrible.
+- Hola.
+Horrid.
+Gratuït i morbid.
+Això realment em fa miques.
+.molt desagradable.
+Revoltant, i tot i així em sento atret per això.
+De fet, aquest no és tan dolent.
+Saps, de fet estic començant a agradar algunes d'aquestes coses.
+Cal!
+Genial!
+Gnarly!
+Si no surto d'aquí aviat, crec que perdré el cap.
+Sembla una corda de salt.
+corda
+corda
+nota
+jungla
+No sembla bé.
+Collons.
+home amb aspecte insà
+cadàver penjat
+Herman Toothrot
+Crec que està ple d'aquelles coses dolentes que beuen els pirates.
+Crec que ja en tinc prou.
+No vull tant.
+barri
+porta
+taula
+És una mena de carn o substància similar
+tros de carn
+Algú va cuinar un cap en això.
+pot
+Crec que l'ocell em fotrà la mà
+peix amb condiment
+Crec que és un areng.
+peix
+porta
+Està bullint.
+Hmm.  Carn de roba.
+Hmm.  Peixos estesos.
+esto
+El taulell està atrapat.
+No és una fulla de la badia, però cada cuiner fa substitucions.
+espès
+No crec que necessiti carn ni peix.
+carn en esto
+peix en esto
+No vull entrar-hi.
+carn picada
+peix
+espès
+esto
+Ouch!
+Ho tinc!
+Vaja!
+S'ha menjat la cosa!
+mug o' grog
+Això està menjant per la mug!
+mug de fusió
+mug prop de la mort
+cava
+Tots dos estan buits.
+No puc treure res d'aquesta mug.
+Ja no és gaire una mug.
+No puc posar res en aquella mug!
+mug o' grog
+cava
+Això no aguantaria això!
+Això no aguantaria això!
+carn amb condiment
+Litterbugs.  Però Sharp.
+ampolla trencada
+escala
+Sembla afilada.
+hacksaw
+Rusty, però afilada.
+ganivet rovellat
+De fet, és més com un portal fabulós.
+ídol fabulós
+MOLT AFILADA.
+tisores de rpor-sharp
+Afilada i perillosa.
+escissió de carn mortal
+Agut i fort.
+destral
+És afilada.  Serà millor que vagi amb compte.
+espasa
+No puc arribar-hi... estic lligat a aquest estúpid ídol!
+Suposo que necessitaré una espasa.
+Aquest sí que ho farà.
+No sé quant més temps puc aguantar l'alè.
+Nick, acabo de cometre un delicte!
+Va implicar aquell gran ganivet que tens aquí?
+Sí!
+Què hauria de fer?
+Allunya't!
+El llençaré a l'aigua!
+No, no ho facis!
+Per què no?  L'he d'arruïnar!
+Podria rentar-se en algun lloc!
+Què m'importa?
+Els meus gravats no hi seran!
+L'estic llançant!
+ahnaaaah.  Podria necessitar-ho.
+Ens veiem.
+Ens veiem.
+
+porta
+camí
+camí
+Big Body Pirate Gym del capità Smirk
+Preu:
+Espases Formació 30 Pieces o' 8
+Cannon Firing 160 Pieces o' vuit (balls extra)
+Grappling Hook 130 Pieces o' vuit (ganxo extra)
+
+símbol
+És terrible i insensible i a punt de colpejar-me de nou.
+LeChuck
+Crec que trucaré.
+Només seria educat.
+No hi ha resposta.
+Què vols, t'agrada el cuc sense porqueria?
+Què vols?
+Ets tu.
+Em podries entrenar a ser millor que el mestre de l'espasa?
+Em pots fer el millor lluitador d'espases de MléléeTM?
+Podem entrar?  És una mica dolent aquí fora.
+Saps on viu el mestre de l'espasa?
+Eh? Podries treure aquest cigar?
+Què has dit?
+He dit que és una mica ximple aquí fora!
+Hmmm^
+Tens raó.  Podria agafar un refredat.
+Oblida-ho, noi.
+Li tallaria el cap.
+Tret que, per descomptat, tinguis una mica d'entrenament en primer lloc^
+No és bo per la teva salut, i fa olor de terrible.
+És clar, m'encantaria deixar-ho córrer
+faceen la teva cara!
+Uh^
+Potser me'n vaig.
+Bona idea.
+Vols dir, no comptar el mestre de l'espasa?
+Comptant a tots.  Vull ser el millor.
+Millor que el mestre de l'espasa?
+Tu?
+Ha ha ha!
+Mai podríeu ser la meitat del lluitador d'espases que és en Carla.
+Fins i tot amb hores de treball dur i sang de suè.
+Recordo lluitar al costat de Carla a Port Royal^
+!el policia local ens va fer acorralar!
+Semblava que estàvem fets, però llavors ella va dir--
+--but I digress^
+No tens el que et cal.
+Jo sí que tinc el que necessita.
+Ho faig!
+Suposo que tens raó.
+Saps, de debò que hauries de deixar de fumar.
+Tu no!
+El que realment hauria de fer és fer-te menjar aquesta estogie.
+M'agrada el teu esperit.  Faré el que pugui.
+Per descomptat^
+Et costarà.
+Has vist el meu senyal?
+Normalment cobrava 30 peces de vuit per una gran feina com aquesta.
+Què tens?
+Què més tens?
+Tinc 30 peces de vuit.
+Vaig pensar que ho faries de franc.
+Crec que esperaré.  Gràcies igualment.
+Tot el que tinc és aquest pollastre mort.
+No diguis res més, no diguis res més.
+Bé, et vas equivocar.
+Bé, queda't un plat sense espines de l'espitella de l'aranya.
+No és un d'aquests pollastres de goma amb una politja al mig?
+Ja en tinc un.
+Vegem la teva espasa.
+D'acord, comprova-ho.
+Suposo que em vaig oblidar de comprar-ne un.
+No vull ensenyar-te-la.
+Tinc aquest pollastre d'aspecte mortal.
+Sí, és bonic.
+Anem-hi.
+Us suggereixo que us baixeu el vostre maleït cul a la botiga i en compreu un.
+No tinc l'hàbit de prestar estudiants d'espases.
+Sí, balancejar un pollastre de goma amb una politja de metall gran pot ser bastant perillósanger
+PERÒ NO ÉS UNA ESPASA!!!
+Suit.
+Crec que millor.
+D'acord, maggot,
+.per què no traiem aquesta espasa i vegem què hi pots fer.
+Noi!
+Lluita com un granger!
+Normalment no perdo el temps amb vermin com tu.
+Però veient com aquesta cosa de LeChuck ha posat una panxa en els negocis, no tinc elecció^
+Necessito els diners.
+Sí^
+Veig que això adoptarà algunes mesures especials.
+Només vull que ho coneguis
+No ho faig amb tots.
+És només perquè sento que és especial^
+ingstudent/mentor/articles-de-eight bonding^
+- Que vaig a aquestes longituds.
+Et posaré en contra
+LA MÀQUINA.
+Màquina?
+Et farà mal?
+Yikes!
+Vine amb mi.  No tinguis por, no em faràs mal.
+Hores més tard^
+
+
+
+Comenceu a penjar-la.
+Més hores després^
+
+
+
+No està malament.  Tens bona forma.
+Ara et deixaré entrar en el veritable secret de lluita d'espases.
+La lluita amb espases és com fer l'amor.
+No sempre és el que fas, sinó el que dius.
+Qualsevol pirata ximple pot balancejar una peça de metall afilada i esperar tallar alguna cosa something
+butperò els pros^
+(Se sap quan tallar el seu oponent amb un insult)
+- Qui els atrapa fora de guàrdia.
+Veus, nano, el teu enginy ha de ser el doble d'agulla que la teva espasa.
+Fem un parell d'insults, d'acord?
+OK^
+imaginimagina això:
+Estem lluitant per una tempesta
+Com en Carla i jo estàvem fent a Port Royal.
+Hi ha un descans sobtat en la lluita i et dic:
+.Esteu lluitant com un granger de llet'
+Respons?
+Oh, sí?
+I la teva mare.
+Soc goma, tu ets cola
+Has de pensar en algú altre, no soc un agricultor.
+Veig que tenim molta feina per fer aquí.
+Hauríeu d'haver respost amb alguna cosa com^
+Com de apropiat.  Lluita com una vaca."
+Veu
+És un enginy d'afaitar com aquell que guanya combats.
+Intentem-ne un altre.
+Imagineu-vos això:
+Estàs atrapat contra una paret a
+La meva espasa ha tallat dos talls a la teva cara.
+Dic
+sword És que portaràs la meva espasa com un kabob!'
+Respons?
+Oh, sí?
+I la teva mare.
+Soc goma, tu ets cola
+Que apropiat.  Lluita com una vaca.
+Veig que estem en un profund problema aquí.
+No! No! No!
+Aquesta va ser la resposta de l'últim insult.
+Ni tan sols té sentit quan s'utilitza aquí!
+<sigh>
+Una resposta correcta a to
+sword Portes la meva espasa com un kabob! !
+^hauria estat una cosa semblant^
+. 'Primer millor que deixis de fer-ho com un dubo de plomes'.
+Vegeu
+Arpa!
+Ara et suggereixo que vagis allà fora i aprenguis alguns insults.
+No puc ajudar, però sento que m'han arrencat.
+Segur que sents una cosa semblant.
+Avance, Thrust, Recover, Parry, Riposte.
+Mira el teu treball.
+No!  Primer toqueu, després llunge.
+Fes servir la teva forta contra la foble.
+Distància, distància!
+Diu: "Em vaig guanyar l'espasa mestra"
+Crec que la mantindré en estat de menta.
+Potser val alguna cosa algun dia.
+Samarreta de cotó del 100%
+Tu!
+He vingut a impedir que et casis amb el governador Marley.
+Si us plau, no em matis.
+Agafa això, vas vaporós voodoo vermin!
+Acabo de recordar una cita al dentista.
+Governador!
+Governador!
+Governador?
+Què passa?
+Oh, Guybrush, ximple!
+M'impressiona que hagis vingut a rescatar-me, però realment no era necessari.
+Ho tenia tot ben a la mà.
+Per desgràcia, la seva arribada m'ha fet necessari que m'ensenyi la mà aviat.
+
+Com vas aconseguir escapar?
+Pensava que en LeChuck anava a casar-se amb tu.
+Si ets aquí, llavors qui està al vestit?
+howmo^
+whoqui^
+butperò^
+^què^
+II^
+umum^
+Ha estat fàcil.
+LeChuck és un bozo,
+Ei!
+i molts dels seus membres de la tripulació eren amics meus, quan eren vius.
+Sí, jo també!
+Sí, també ho va fer ell!
+Però vaig organitzar una petita sorpresa quan va arribar el moment de besar la núvia.
+Què?
+No els espanta!
+Tenen la meva ampolla de cervesa d'arrel de palanca de fantasmes!
+Oh, ho aconseguiré!
+
+oooops^
+Bona sort, Guybrush.
+Ara els he de perseguir per recuperar la meva cervesa de voodoo.
+butperò^
+II^
+erer^
+^hey^
+
+T'has atrevit a venir aquí i enfrontar-te a mi!
+No puc creure la teva audàcia!
+No puc creure la teva estupidesa.
+Vaig haver d'impedir-te casar-te amb el governador Marley.
+Si us plau, no em matis.
+Agafa això, vas vaporós voodoo vermin!
+Acabo de recordar una cita al dentista.
+Sí?
+No puc creure la teva frivolitat.
+No puc creure la teva mobilitat.
+No puc creure la teva fragilitat.
+No puc creure la teva enormitat.
+No puc creure la teva atrocitat.
+No puc creure la teva alacrity.
+No puc creure la teva virilitat.
+No puc creure la teva felicity.
+No puc creure la teva validesa.
+Em casaré amb ella encara!
+Com vols aturar-me?
+Et tremolaré amb un pollastre de goma.
+Us ho faré amb la meva ampolla de seltzer.
+Li oferiré un suborn a la teva núvia.
+Utilitzaré la meva llança i el meu casc màgic.
+He d'anar-me'n, estic a doble vista.
+Hah!
+Arruïnat per la meva bellesa, eh?
+Molts ho han intentat i han mort pel seu esforç.
+Dona'm una bona raó per la qual no hauria de matar-te.
+No estaria bé.
+Estic connectat per explotar si algú intenta matar-me.
+Tinc una dona i tres fills.
+Com és això per una raó, eh?
+Ho he sentit!
+Eh?
+Em canso de tu.
+Mai no tornareu a amenaçar pirates dignes i tangibles, ja que heu fet malbé
+ofde^
+!d'alguna cosa que comença amb !b!!
+Uh^
+thereAguanta un minut, amic^
+- Només feia broma, saps?
+settlePodem resoldre això com a senyors gentlemen
+Oh, no!
+Està EMBOLICat!
+Ha de ser un lint de butxaca.
+
+Er^
+sayAssaig, ara^
+^no serem precipitada^
+
+
+
+Dona'm una bona raó per la qual no hauria de matar-te.
+Agafa què?  Intentes subornar-me?
+En necessitaré un quan hagi acabat amb tu!
+És com el de l'altre costat.
+Pol
+No crec que això em porti enlloc.
+Hmmm^ Crec que podria donar suport al meu pes^
+cable
+cable
+cable
+cable
+És com el de l'altre costat.
+Pol
+porta
+camí
+Gaudeix, però de manera alegre.
+símbol
+Dingy.
+casa
+
+Vaja!  Funciona de totes dues maneres.
+És una mica de pollastre.
+
+
+Què vols?
+Un pirata pot ser perillós per a la salut de l'orella.
+Aparta't del camí, o talla el meu camí!
+Sí, millor que sigui importà".
+Què vols?
+Un pirata pot ser perillós per a la salut de l'orella.
+Aparta't del camí, o talla el meu camí!
+Sí, millor que sigui importà".
+Què vols?
+Un pirata pot ser perillós per a la salut de l'orella.
+Aparta't del camí, o talla el meu camí!
+Sí, millor que sigui importà".
+Bona nit que tindrem, oi?
+Per què parles tan graciós?
+Has vist mai com comencen a semblar iguals totes aquestes carreteres?
+Em dic Guybrush Threepwood.  Prepara't per morir!
+No passaries a tenir un parell de peces de vuit^
+Em sap greu molestar-te.  Ja vinc.
+Segur que esperaven que em detinguessin més importadors?
+Segur que esperaven que em detinguessin més importadors?
+Segur que esperaven que em detinguessin més importadors?
+Pirate Lingo!
+Així és com tothom parlava llavors.
+Vinga, Guybrush, fes-ho.
+Pirate Lingo!
+Així és com tothom parlava llavors.
+Vinga, Guybrush, fes-ho.
+Pirate Lingo!
+Així és com tothom parlava llavors.
+Vinga, Guybrush, fes-ho.
+Sí!  Ara que ho dius, ho fan.
+És probable que estiguem cansats.
+Sí!  Ara que ho dius, ho fan.
+És probable que estiguem cansats.
+Sí!  Ara que ho dius, ho fan.
+És probable que estiguem cansats.
+- Podria manllevar.
+He de comprar unes mentes d'alè.
+M'ho estàs dient.
+M'ho estàs dient.
+M'ho estàs dient.
+Es perden, 'ja t'ho suplico, abans que et talla a trossos.
+No em concedeixo diners a ningú, 'specialment lubbers com yerself.
+En Beggin no ha vingut.  Hauria de sortir i robar-la com un pirata de veritat.
+Acabo de donar-me l'última part de la nit al pirata que vol seguir per la carretera.
+Necessitava ta per comprar algunes mentes d'alè.
+Mala.
+Es perden, 'ja t'ho suplico, abans que et talla a trossos.
+No em concedeixo diners a ningú, 'specialment lubbers com yerself.
+En Beggin no ha vingut.  Hauria de sortir i robar-la com un pirata de veritat.
+Acabo de donar-me l'última part de la nit al pirata que vol seguir per la carretera.
+Necessitava ta per comprar algunes mentes d'alè.
+Mala.
+Es perden, 'ja t'ho suplico, abans que et talla a trossos.
+No em concedeixo diners a ningú, 'specialment lubbers com yerself.
+En Beggin no ha vingut.  Hauria de sortir i robar-la com un pirata de veritat.
+Acabo de donar-me l'última part de la nit al pirata que vol seguir per la carretera.
+Necessitava ta per comprar algunes mentes d'alè.
+Mala.
+fora
+fora
+fora
+fora
+
+Això funcionarà com un casc!
+No és un casc.
+No és un casc.
+ECO
+eco
+Fettucini Brothers
+Fettucini Brothers
+Weasel!
+Weevil!
+Miscreant!
+Toady!
+No passa res!
+Scofflaw!
+Mullet-head!
+Cap de mill!
+Pencil!
+Mig cap!
+Cap de formatge!
+Harpy!
+Què?
+Només puja al canó!
+La teva mare porta sabates de combat!
+Deixa la nostra mare fora!  Entra al canó!
+Ets un pollastre!
+Ets un pollastre mort!
+Bé, ets un pollastre mort amb una politja al mig!
+Què?
+Només puja al canó.
+No, tu t'entres al canó!
+No, tu t'entres al canó!
+La teoria bàsica és bona.
+Només hem de canviar una mica l'objectiu.
+Ho provaré a continuació!
+No, ho faré a continuació!
+No, jo!
+No, jo!
+Slacker!
+Perdedor!
+Ruffian!
+Fop!
+Em posaria al canó, però la pólvora em fa esternut.
+Bé, no puc fer-ho, vaig fer mal a la meva mà fent mal als lleons la setmana passada.
+No crec que aquesta petita rascada sigui comparable a la meva al·lèrgia crònica.  Et poses al canó.
+No tens al·lèrgies, fingeixes.  T'entra al canó.
+No, tu t'entres al canó!
+No, tu t'entres al canó!
+Slacker!
+Perdedor!
+Ruffian!
+Fop!
+. . - Sí. . .
+Aquest lloc té un bany?
+Estic venent aquestes boniques jaquetes.
+Puc manllevar un trampolí?
+Per què esteu vestits amb aquests vestits ridículs?
+Hola de nou.
+Preparat per fer el truc del canó?
+Digues-li, fill, com t'ha agradat una oportunitat...
+--A una vegada en una oportunitat de vida--
+--Per realitzar una gesta increïble--
+--Una fita de la defensa de la mort--
+--Bé, no tan depriment, en realitat--
+--Un gest perillós--
+--No, no perillós en absolut--
+--Un gest fàcil--
+--Però emocionant!--
+--Amb l'amazing--
+--Adventurous, acrobàtic--
+--I Excedentment ben-Known--
+--Fabulous, Volant--
+--Fettucini Brothers!
+Som nosaltres.
+El meu germà Alfredo^
+I el meu germà Bill.
+Sona bé?
+Bé.
+És molt senzill, de debò.
+Veus aquest canó allà?
+Tot el que has de fer--
+--S'ha de ficar al canó--
+- I et dispararem...
+--Across the Room--
+--Quite segur, de fet--
+- Què dius?
+
+D'acord, ho faré.
+Quant em pagaràs?
+Oblida'l!
+Et pagarem vuit.
+Què tal si trobes de vuit?
+D'acord, sona bé.
+De cap manera!
+Tens un casc?
+No, no tinc un casc.  En necessitaré un?
+És clar que tinc un casc.  Per quina mena d'idiota em prens?
+Bé, anem a tenir-ho.
+Volem estar segur...
+--Que és segur--
+--Would no vol que et facis mal--
+--Nosiree!
+No hi ha casc?
+Has de tenir un casc...
+--No es pot fer el truc de canó sense casc--
+--Nosiree!
+Ves a buscar un casc, i llavors podrem fer el truc.
+
+Ara podem fer el truc.
+Passa just aquí, fill.
+Ara, posa't el casc...
+--i entra al canó--
+- i ens ocuparem de la resta.
+
+Funciona!
+Estic tan alleujat!
+Hey^
+Estàs bé?
+rerehtom ym uoy erA .nibboB m'I
+temtemleh ym s'erehW
+Soc en Bobbin.  Ets ma mare?
+On és el meu casc?
+Està bé!
+Hooray!  Se'ns ha salvat una incòmoda i financerament afeblidora demanda!
+Aquí tens els teus diners, senyor.
+Només recompenses per ajudar-nos.
+
+
+
+No és un casc.
+Aquells germans Spaghetti bojos encara hi són.
+Crec que hi ha alguna cosa aquí dins.
+tenda de circ
+camí
+Serà millor que vagi amb compte de no tallar-me.
+finestra trencada
+porta
+Un Ming sense preu!
+vas
+No hi ha temps per llegir ara.
+llibres
+És bonic.
+ídol fabulós
+Encara no tinc un arxiu.
+No hi tornaré!
+forat buit
+Vaig tancar el xèrif allà dins!
+porta
+porta
+Diu que els gophers no s'aproparan amb això.
+repel·lent de gopher
+Crec que és una mena de text religiós.
+Manual d'estil
+Són de mida de color roig i coberts de llenya.  Certament no els enganyaré.
+llavis de cera
+No hi ha escales per eliminar.
+Aposto que això vindrà de la mà.
+pleple remover
+No reconec l'home, però això sembla el gos del bar.
+No reconec l'home, però té un gran barret.
+pintura
+cadira pesada
+xèrif
+tremolor
+botó vermell
+rinoceros
+gopher
+triturador
+pallasso fortament armat
+
+Ho necessitaré.
+Val més deixar-ho aquí.
+Hypnotize
+No!
+No el botó vermell!
+És un gran i lletja i pelut que porta uns llavis de cera.
+tremendament perillós
+No puc moure-la.
+No puc moure-la.
+Acck!
+ophgophers!
+un altre gopher
+horda
+homenet graciós
+És bonic!
+bloqueig
+No ho puc obrir.
+Oh, oh!
+triturador
+
+confeti estil
+Vagi!
+Corba
+foc
+rinoceronts
+bloqueig
+Però encara no he acabat amb tu!
+Oh...
+Pensava que podies sortir d'aquí amb l'ídol de moltes mans, oi?
+Mira, puc explicar explain
+Així que puc...
+Has enverinat els poodles del governador
+Estan dormint!
+intova entrar a casa seva^
+La porta estava desbloquejada!
+I va robar una de les seves peces d'art més valuoses!
+No, ho tens tot malament!
+De debò?
+
+Bé, escoltem la teva explicació.
+Ella va dir que podia tenir-ho!
+Només ho manllevaria!
+Pertany a un museu!
+Els líders pirata em van dir que ho fes!
+L'estava traient per un passeig.
+Ha!
+Què passa aquí?
+He agafat aquest barril fent-se amb el teu ídol, governador.
+Diu que li ho vas donar!
+Així és.  Ho vaig fer.
+Diu que l'estava manllevant!
+Així és.  Li ho vaig cedir.
+Diu que pertany a un museu!
+Així és.  Sí.
+Diu que els líders pirata li van dir que ho fes!
+Llavors no és la primera persona decent que han dirigit l'atractiu!
+Diu que l'estava traient per un passeig.
+Bé, no és tan bonic d'ell.
+Què?
+M'has sentit, Fester.
+La veritable pregunta és, com va arribar aquí mentre estaves en guàrdia?
+I^ Uh^
+Ves-te'n, Fester.
+Puc manejar això.
+Hmpf!
+Ja m'ocuparé de tu més tard.
+Ho sento per ell.
+És nou.
+Soc el governador Marley^
+
+He d'estar boig!
+Tinc el fitxer^
+Això l'hauria de mantenir durant un temps!
+Si només tingués un arxiu podria aconseguir l'ídol!
+
+Phew!
+Era molt proper.
+Almenys vaig aconseguir l'ídol.
+Sembla una feina per en Fester Shinetop!
+On creus que vas?
+On creus que vas?
+On creus que vas?
+On creus que vas?
+On creus que vas?
+On creus que vas?
+Vaig a posar aquest ídol a la meva caixa de seguretat.
+Saps, no és massa tard per tal que ens conformem i siguem amics.
+Disculpi, Sr. Shinetop, però està bloquejant la porta.
+Au, Fester.
+De debò?
+Sé un pany realment segur que podries posar-ho en ^
+Davey Jones' Locker!!!
+Sí
+I tampoc és massa tard per a mi matar-te i arribar al bar durant una hora feliç.
+Crec que has de refredar-te.
+Dona-li l'espasa.
+Oh...
+camí
+camí
+M'assemblo a un gopher?
+trol
+trol
+NO PASSARÀ!
+Ah!  Un areng vermell!
+Passa.
+T'atreveixes a ofendre'm amb una quantitat tan miserable?
+Això sens dubte cridarà l'atenció
+^i no val^
+Però no és el que vull.
+És bastant inútil.
+Però no és el que vull.
+Vull alguna cosa que desviï l'atenció de coses que són realment importants.
+I una cosa més salada?
+Tinc gana esperant-te.
+Què et sembla alguna cosa per menjar?
+
+PROU!
+Has de pagar un peatge!
+No pots passar fins que paguis la factura!
+Aparta't, troll, soc un pirata poderós.
+Oh, si us plau, no puc passar?
+Quant és el peatge?
+Quant has dit que era el peatge?
+No m'hauries d'haver menjat ara?
+Mira darrere teu!  Un ratolí!
+Oops, ho sento.  Vaig a prendre el llarg camí.
+Noi, sones com un caramel.
+No m'agraden les trinxeres.
+No cauré per això!
+Tranquil·la al llarg, mar de toc escorbut!
+No tinc gana.
+Hah!
+No ets pirata!
+Per què, el poble borratxo et podia treure de l'esquena!
+(I probablement ho faria.)
+Oh, sí?
+Puc treure'm a ningú, un doppelganger sense cervell!
+Aixeca't a l'orella, gran garrul verd.
+Aniré a buscar.  Bon dia.
+Sí!
+Saps, podries donar una o dues lliçons si això és el millor que pots aconseguir.
+No a mi no pots, titella estúpida igualment sense cervell!
+Una vegada vaig posseir un gos més intel·ligent que tu.
+Agafa això i fica-ho en el teu repertori!
+Uh^
+ererrrr^
+Quina orella, codgel-breath?
+^heh^
+Què és tan bo?
+Bé, què tens?
+Una mica de carn semi-rancida?
+Un estofat?
+Un pollastre de goma amb una politja al mig?
+No et fiquis amb mi, troll, soc un pirata poderós!
+30 peces de vuit?
+peces de vuit?
+Un tros de vuit?
+Res de conseqüència.
+No importa, he d'anar-me'n ara.
+Bé.
+Comença.
+Vull alguna cosa que atreui l'atenció, però que no tingui una importància real.
+Cursos de paper de construcció?
+Un raig de mico amb tres collars?
+Un pollastre de goma amb una politja al mig?
+La meva vella credenza familiar de tres mans coberta de molsa?
+Intentaré trobar una cosa així.  Adeu.
+No siguis ximple.
+Tens tres possibilitats de donar-me el que vull.  Then^
+- Et menjo!
+Sembla un campament vell abandonat.
+campament
+Quina planta tan encantadora.
+roca i planta
+Creepy.
+ossos
+Quin groc inusualment brillant són.
+Les mateixes velles flors vermelles per tot el bosc.
+Ja en tinc un.
+No crec que passejar-se pel bosc amb flors és una bona pràctica per ser un pirata.
+plantes
+
+
+
+
+
+
+
+
+
+Només un bolcat antic regular.
+stump
+Sembla un antic bolcat regular amb les mateixes flors vermelles que creixen per tot el bosc.
+planta i bolcat
+OpenBranquil·la!
+símbol
+No entraré en aquest bosc mazelike sense mapa ni guia ni res.
+camí
+camí
+camí
+camí
+És un color groc sorprenent.
+petal groc
+No entraré en aquest bosc mazelike sense mapa ni guia ni res.
+Sembla estar ple d'un líquid carbonatat.
+cervesa arrel
+És gran, lletja, vol dir, i a punt de tornar-me a colpejar.
+LeChuck
+Gee, potser hauria d'haver comprat aquest
+Ara és un vaixell bonic.
+vaixell
+He venut un vaixell!  Ho pots creure?
+Estic de vacances llargues gastant uns diners de mal ventre!  Arrivederci, nena!!
+-Stan
+BENVINGUTS ALS VAIXELLS DE PROPIETAT ANTERIOR DE STAN!
+Ara estic buscant el globus el millor transport marítim de propietat anterior.
+Mira al voltant, tornaré!
+-Stan
+
+Millor que no.
+símbol
+porta
+Gee, potser hauria d'haver comprat aquest
+Silenci, però petit.
+vaixell
+camí
+Gee, potser hauria d'haver comprat aquest
+Sembla una d'aquestes importacions ben dissenyades.
+vaixell
+Gee, potser hauria d'haver comprat aquest
+Avorrit, avorrit, avorrit.
+vaixell
+VAIXELLS DE PROPIETAT ANTERIOR DE STAN
+untilNo callaré fins que t'hagi fet un tracte!tan - Stan
+targeta
+Pot ser que no sembli gaire, però és meva.
+Em sorprèn que aquest encara sigui flotant.
+vaixell
+Gee, potser hauria d'haver comprat aquest
+.nah.
+Ah, un fixador.
+vaixell
+Grog^
+Grog Diet
+Cherry Grog^
+Grog Classic^
+Grog Free lliure
+- I la cervesa.
+
+
+
+Les peces de vuit són la moneda local preferida.
+Ha d'haver-hi una manera més honesta d'aconseguir algun canvi de recanvi.
+màquina grog
+M'agradaria haver comprat aquest.
+Spiffy.
+vaixell
+peces de vuit
+peces de vuit
+WhenQuan vas a navegar per un bon valor, tots els vents bufen cap a Stan !
+(AVÍS: Conté un imant fort que pot interferir amb altres equips de navegació.)
+
+No n'estic segur, però crec que apunta cap a M Mlée IslandTM.
+Està apuntant cap a Stan.
+compàs magnètic
+Rumble
+Rumble
+Rumble
+Hmpf.
+Res.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Què bé!
+Només sabia que tornaries!
+Sabia que no podries treure't aquesta petita bellesa del cap!
+Vinga.  Anem a mirar-la una altra vegada!
+
+Genial tornar-te a veure!
+Sabia que tornaries!
+Tothom ho fa!
+Saps per què tornen?
+Soc en Stan de les Vessels Prèviament Propietaris.
+I em posaria al cap per fer-te un tracte.
+Quina mena d'artesania busques?
+Gran?
+Una mica?
+Ràpid?
+Lent?
+Ho vols, ho entenc.
+I si no ho tinc, ho aconseguiré.
+Vull fer-te un tracte amb el qual estiguis content.
+Perquè si no ets feliç, no soc feliç.
+Però sé que avui sortiràs feliç.
+Com ho sé?
+Mira tots aquests vaixells!
+Tinc alguna cosa per a tots!
+
+Vine a mirar al voltant!
+Què més et puc ensenyar?
+Així que digue'm...
+Què us interessa veure avui?
+Deixa'm veure el millor vaixell que tens.
+Podria tornar a veure això vermell?
+Alguna cosa no massa cara, però construïda per durar.
+Podria tornar a veure aquest viking?
+No tinc tant per gastar.
+Podria tornar a veure això barat?
+Aquell blau pèssim de la teva oficina sembla bonic.
+Uh? quant vols per la teva?
+De fet, m'agradaria anar a pensar-hi més.
+Ei, és agradable conèixer un home que aprecia la qualitat.
+Qualitat assequible?
+Ei, aquest és el meu lema!
+No tinguis por!
+Tots els vaixells que venc són un tracte!
+Però si busques un veritable furt real
+Només tinc el vaixell per a tu!
+Ho sabia!  Ho sabia!
+No la pots treure del cap, oi?
+És clar, és clar.
+Òbviament ets un paio educat que vol prendre una decisió educada.
+És clar!
+No hi ha problema!
+Després de tot,
+No tinc res millor a fer que portar el meu cul amunt i avall aquest moll mostrant a nois com vosaltres els mateixos vaixells una i altra vegada tot el dia!
+Per què no?  Tinc tot el dia!
+Camineu per aquí.
+Ara aquest^
+És un vaixell apte per a un rei!
+Vull dir, estem parlant de quinze habitacions... una xemeneia de cada un.
+Estem parlant de dues piscines... una a l'interior, una a l'aire lliure.
+Estem parlant de saló rotatiu.
+Estem parlant del niu del corb escalfat.
+Estem parlant de dos-cents peus de decadència oceànica.
+I tot per un preu baix.
+Parlar de preu^
+Aquí teniu un vaixell
+definitelyDefinitivament val la pena un segon cop d'ull.
+Ara, veig que ets una mena de tipus de no-treball.
+Però també puc dir que la qualitat significa molt per a vostès.
+Vull dir, mira com et vesteixes.
+Arrufada.  Com aquest nadó.
+Ella ve d'una terra lluny del nord
+whereon el mar és tan implacable com els homes són durs i--
+--hey, no seria d'allà que ho faries?
+Senzillament sembla tenir una espècie de qualitat nòrdica sobre tu^
+De totes maneres, estem parlant d'un valor real aquí^
+No pots mantenir els ulls fora d'ella, oi?
+Aquí hi ha el famós eaMico de mar`
+--L'únic vaixell que ha arribat a Monkey IslandTM^
+^i torna amb algú a bord que ha deixat viu.
+O, hauria de dir, qualsevol cosa.
+Ja veuen, els anteriors propietaris d'aquest vaixell eren dos pirates aventurers.
+Van partir, com molts altres, per trobar el llegendari Secret de Monkey IslandTM.
+I, com molts abans, van desaparèixer per sempre.
+El seu destí... un misteri.
+Gairebé tan misteriós com com aquest vaixell va tornar a Mlélée IslandTM sense un sol humà a bord.
+Alguns afirmen que va ser expulsat per una tripulació de ximpanzés.
+Penya?  No hi ha ximpanzés al Carib!
+Tanca.  És una bona història.
+De totes maneres, aquest bebè és meu ara^
+És a dir, fins que algú em faci una oferta.
+És difícil estar lluny d'un bon misteri, oi?
+T'ho vaig dir, no està a la venda!
+Geeze, estàs molest
+Però, ei!
+I jo, oi?
+És clar que sí.
+És meva.
+I no està a la venda.
+Què més et puc ensenyar?
+Quant li agradaria gastar?
+Parlem de diners... els teus diners.
+Quant volies gastar avui?
+En quina mena de rang de preus pensaves?
+Els diners no són objecte!
+De fet, esperava aconseguir-ne un de crèdit.
+Oh. no més de vuit peces.
+Oh. no més de vuit peces.
+Oh. no més de vuit peces.
+De fet, no tinc diners.
+Tot el que tinc és aquest pollastre de goma.
+He rebut el crèdit del guardià.  Ho agafaràs?
+En segon lloc, potser no és el vaixell per a mi.
+Bé, és amb mi.  Quant tens?
+Ho sento, noi.
+Ni un prestatari ni un prestador.
+És la filosofia de l'antiga Stan.
+Si tens una feina, el guardià de la ciutat et podria estendre una mica de crèdit.
+Llavors hauríem de parlar d'alguna cosa.
+Tret que, per descomptat, ja tinguis altres mitjans de finançament?
+No hi ha diners?
+Cap problema!
+Crec que aquí hem de parlar de vaixells totalment diferents.
+És clar que has estat fora del mercat de vaixells des de fa força temps.
+M'alegro que aquesta nau no tingui orelles, amic meu.
+Perquè si ho fes, et bufaria la cara.
+Mira
+Es tracta d'un vaixell molt raonablement preuat
+Però no és raonable.
+No crec que tinguis diners per aquesta transacció.
+Teniu altres mitjans de pagament^
+No?
+Dubto que portis prou diners per a aquesta transacció.
+No tindria cap altre mitjà de finançament, oi?
+És un d'aquests pollastres de goma amb una politja al mig?
+Ja en tinc un.
+M'encantaria.
+Ho faria.
+NORMALMENT.
+Però no per la quantitat que aquest nadó et portarà.
+Potser un dels altres vaixells estaria més en el teu rang de preus.
+Ei, és clar!
+El teu crèdit sempre és bo a Stan's at
+No importa si has tingut problemes de crèdit en el passat the
+Divorce^
+Bankruptcy^
+Els jocs d'atzar de cron
+Vull dir, qui soc per jutjar, oi?
+Si el guardià confia prou en tu per donar-te una carta de crèdit to
+?llavors has de ser un home honest amb uns ingressos estables, oi?
+Uh. cert.
+Bé, ho entenc.
+Res dolent en ser indecís.
+Encara que sigui una pèrdua del meu temps.
+D'acord, però avui tinc cinc nois més que venen a mirar aquest nadó.
+No comptis que sigui aquí si canvia d'opinió.
+És clar que no!
+Busques un vaixell molt més gran, ho puc dir.
+D'acord, però et dic que tinc un sentiment
+youAra sortiràs d'aquí avui amb un nou vaixell de propietat anterior!
+És clar, és clar.  Pensa-ho.
+No vull que et sentis pressionat ni res.
+Adeu.
+Ja t'he donat la meva targeta?
+Aquí.
+Serà millor que et doni un altre per si de cas.
+No, no, no.  En tinc prou, de debò.
+Suit.
+No oblidis el meu nom:
+STAN!!!
+No et preocupis.  No ho faré.
+Gràcies.
+Em vaig oblidar de donar-te la meva targeta.
+I aquí hi ha una altra cosa per recordar-me.
+Una brúixola?
+Una brúixola magnètica forta extra--
+Amb la teva foto en ell it
+Així és!
+Sempre apunta directament aquí, així que si busques un bon tracte, saps on anar!
+Seré aquí quan tornis,
+Però no puc garantir que cap d'aquests vaixells ho faci!
+D'acord.
+Avui es mouen ràpid!
+Yessiree^
+No puc tenir res en compte.
+Tornarà.
+Anem a baixar als pantalons, oi?
+Aviat m'hauràs de fer una oferta seriosa, saps?
+Sé que ho vols ^
+itSap que ho vols^
+^i sé que saps que vull vendre-la, sí^
+La setmana que ve rebrem un nou enviament, així que em vas portar per un barril.
+He de vendre aquest bebè, encara que això signifiqui perdre la camisa.
+Digue'm, què es trigaria a aconseguir que salpés aquest vaixell?
+AVUI?
+T'adones que ja no els fan així.
+Amic, em pots dir la veritat.
+És la dona petita, oi?
+Tens por del que dirà quan tornis amb un vaixell nou.
+No siguis tan ximple!
+Aguanta-la!
+Ella et respectarà per això.
+I quan vegi aquesta nau
+T'estimarà per això.
+Confia en mi.
+No ho entenc.  Pensava que estaves interessat en aquesta nau.
+Et deixaria portar una mica de volta al port, però la nostra companyia d'assegurances no ens deixarà.
+Estic del teu costat, col·lega.
+És el meu cap que és la veritable misèria.
+Potser no t'has adonat que aquest és l'únic vaixell de l'illa.
+Estic pensant en el fons educatiu del meu fill, aquí.
+Parlem d'extra.
+Vull fer-te una oferta.
+Bé, què creus que val?
+Oblida-ho.  No necessito aquest vaixell de totes maneres.
+Extres?
+Vols parlar d'extra?
+Genial!  Aquest bebè està carregat amb extres!
+Per exemple^
+T'he parlat dels desfoggers del forat?
+T'he parlat de l'àncora antibloqueig?
+T'he parlat del timó de la panxeta?
+T'he parlat de les cobertes de vela de vellut?
+T'he parlat del tack-o-meter?
+T'he parlat de l'ascensor fet amb fusta de taques de vi?
+T'he parlat de la construcció de fusta simulada?
+Ei, Stan, això sona útil.
+Crec que puc viure sense aquest tros de juncs.
+Ja n'hi ha prou d'extres.
+I val la pena també els diners.
+Per això ja està inclòs al preu!
+Sabia que finalment veuries les coses a la meva manera.
+D'acord, però no em culpis si et tornes a un iceberg o alguna cosa així.
+És clar, dona seguretat al vent.
+Bé, suposo que flotarà sense ell^
+- És clar.
+Escolta, viatja la llum, ho puc entendre, segur.
+Per descomptat, el motí és una paraula lletja
+La teva dona sap que ets un monopatí tan barat?
+Sí, suposo que és una mica decadent, oi?
+D'acord, però et dic:
+Barnacles ODIA la fusta simulada.
+D'acord, on érem
+Però espera, n'hi ha més!
+Genial!
+Quant?
+M'agradaria pagar 2000 peces de vuit.
+Encara m'agradaria pagar l'any 2000.
+Com sonen 3.000 peces de vuit?
+Sona ara 3000 millor?
+D'acord, d'acord.  4.000 peces de vuit.
+Ja he dit 4.000 peces de vuit?
+Molt bé!  5000!  Però aquesta és la meva última oferta!
+5000!   I aquesta és la meva última oferta.
+De fet, m'agradaria que esquitxéssiu una mica més.
+És clar.  Ei!
+Aquesta és la meva feina, oi?
+Encara no hi ha prou diners.
+La inflació funciona en l'altra direcció, saps?
+És clar, suposo que podem començar a la part inferior.
+Tinc tot el dia.
+Això és una mica més com si
+Però no gaire.
+Crec que estem treballant en la direcció equivocada, aquí.
+Sé que pots fer-ho més difícil.
+DOS MIL TROSSOS DE VUIT!?!
+Tres mil peces de vuit!?!
+Quatre mil peces de vuit!?!
+Cinc mil peces de vuit?!?
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+Podries salpar aquest cadell avui, només per vuit.
+
+Com et sona això?
+Bé.
+Sigui així.
+Mira si m'importa.
+Espera un segon!
+No t'enfadis.
+Estic segur que podem fer alguna cosa.
+Bé, potser tens raó^
+Ho sento, Stan.  Soc fora.
+És clar que sí.
+On érem?
+Sí.
+D'acord!  D'acord!
+M'està matant, però d'acord!
+I vaig pensar que anava a donar regals de Nadal als meus fills enguany
+Treu-ho d'aquí.
+M'alegro de desfer-me'n.
+Sí, tens aquesta nota del guardaespatlles?
+Gràcies.
+I aquí tens una cosa per la que em recordes.
+Una brúixola?
+Una brúixola magnètica forta extra--
+Amb la teva foto en ell it
+Així és!
+Sempre apunta directament aquí, així que si busques un bon tracte, saps on anar!
+He d'executar aquests números amb el meu cap.
+Em coneixes al moll amb la teva tripulació.
+Portaré la nau i els papers.
+Només vull dir que sento que avui ens hem de conèixer.
+Vull dir, realment em sentia una mica lligada aquí.
+I no dic això a tothom!
+Ha estat genial fer negocis amb tu.
+De debò.
+(Sucker.)
+Ens veiem al moll, i no oblideu la tripulació.
+Els tres.
+
+El mico del mar
+porta
+Sembla que està meditant.
+No crec que això sigui savi.
+Espasa mestra
+Com goseu apropar-vos a l'Espasa Mestre sense permís^
+Que segurament no t'he donat.
+Com t'atreveixes a acostar-te a l'espasa mestre amb-
+Ets tu un altre cop.
+
+Perdoni, haig de parlar amb vostè.
+Em dic Guybrush Threepwood.  He vingut a matar-te.
+Hola, estic venent aquestes boniques jaquetes de cuir.
+He tornat, i aquest cop tens problemes.
+D'acord, crec que ho he aconseguit aquesta vegada.
+Torno, fresc d'una matança!
+Hola, recorda'm?
+Ho dubto.
+Tots els que venen aquí estan disposats a lluitar.
+Siguem sincers: sou aquí per demostrar-vos als líders pirata, amb l'esperança que un dia sigui tan immoral com són.
+Sí, l'has clavat al cap, ets intel·ligent.
+
+Però, ja que no tens espasa
+- Dubto que siguis molt seriosa.
+Puc dir per l'expressió sarcàstica de la teva cara que ha estat completament entrenada pel capità Smirk.
+També puc dir a la pàgina d'esports del Mlélée Times que no ha guanyat ni una sola baralla.
+Això no seria més que una pèrdua del meu temps.
+També puc dir a la pàgina d'esports del Mlélée Times que només has guanyat una baralla.
+No prou per perdre el meu temps.
+També puc dir de la pàgina d'esports del Mlélée Times que només has guanyat baralles.
+No prou per perdre el meu temps.
+Acabem amb això.
+Quin va ser el teu grau final a la classe de lluita d'espases del capità Smirk?
+Eh...
+Qualificació?
+Classe?
+Vols dir que has vingut aquí per prendre l'espasa de M Mlée IslandTM^
+swordpossiblement el major lluitador d'espasa de tot el Carib^
+?sense una única lliçó en l'art de l'esgrima?
+Sí.
+Com esperaves defensar-te?
+Gee^
+No.
+Veig
+withobviosament no amb el teu enginy de rastell.
+T'aconsellaria que busqués el capità Smirk i que obtingués un entrenament real.
+No seria ètic, esportiu, ni tan sols interessant lluitar contra algú tan no qualificat com vostè.
+Així que bat-ho.
+T'ho vaig dir, no lluitaré fins que no tinguis formació.
+Res com ser honest.
+Tens una de mida 3?
+És clar que no!
+Perquè realment no ets un venedor de jaquetes!
+Ja tens la samarreta
+Què vols ara?
+Potser millor que et deixis sola.
+Bona idea.
+Vull avergonyir-te una altra vegada en la lluita amb l'espasa.
+Vull que ens conformem i siguem amics.
+El governador ha estat segrestat!
+Potser millor que et deixis sola.
+Ha!
+Només et vaig deixar guanyar perquè estava fart que vinguessis.
+Pensava que t'allunyaries, però suposo que m'equivocava.
+
+Vull que marxis i em deixis sola.
+Què?  És ridícul.
+Què és això?
+Oh, no.
+Això sembla dolent.  Molt dolent.
+Vaig a reunir un vaixell i una tripulació per anar a rescatar-la.
+Hmmm^
+Tinc la sensació que ho lamentaré, però compta'm.
+Et trobaré al moll.
+
+Bona idea.
+Espero que siguis feliç.
+Pots tornar enrere i donar-li un cop a tots els teus amics sobre com has batut l'Sword Master.
+Necessitareu proves proof
+Aquí, això hauria de convèncer-los.
+Espero que això li doni una lliçó.
+Ara, SCRAM!
+És millor que em quedis aquí i que em deixis anar.
+Hola, Carla.
+Pensava que t'havia dit que et perdéssiu.
+De fet, soc aquí de negocis.
+Aquest noi va entrar a la meva botiga, mira
+Cara, vell i crusta
+Faries alguna excusa per sortir i molestar-me.
+Sí, suposo que sí.
+Bé, talla'l.  Estic fart d'això.
+Agafa una caminada i no tornis a sortir.
+Algú podria seguir-te, i després em convertiria en una altra atracció turística de Mlélée IslandTM.
+Ei, és la teva pèrdua, nena.
+Aquest noi continua preguntant per tu, Carla,
+Mira
+heresi surts aquí una vegada més et tallaré el cap i t'escopiré el coll^
+- Oblida?
+M'encanta quan parles així.
+Sí, cert.
+Ara, SCRAM.
+Què és això?
+Oh no.
+Això sembla dolent.  Molt dolent.
+Vaig a reunir un vaixell i una tripulació per anar a rescatar-la.
+Hmmm^
+Tinc la sensació que ho lamentaré, però compta'm.
+Et trobaré al moll.
+
+No ho vull.
+FES EL MICO!!!
+Enrere! Dos-tres-quatre!
+Esquerra! Dos-tres-quatre!
+D'acord! Dos-tres-quatre!
+Esquerra! Dos-tres-quatre!
+D'acord! Dos-tres-quatre!
+Enrere! Dos-tres-quatre!
+D'acord! Dos-tres-quatre!
+Esquerra!   Dos-tres-quatre!
+Enrere!  Cha-cha-cha!
+No necessito mirar un mapa ara mateix.
+Crec que puc trobar el meu camí al moll sense utilitzar-lo.
+No vull fer-ho córrer aquí
+onealgú el pot robar.
+No necessito mirar un mapa ara mateix.
+No vull mullar-ho.
+No necessito mirar un mapa ara mateix.
+Crec que m'han fet!
+Això no és mapa!
+Sembla
+!Mostra les lliçons!
+Hmmm^
+oklooks com un gran símbol de més.
+Què podria significar això?
+
+No soc prou estúpid per fer-ho dues vegades.
+Crec que una pala de veritat podria ser millor.
+X
+camí al bosc
+El Tresor Llegendari perdut de Mlélée IslandTM
+Aquesta peça acuradament reproduïda de la història de Mlélée IslandTM ha encantat milers de pirates i les seves famílies durant generacions.
+Recordeu, hi ha altres pirates en aquesta illa,
+AIXÍ QUE VES AMB CALMA AL TRESOR.
+Deixa'n una per a la següent persona.
+
+placa
+and Vaig trobar el tresor de l'Illa de Mlélée i tot el que vaig aconseguir va ser aquesta samarreta estúpida!!
+No encaixa.
+Figures.
+Samarreta
+Aquí hi ha el tresor d'una riquesa tan inimaginable
+Bé, només l'has de cavar per creure-ho.
+(Ajuda per la Cambra de Comerç de l'Illa de Mlélée.)
+
+marcador
+Això no hauria de trigar gaire.
+Passa hores
+
+
+
+Ei!  Crec que he tocat alguna cosa!
+Oh, noi!
+És una samarreta!
+No la meva grandària, però sí bona.
+Bé, suposo que hauria de tornar a posar tota aquesta brutícia.
+Més hores passi^
+
+
+
+
+cap de mico
+cova
+Tenia la sensació que a l'infern hi hauria bolets.
+
+La segona orella més gran que he vist mai
+I també el més brut.
+Yech.
+mico gegant
+Definitament el segon cap de mico més gran que he vist mai!
+No hi ha lloc on ficar-lo.
+cap de mico gegant
+idol
+idol
+idol
+Quin tros barat de boira turística produïda en massa.
+A la part inferior diu "fet per Lemonhead".
+Dubto que algú es perdi aquest tros de brossa.
+Agafa això, un tros de brossa barat.
+petit idol
+idol
+idol
+idol
+idol
+idol
+mona
+Sembla un ídol sagrat d'alguna mena.
+És massa pesat per recollir...
+I molt menys portar per aquesta illa deshonrada per Déu sap quina raó.
+Són massa pesats per moure's.
+A més, per què seria prou estúpid per molestar els sagrats motius de culte d'un grup de caçadors de cap que mengen l'home.
+
+cova
+És aquell vaixell fantasma que semblava un guai que vaig veure navegar amb el governador!
+vaixell fantasma
+vaixell fantasma
+vaixell fantasma
+És bastant esgarrifós.
+fantasma
+EEP!
+Em vas espantar mig mort!
+Mal temps que tenim, oi?
+Teniu el gust de la cervesa d'arrel, esperit malvat!
+Què li ha passat a la nau?
+Si us plau, deixaria de fer-ho amb el cap?
+Sempre és així aquí baix.
+Espera!
+Si són els fantasmes que persegueix, et puc dir on són els altres!
+Mai ho sabràs sobre la nau the
+És clar.
+Digue'm on és el vaixell fantasma.
+De totes maneres, crec que t'empunyaré.
+Si us plau! Tinc una dona i tres fills!
+No vols saber on estan LeChuck i els altres fantasmes?
+Què t'he fet mai?
+Però soc un fantasma amistós!
+Honest.
+Si et dic, promets no fer-me mal?
+D'acord, ho prometo.
+No promets, fantasma.
+No prometré evitar abstenir-me de fer-te mal.
+D'ACORD.
+Tampoc hi ha històries.
+Què?
+Tots van anar a la boda.
+Quin casament?
+On és el casament?
+He d'anar a buscar-los!
+Em rendeixo.  Estic cansat de perseguir-los a tot arreu.
+Per què encara ets aquí?
+LeChuck es casa amb el governador de Mlélée IslandTM.
+QUÈ?
+Però com ho faran
+Hi ha una església encantadora a Mlélée IslandTM.
+Van cap allà.
+LeChuck es casa amb el governador!
+S'està marcant el--
+Mlélée IslandTM?
+Oh, no!
+El meu cap va caure a la lava allà, i vaig haver de perseguir-lo
+I quan vaig tornar havien marxat!
+Quina vergonya, també.  Odio perdre el casament.
+He d'aturar aquest casament!
+Què?
+No et pots rendir ara!
+Quina mena d'heroi ets, de totes maneres?
+Tens raó!
+Adeu!
+Vaja!
+Herman Toothrot
+Ei, vinga, hem de marxar!
+En LeChuck s'està acomiadant amb el teu governador de nou!
+Bob!
+Què fas aquí?
+Vaig perdre el vaixell al casament.
+Ei!
+Cap problema!
+Podem agafar la meva!
+Anem!
+^hey^
+Primer haurem d'espantar un vaixell.
+Com has entrat aquí sense cap?
+Què li ha passat a la nau?
+És a la botiga.
+No estic segur de conduir-la.
+La meva tripulació el va robar i va navegar a Ipanema a la recerca d'un tan.
+Fa una estona que el vaig enfonsar amb una roca.
+
+Oh.
+Està bé.
+Podem agafar la meva.
+Tens un vaixell?
+Si tens un vaixell, per què estàs esperant ser rescatat?
+Em portaràs a Mlélée IslandTM?
+Com has entrat aquí sense cap?
+Sí.
+Per què, nena, si estàs encallat, has de ser rescatat.
+Ho diu en les regles.
+Et deixaré la meva nau, si promets rescatar-me amb ella.
+D'ACORD.
+Tinc un cap.
+Anem.
+Aquí estàs!
+T'hem estat buscant per tot arreu.
+Hem de tornar a Mlélée IslandTM!
+Com has entrat aquí sense fer servir el cap?
+Coneixes aquesta ombra de veure-ho?
+No és broma.
+Sí, estem fora de la pantalla solar.
+Què?
+Er^
+Bé, volia dir, és a dir, no sembla que tinguis cap, i --
+QUÈ?
+Heh, uh^
+No importa.
+El que té la mà relliscosa al cap?
+Has de superar aquesta obsessió amb els caps, Threepwood.
+És clar, és un vell amic que aspira.
+Dic que li donem un ascensor.
+Gràcies, Otis.
+Vinga, anem.
+Ens veiem, Bob.
+^hey^
+Bob!
+Hola, Bob!
+Hola, nois!
+Digues, Bob, estàs una mica pàl·lid^
+Bé, naturalment que soc pàl·lida.
+Estic mort, després de tot.
+Mort?
+Com ha passat això?
+Oh, la manera habitual,
+fora per un dia de saqueig,
+apareix un vaixell fantasma,
+En LeChuck mata a tots els de la tripulació,
+i després ens inicia a la seva nau.
+Ja ho saps.
+No passa res.
+Potser us agradaria unir-vos a nosaltres en la nostra recerca del tan perfecte?
+Bé, això estaria bé, però intento agafar un passeig a un casament a l'illa Mlélée.TM.
+Estàvem a punt de tornar allà de totes maneres.
+Pots venir.
+Genial!
+
+
+Bé, això era certament més fàcil que el viatge a Monkey IslandTM.
+Em pregunto on ha anat en Toothrot ara?
+Ara hauré d'aturar el casament jo mateix!
+Tant de bo aquests nois no haguessin estat tan entusiasmats amb la pantalla del sol.
+Ara hauré d'aturar el casament jo mateix!
+Un llarg passeig, una breu fila i una curta caminada més tard^
+
+
+
+Està dormint.
+No vull despertar-lo tret que tingui una mica d'aquesta poció antifantasma per defensar-me.
+guàrdia fantasma
+És gran.  Està tancat.
+No hi puc arribar.  Aquest gran fantasma està en el camí.
+bloqueig
+Ei!  Aposto que el Governador és allà dins!
+No hi puc arribar.  Aquest gran fantasma està en el camí.
+bri
+porta
+Bé, més inventari.
+Estan lluint eines fantasma.
+eines fantasma
+
+z
+zz
+zzz
+zzzz
+zzzzz
+zzzzzz
+zzzzzzzzz
+zzzzzzzz
+Sembla que aquesta clau no encaixa aquí.
+És una clau gran, que sembla fantasma.
+clau
+porta
+Sembla Monkey IslandTM.
+mapa
+pit
+pit
+Té uns pèls blaus de perruqueria.
+Sí.  No, gràcies.
+El llit del capità
+Sembla aquell paio esgarrifós que vaig veure a la coberta superior.
+Crec que em quedaré en aquest costat de l'habitació, on és segur.
+imatge
+Què és aquest soroll?
+Qui s'atreveix a entrar a la cabina del Pirata Fantasma LeChuck?
+El vent no és tan gros!
+Tingues por de la teva vida, que entra!
+Ha de ser el vent.
+El vaixell sona estrany en aquestes aigües.
+Llocs estranys... sorolls estranys.
+Millor que tinguis por.
+Només és una obertura, no hi ha porta.
+passatge
+Només és una obertura, no hi ha porta.
+escala
+Ja està obert.
+No hi ha manera de tancar-ho.
+És una ampolla de granota fantasma.
+Crec que preferiria salvar-la.
+gerra
+Sembla una ampolla plena de grog.
+No puc allunyar-me d'ell.
+ampolla
+Sembla dormint.
+tripulació fantasma
+Fins i tot els peus fantasmes fan olor.
+tripulació fantasma
+
+Ja està obert.
+És una gerra de cuina.
+Sí, està per sobre de les meves mans.
+Ja n'he tingut prou.
+Intento tallar els meus greixos saturats.
+greix de cuina
+Sí, està per sobre de les meves mans.
+He posat prou greix.
+Això hauria d'impedir que es remeni.
+porta
+No crec que això em deixi passar.
+Això només l'empassaria.
+of de greix
+És un plat buit.
+No ho recolliré
+Està cobert de rata.
+Crec que aquestes rates ja han tingut prou.
+No crec que sigui una bona idea.
+plat
+Sembla borratxo.
+rat
+Sembla borratxo.
+rat
+Aquesta és la rata fantasma més gran que he vist mai.
+Només l'hi posaré en aquest plat.
+No crec que ho vulgui.
+No m'aproparé a aquesta rata monstre.
+rat
+escala
+Yikes!  Odio les rates!
+Gross! Mira'ls menjar!!!
+porcs fantasma
+Semblen pollastres.
+pollastre fantasma
+Semblen pollastres.
+pollastre fantasma
+Semblen pollastres.
+pollastre fantasma
+No puc trobar una taca de pessigolles al seu cos.
+És una ploma.
+És una ploma d'un pollastre fantasma.
+ploma fantasma
+Només agafaré aquesta vella arrel i estaré de camí.
+És una caixa antiarrel buida de vudú.
+No hi veig res especial.
+Excepte aquesta gran antiarrel voodoo de l'interior.
+Això hauria de fer-ho
+
+No puc entrar-hi.
+És clavat, encadenat, rebocat, rostit, enganxat i soldat junts.
+Ja està obert.
+taxa de brillantor
+passatge
+Hi ha un forat de clau.
+Està tancat, ha de ser una cosa important allà baix.
+Està tancat.
+ombreig
+És retorçada i assecada i no gaire impressionant.
+Sembla estar ple d'un líquid carbonatat.
+No crec que sigui molt útil en la forma actual.
+Ara no.
+arrel de voodoo
+Clank!
+Bang!
+Thud!
+Cria!
+Atura't!
+C
+Cl
+Clu
+Cluu
+Cluu
+Cluuuc
+Cluuuck
+
+Tot el que vaig aconseguir era una ploma.
+porta
+CRE
+CREE
+CREEE
+CREEE
+CREEE
+CREEEEEE
+CREEEEEEAK
+Què era això??
+porta esquerda
+porta
+ombreig
+Ei! Quin petit gos fantasma.
+Millor que el deixi sol.
+gos fantasma
+Quina merda borratxo!
+Millor que el deixi sol.
+fantasma borratxo
+cova
+Diu:
+OUTMANTENIU-VOS
+símbol
+porta
+porta esquerda
+porta
+Yikes!
+Uhh^
+No creuries tenir una arrel que em pogués manllevar?
+He vingut a interrogar el presoner.
+Disculpin, però és aquest el Lido Deck?
+Crec que m'aniré corrent.
+
+surt
+surt
+^si hi ha algú amb raó que aquests dos^
+erer^
+peoplela gent no ha d'estar unida en un matrimoni feliçlis
+Que parli ara o que mantingui per sempre la pau.
+
+El nuvi no és un cavaller!
+El nuvi no és humà!
+Elaine!
+ATURA EL CASAMENT!
+Ei! Qui és?
+--urk--
+Gasp!
+--choke--
+Aiiieeee!
+Reproducció instantània
+
+POW
+BIFF
+
+M'alegro de veure't, fill.
+Com està la nau?
+Si t'interessa negociar, et puc donar un preu just per això.
+Què bé, pardner.
+Només mirant-te, puc dir que ets un home del món.
+Un home amb un ull per la qualitat.
+Un home que coneix un bon tracte quan
+
+
+
+Blimp-CamTM
+
+KABOOM
+
+Hey^
+Yikes!
+No em deixis així!
+Ho sento.
+Està bé.
+Allà, estrany.
+Nou a la ciutat?
+Hola, m'agrada tornar-te a veure.
+Sembla que la meva granota s'està tornant plana, així que m'hauràs de disculpar.
+Així que, com et deia?
+Em dic Guybrush Threepwood.  Soc nou a la ciutat.
+Ets un pirata?  Puc estar amb la teva tripulació?
+Qui és el responsable aquí?
+Vull parlar amb els líders dels pirates.
+On puc trobar el Governador?
+Encantada de parlar amb tu.
+Bé, soc un pirata.
+Però, per desgràcia, no soc capità.
+Bé, aquesta illa té un governador...
+Però nosaltres els pirates tenim els nostres propis líders.
+Vull parlar amb els líders dels pirates.
+On puc trobar el Governador de l'illa?
+És bonic.  Adeu.
+Ho sento.
+Guybrush Threepwood?
+Ha ha ha!!!
+Aquest és el nom més estúpid que he sentit mai!
+No sé . M'agrada 'Guybrush'.
+Com et dius?
+Sí, és molt ximple, oi?
+Estic insultat.  Adeu.
+Però ni tan sols és un nom!
+Em dic Mancomb Seepgood.
+Està bé.
+La meva és Mancomb Seepgood.
+Em sap greu veure't boig.
+No siguis un estrany.
+Hauries d'anar a parlar amb els pirates d'aspecte important a la sala següent.
+Estan bastant al càrrec per aquí.
+Et poden dir on anar i què fer.
+
+Governador Marley?
+La seva mansió és a l'altre costat de la ciutat.
+Però els pirates no són tan benvinguts al seu lloc com solien ser.
+
+Per què no?
+Soc benvingut a tot arreu.
+Crec que hi vaig ara mateix.  Adeu.
+El que diguis.
+Només vigila aquells gossos de guàrdia!
+D'acord, però vigila aquests gossos de guàrdia!
+Bé, l'última vegada que va tenir un pirata per sopar, es va enamorar d'ella.
+Ha fet les coses més incòmodes per a tothom.
+
+Com està?
+Qui és aquest pirata?
+És molt dolent.  Bé, ens veiem després.
+No era més que el temible pirata LeChuck.
+Bé, hi ha una gran història sobre el que va passar a continuació
+Però no m'ho crec ni una paraula.
+L'Estevan a l'altra taula podria explicar-vos-ho.
+Es pren tot de debò.
+MOLT SERIOSAMENT.
+
+Què et porta a Mlélée IslandTM igualment?
+Vull ser un pirata!
+He vingut buscant la meva fortuna.
+Realment no ho sé.
+Cap dels teus assumptes.  Adeu.
+De debò?
+Ah, sí, oi?
+Bé, és clar que no era per la llum del sol.
+Crec que necessita una mica d'orientació.
+Perdoni, Sr. Secretive.
+Encantada de parlar amb tu.
+Passa-t'ho bé a Mlélée IslandTM.
+
+La meva granota s'està tornant plana, així que m'hauràs de disculpar.
+És rovellat.
+No crec que funcioni.
+canó
+Hi ha tres forats.
+canó
+Negre i explosiu, com m'agrada.
+Ja en tinc prou.
+pólvora
+Negre i explosiu, com m'agrada.
+grapat de pólvora
+Bé, coses fortes.
+corda
+Hi ha una lent incòmoda.
+lent
+Res a veure aquí.
+ALERTA:
+Els objectes de l'espiracle poden estar més lluny del que apareixen.
+Els peus em semblen més grans.
+espia
+camí
+El camí acaba aquí.
+Herman Toothrot
+Hola, bon espiracle.  Sembla com --
+Digues, on és el meu espia?
+Oh, perfecte.
+Me n'he anat cinc minuts i algú ve aquí i llança pólvora per tot el terra.
+Naturalment, no crec que tinguis res a veure amb això.
+Estic segur que és una coincidència que hagis vingut aquí a passejar just després que una persona misteriosa em destrossés el meu bonic terra net.
+Hola!
+No m'ha molestat una mica el fet que hagis caminat a casa meva sense molestar-me a trucar.
+
+Què em mires?
+Què ara?
+Mira, tota aquesta cosa de LeChuck m'ha sacsejat força.
+Si no t'importa
+M'agradaria presentar-me, el meu nom és Guybrush.
+Què ha passat amb en LeChuck i el governador?
+Em pots explicar la història d'aquest LeChuck?
+Qui és aquest pirata que està espantant al governador?
+Per què els pirates no són benvinguts a casa del governador?
+El nom ?LeChuck? significa alguna cosa per a tu?
+Disculpa, però estic buscant la placa de dart.
+On puc beure?
+Què li ha passat al teu ull?
+Em sap greu molestar-te.  Adeu.
+Bé, estava posant a la meva lent de contacte quan--
+Espera un segon!
+No és cosa teva!
+
+Tauler de Dart?
+Ja no en tenim cap.
+Va haver-hi un terrible accident.
+Beure i beure no es barregen.
+
+Una beguda?
+Podries esperar que el cuiner s'adoni
+Però això pot durar tot el dia.
+Només trobeu una mugada i feu-hi un racó a la cuina.
+Això és el que tots fem.
+
+Sí, i què?
+LeChuck?
+A causa de LeChuck, per això!
+LeChuck?
+És el paio que va anar a sopar del Governador i mai va voler marxar.
+Va caure per ella en gran manera, però ella li va dir que s'aturés.
+Així ho va fer.
+Llavors les coses es van posar lletges.
+
+Què fa tanta por amb aquest LeChuck?
+Com van ser les coses lletges?
+Com va morir?
+Sona espantat.  Bé, he d'anar-me'n.
+LeChuck era un pirata temible.
+Va tractar d'impressionar al governador en salpar per trobar el Secret de Monkey IslandTM.
+Però una misteriosa tempesta va aparèixer i va enfonsar el seu vaixell, sense deixar supervivents.
+Pensàvem que això era el final del temible pirata LeChuck.
+Estàvem equivocats.
+
+Què va passar llavors?
+Quin és el secret del Monkey IslandTM?
+M'encanta aquesta història.  Bé, ens veiem després.
+Només en LeChuck ho sap.
+Però això no és el final...
+Encara navega per les aigües entre aquí i Monkey IslandTM.
+El seu vaixell fantasma és un terror insòlit sobre la mar.
+És per això que estem tots aquí dins i no som tan pirata.
+
+D'acord.
+Sí.
+Sí, tu mateix.
+Bon barret.
+Així que, parla'm d'en LOOM.
+Geeze, quin camp de vendes evident.
+Encantada de parlar amb tu.
+Vols dir l'última obra mestra de la història de fantasia de Brian MoriartyTM de Lucasfilm?
+Per què és una aventura extraordinària amb una interfície de màgic^
+lutionalentiment, alta resolució, paisatges 3D^
+Puntuació sofisticada i efectes musicals.
+Per no esmentar l'animació detallada i els efectes especials,
+Un punt elegant 'n' fa clic al control de caràcters, objectes i encanteris màgics.
+Però espera, n'hi ha més!
+LoomTM no té cap gestió de tecleig, cartografia o inventari onerosa.
+I a diferència de molts jocs d'aventura d'avui, és fàcil per als principiants gaudir.
+Una revista de videojocs principal diu que és: 'Enchanting.complex.captivating'.
+Pega la pressa!
+Ves-te'n i compra en LoomTM avui!
+Em sap greu, però en alguns temes m'he deixat portar.
+Sí.
+Es diu .Com aconseguir una barraca en la caça del tresor .
+pamflet
+Es diu .Com anar a navegar .
+full
+Es diu .Com armar-te a tu mateix en la Batalla del Mar.
+brochure
+acoblador
+acoblador
+És cruel i desagradable i està a punt de tornar-me a colpejar.
+LeChuck
+Atenció, pirates de Mlélée:
+El teu governador està viu i bé i al meu costat, com sempre havia de ser.
+Si intentes trobar-nos, només trobaràs un terrible desastre.
+El teu, el capità LeChuck.
+
+nota
+Ei!  És una bona cosa que hagis aparegut.
+Deu persones s'han ofert a comprar-me aquest bebè mentre jo estava aquí esperant-te.
+Però vaig dir: "CAP MANERA".
+hisSé un paio que està enamorat d'aquest vaixell, i li trencaria el cor perdre'l '
+Tinc raó?
+És clar que sí!
+Vull dir, mira-la!
+Sleek^
+aeaerodynamic^
+És una bellesa embogida i coberta de barnacle.
+Crec que estem tenint un moment real aquí.
+He canviat d'idea.
+No la puc rendir.
+Pots recuperar els teus diners.
+Com puc vendre una cosa tan estimada?
+Llavors, un tracte és un tracte, oi?
+D'acord.
+T'atrapa més tard.
+Bona sort.
+Gaudeix.
+Soc fora.
+Ai!  Gairebé m'he oblidat de donar-te aquesta literatura de navegació gratuïta.
+El meu regal per a tu.  Recorda on la tens.
+STAN!!!
+Potser hauria d'haver aconseguit aquesta garantia estesa.
+Ei, molt de temps no hi veig.
+
+Otis!  Pensava que mai et tornaria a veure!
+Ets un petit cretí de dues cares!  Em vas enganyar.
+Has vingut a ser a la meva tripulació?
+La teva tia Tillie fa pastanaga luxosa.
+Vinga.  No siguis amarga.
+Soc aquí per ajudar.  No només pels diners.
+Escolta, mai no podria deixar passar una oportunitat per fer diners fàcils.
+Diners?
+Sí, ens paguen per això, oi?
+Noi, parla d'una actitud crummy.
+M'alegro que ho puguis aconseguir, Carla.
+És veritat el que he sentit de tu i del guarda?
+Que apropiat.  Lluita com una vaca.
+Mai sabies quan usar-la.
+Mira, no comencis amb mi, d'acord?
+I què fa aquell naufragi encallat?
+Com aconseguirem que el nostre vaixell entri aquí amb aquest munt de desballestament?
+On és el noi de la cabina?
+Necessito que torni al meu lloc i reculli les meves bosses.
+Què passa aquí?
+On és la nostra nau?
+On és la nostra tripulació?
+Això no serà tan fàcil com pensava.
+Bé, això no era tan difícil.
+Ara, tot el que he de fer és treure aquests peixos dels meus pantalons.
+Ara, tot el que he de fer és mostrar aquest estúpid ídol als líders pirata i...
+Ets viva!
+Governador!
+Escolta, pots parlar!
+Qui ho hauria sabut?
+Què hi fas aquí?
+Vine a acabar la feina?
+No, he vingut aquí per salvar la teva vida.
+En Fester no estava actuant per les meves ordres quan et va llençar allà dins.
+Has vingut aquí a rescatar-me?
+Ni tan sols pensava que t'hagués agradat.
+Bé, la nostra primera reunió va ser una mica incòmoda
+Semblava que tenies problemes per formar frases completes.
+Però, una vegada més, també ho fan la majoria dels meus ciutadans.
+Però no soc un dels vostres ciutadans^
+Només soc un rodamon, un ningú, un pirata.
+Qui hauria sabut, o fins i tot preocupat, si em deixes ofegar?
+Ho hauria fet, Guybrush.
+Oh, governadora
+Oh, Threepwood^
+Elaine!
+Oh, Guybrush!
+M'agrada el muffin!
+Cabres de sucre!
+Cara de mel!
+Plunder bunny!
+Fes-me un petó!
+No!  No podem!
+Què?
+No aquí, on tothom ens pot veure.
+Per què?  T'avergonyeixes de mi?
+No, no, no és això en absolut
+És que molts d'aquests pirates han fet avanços cap a mi.
+I per evitar ferir els seus sentiments, sempre els he dit que el meu pare em va fer prometre que mai m'enamoraria d'un pirata.
+Si ens veuen junts, sabran que estava mentint.
+D'acord, anem a casa teva.
+D'acord.
+Però primer heu acabat les proves.
+No vull que siguis
+- Preocupat.
+But^
+Em sembla que aquesta sobtada exigència de completar les proves
+quiabsolutament.
+
+lookout
+Què era això?
+Estic tan confusa.
+Ei!  Què fas de peu?
+El governador ha estat segrestat!
+Què?  Per qui?
+En LeChuck la va portar a la nau que acabava de salpar.
+La va agafar sola quan va venir aquí per rescatar-te.
+Em temo que hem vist l'última d'ella.
+
+On estaves tot aquest temps?  Dormir?
+On han anat?
+Per què no creus que la tornarem a veure?
+Aniré a buscar una tripulació i un vaixell i la rescataré!
+Escolta, soc un vigilant, no un guardaespatlles.
+Això no serà fàcil, saps?
+En LeChuck ha portat el governador de tornada al seu refugi a Monkey IslandTM.
+Em temo que cap pirata en aquesta illa és prou valenta per seguir-lo allà.
+Però, ei, bona sort.
+Oh sí, gairebé m'oblido
+Van deixar aquesta nota.
+Ho pots tenir, però no crec que t'agradi el que diu.
+Oh, governadora
+Per què has d'arriscar la teva vida per mi?
+Potser em vas cuidar més del que pensava
+Només que ara m'adono de quant m'importa per tu.
+És culpa meva que el governador estigui en aquest embolic, i juro que la trauré d'aquí
+Fins i tot si he de navegar fins a Monkey IslandTM per aconseguir-la!
+
+Yikes!
+Ei!
+
+Espera un segon!
+
+Podria interessar-li per una cervesa d'arrel, senyor?
+Estic venent aquesta bonica boca.
+Vols veure un bon truc?
+Ho vols, espantat!
+Cervesa de gall?
+Oh, noi!
+M'ENCANTA la cervesa arrel!
+És devorat de menta?
+Només m'agrada el tipus minty.
+Gosh, sí!
+M'agraden els trucs màgics!
+Hi ha un colom?
+Va vendre grog a la xancle?
+Adeu!
+
+Genial!
+L'església és a l'inrevés!
+Aquest és el final de la carretera, el meu petit pal de pantaló.
+Els teus dies de molèstia a l'Illa de Mlélée han acabat.
+Els meus plans per al Governador són massa importants^
+tooi massa a prop de la compleció^
+.arriscar-se a deixar que un pirata com tu s'interposi en el camí.
+Tant de temps, Sr. Spicecake, o Droopface, o com es digui.
+
+Hmmm^
+De fet, aquest podria ser un bon dia.
+DIRECCIONS A MONKEY ISLAND!!!
+
+Preescalfa l'olla a 450 graus
+Afegeix els següents ingredients:
+
+1 Cinnamon
+4 fulles de la moneda
+1 espiral humana (primit)
+1 calamarsa tinta
+2 pts Monkey Blood
+1 pollastre en directe
+3 oz. Brimstone
+1 o més dels següents:
+clorur de piridoxina,
+òxid de zinc, groc 8,
+El mononitrat de la mina i el BHA.
+
+Deixeu que la bombolla sobre una flama baixa fins que s'espessi.
+Un equip de serveis de quatre.
+
+poble
+punt de mira
+bifurcació
+neteja
+riba
+pont
+llums
+casa
+illa
+
+Espasa màster
+circ
+Empori de vaixell
+Pirata de gir brut
+Pirata
+Pirata de sang
+Pirate
+
+Jugador perdut
+El jugador ha guanyat
+Em rendeixo!  Guanyeu!
+Em rendeixo!  Guanyeu!
+Em rendeixo!
+Yikes!  Un bon moviment.
+On va anar la meva espasa?
+Mira darrere teu key un mico de tres caps!
+Vaja!  Ets prou bona per lluitar contra l'Espasa Màster.
+Em rendeixo!  Guanyeu!
+Vaja!  Ets prou bona per lluitar contra l'Espasa Màster.
+Em rendeixo!  Guanyeu!
+Vaja!  Ets prou bona per lluitar contra l'Espasa Màster.
+Em rendeixo!  Guanyeu!
+D'acord, guanyes!
+
+He dit:
+El jugador respon:
+El jugador respon:
+El jugador respon:
+El jugador insulta amb
+El jugador insulta:
+
+
+S'està comprovant la resposta per a l'habilitat del pirata
+Respondre als jugadors insults per defecte
+Quin insult amateur!
+HA!  És el millor que pots aconseguir?
+Què passa?
+Sortir de la classe d'espases?
+M'insulta que intentes utilitzar aquest insult per a mi!
+
+
+
+
+
+
+
+
+
+
+Els mestres d'espasa usades insulten
+el nombre és aleatori
+S'ha obtingut una resposta
+default resposta predeterminada
+Pirate usant la resposta per insult
+Mira...
+Torna a utilitzar l'insult
+Pirata insultant amb insult
+Pirata insultant:
+
+Aquesta és la fi per a tu, la corba d'arrossegament.
+Aviat portaràs la meva espasa com un xafo!
+El meu mocador netejarà la teva sang!
+La gent em cau als peus quan em veuen venir.
+Una vegada vaig posseir un gos més intel·ligent que tu.
+Em fas voler puke.
+Ningú ha tret mai sang de mi i ningú ho farà.
+Lluita com un granger.
+Vaig tenir aquesta cicatriu a la cara durant una lluita poderosa!
+Has deixat de portar bolquers?
+He sentit que eres un esternut menyspreable.
+No estàs a l'altura del meu cervell, pobre ximple.
+Tens les maneres d'un captaire.
+No tindré la teva insolència assegut!
+No hi ha paraules per a l'infame que ets.
+He parlat amb els simis més educats que tu.
+Tinc una llarga i afilada lliçó per aprendre avui.
+La meva llengua és més afilada que qualsevol espasa.
+El meu nom es tem en tots els racons bruts d'aquesta illa!
+Els meus enemics més savis fugen a la primera vista de mi!
+Només una vegada m'he trobat amb un covard així!
+Si el teu germà és com tu, millor casar-se amb un porc.
+Ningú m'atraparà lluitant tan malament com tu.
+Lletejaré cada gota de sang del teu cos!
+La meva última lluita va acabar amb les mans cobertes de sang.
+Espero que tinguis un vaixell preparat per a una ràpida fugida.
+La meva espasa és famosa per tot el Carib!
+Tinc el coratge i l'habilitat d'un mestre espadatxí!
+Cada paraula que em dius és estúpida.
+Vostè és un dolor a la part posterior, senyor!
+No hi ha moviments intel·ligents que et puguin ajudar ara.
+Ara sé quina brutícia i estupidesa són realment.
+En general veig gent com tu passades per terra de taverna.
+Noi, ets lletja!
+Quin idiota!
+Et dius pirata!
+Em rendeixo, tu guanyes!
+
+I tinc un petit consell per a tu.  Aconseguir el punt?
+Primer és millor que deixis de fer-ho com un dubo de plomes.
+Així que vas aconseguir aquesta feina de janitor, després de tot.
+Fins i tot abans d'olorar la teva respiració?
+T'ha d'haver ensenyat tot el que saps.
+Em fas pensar que algú ja ho va fer.
+Tu vas córrer tan ràpid?
+Que apropiat.  Lluita com una vaca.
+Espero que ara hagis après a deixar d'agafar el nas.
+Per què, vols manllevar-ne un?
+Quina llàstima que ningú hagi sentit parlar de tu.
+Estaria en un veritable problema si mai els utilitzessis.
+Volia assegurar-me que et sentiries còmode amb mi.
+Els teus hemorroides s'estan disparant de nou, eh?
+Sí.  No els has après mai.
+M'alegra sentir que vas assistir a la teva reunió familiar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oh, sí?
+Soc goma, tu ets cola.
+Estic tremolant, estic tremolant.
+Podria repetir-ho? No ho vaig aconseguir.
+Em rendeixo, tu guanyes!
+a set-replies
+--------------------------
+espasa perduda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+El actor
+El índice
+El color
+Tecla pulsada:
+Voz de NarradoradorDA
+Voz de Narrador
+mikey.cfg
+Modo Spiffy: VGA basado en SE
+Modo Spiffy: sin acercamiento
+Modo Spiffy: esc:ner:
+Modo de Subtítulos: mantener texto original
+Modo de Subrítulos: sincronizado con las voces

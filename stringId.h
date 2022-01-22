@@ -47,7 +47,36 @@ static const std::map<std::string, std::string> replaceMap_ = {
 {"\\255\\007","/getString/"},
 {"\\254\\008","/unknownOp/"}};    
 
-
+static const std::map<std::string, std::string> replaceMapClean_ = {
+{"\\173","¡"},
+{"\\168","¿"},
+{"\\135","ç"},
+{"\\128","Ç"},
+{"\\164","ñ"},
+{"\\165","Ñ"},
+{"\\143","Á"},
+{"\\160","á"},
+{"\\133","à"},
+{"\\183","À"},
+{"\\144","É"},
+{"\\130","é"},
+{"\\136","ê"},
+{"\\138","è"},
+{"\\212","È"},
+{"\\214","Í"},
+{"\\161","í"},
+{"\\139","ï"},
+{"\\216","Ï"},
+{"\\224","Ó"},
+{"\\162","ó"},
+{"\\149","ò"},
+{"\\227","Ò"},
+{"\\233","Ú"},
+{"\\163","ú"},
+{"\\129","ü"},
+{"\\015","™"},
+{"\\255\\001"," "}, 
+};    
 
 class stringId
 {
@@ -85,6 +114,7 @@ public:
     static void strReplaceFromCodeToChar( std::string& str , bool debug_ = false);
     static void strReplaceFromCharToCode( std::string& str , bool debug_ = false);    
     static std::string removeFinalAt(std::string str);
+    static void strReplaceFromCodeToCharWithoutSpecial ( std::string& str , bool debug_ = false);
 
 private:
     
