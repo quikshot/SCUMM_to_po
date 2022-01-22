@@ -65,11 +65,10 @@ debug_(debug)
     //exit(0);
 }
 
-void scummtr2po::addTranslation(std::string& translationFile)
+void scummtr2po::addTranslation(std::string lang, std::string translationFile)
 {
-    //TODO: std::list
-    translationFilename_ = translationFile;
-        
+    extraFile* tr = new extraFile(lang, translationFile);
+    translations_.push_back( tr );
 }
 
 scummtr2po::~scummtr2po()
@@ -220,11 +219,7 @@ void scummtr2po::poToScumm()
     std::fstream pos;
     std::fstream configos;
     int lineNumber = 0;
-    // Copy config file into destination file
-    
-    //copyFileTo (configFilename_, stringsFilename_ );
-    
-    //objects objs = objects(stringsFilename_, "objects.txt");
+
 
     strs.open( stringsFilename_, std::ios::out ); 
     pos.open( poFilename_, std::ios::in );  
@@ -354,12 +349,11 @@ void scummtr2po::scummToPo( bool test )
     std::fstream is;
     std::fstream os;
     std::fstream configos;
-    std::fstream extraTranslation;
-
+    //std::list<std::fstream> tranStreams;
+    
     int lineNumber = 0;
     objects objs = objects(stringsFilename_, "objects.txt");
-
-    extraTranslation.open(translationFilename_, std::ios::in);
+    
     is.open( stringsFilename_, std::ios::in ); 
     os.open( poFilename_, std::ios::out );  
     configos.open( configFilename_, std::ios::out );  
@@ -382,9 +376,10 @@ void scummtr2po::scummToPo( bool test )
             std::string strId = str.getMsgId();
             
             std::string translationStr="";
-            if(extraTranslation.is_open())
+            
+            for (auto& ex: translations_ )
             {
-                getline(extraTranslation, translationStr);
+                ex->getLineIntoString();
             }
             
             bool duplicated = false;
@@ -418,9 +413,12 @@ void scummtr2po::scummToPo( bool test )
                     // Write POT file 
                     //os << "#. RAW: " << lineStr << std::endl;
                     os << "#. stringId:"<<lineNumber<<"_"<<std::endl;
-                    os << "#. "<< translationStr <<std::endl;
                     
-                    //TODO: Add extra translation
+                    //Add extra translations
+                    for (auto& ex: translations_ )
+                    {
+                        os << "#. "<< ex->strLine_ <<std::endl;
+                    }                        
                     //os << str.getReference();
                     os << contextStr;
                     os << strId;   
@@ -447,11 +445,12 @@ void scummtr2po::scummToPo( bool test )
     if(configos.is_open()) 
     {
         configos.close();    
-    }    
-    if(extraTranslation.is_open()) 
+    }
+    
+    for (auto& ex: translations_ )
     {
-        extraTranslation.close();    
-    }    
+        delete ex;
+    }   
 }
 
 

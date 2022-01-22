@@ -53,7 +53,7 @@ int main(int argc, char** argv)
         ("s,strings", "strings file (generated from scummtr.exe)", cxxopts::value<std::string>())
         ("p,po", "po file", cxxopts::value<std::string>())
         ("c,config", "config file (default: stringsFile.cfg)", cxxopts::value<std::string>())
-        ("a,add-translation", "add a translation as notes(i.e another language)", cxxopts::value<std::string>())        
+        ("a,add-translation", "add a translation as notes(i.e another language)", cxxopts::value<std::vector<std::string>>())   
         ("e,export", "export translations from game", cxxopts::value<bool>()->default_value("false"))
         ("i,import", "import translations to game", cxxopts::value<bool>()->default_value("false"))
         ("t,test", "duplicate string as translation", cxxopts::value<bool>()->default_value("false"))
@@ -117,18 +117,28 @@ int main(int argc, char** argv)
         
     debug = result["debug"].as<bool>();
     test  = result["test"].as<bool>();
-    if( result.count("add-translation") == 1)
-    {
-        fileAddTranslation = result["add-translation"].as<std::string>();
-    }else
-    {
-        fileAddTranslation = "";
-    }
+
+
     // Create converter with strings file and pot file.
     
     scummtr2po converter = scummtr2po( fileStrings, filePo , fileStringsConfig, debug );
     
-    converter.addTranslation(fileAddTranslation);
+    auto& ff = result["add-translation"].as<std::vector<std::string>>();
+    if( result.count("add-translation") )
+    {
+        int i=1;
+        for (auto& translationFile : ff)
+        {
+            std::cout << translationFile << std::endl;
+            std::string lang=std::to_string(i);
+            
+            converter.addTranslation(translationFile,lang);
+            ++i;
+        }        
+        
+    }
+    
+    
     
     // Execute action: import or export.
     if( exportTr )

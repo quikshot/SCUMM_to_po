@@ -26,6 +26,7 @@
 #include <sstream>
 #include <map>
 #include <stdlib.h>
+#include <list>
 /**
  * @todo write docs
  */
@@ -44,16 +45,57 @@ public:
     void poToScumm();
     const std::string createContext(objects& obj, stringId& strId);
     const std::string getHeader(void);
-    void addTranslation(std::string& translationFile);
+    void addTranslation(std::string lang, std::string translationFile);
 
     void strReplaceTest();
 
 
 private: 
+    class extraFile
+    {
+    public:
+        extraFile(std::string filename, std::string lang):
+            filename_(filename),
+            lang_(lang){
+                //TODO: open stream. if error exit.
+                 fs_.open( filename_, std::ios::in );  
+                 if(fs_.is_open())
+                 {
+                    std::cout << "extraFile: " << lang_<<":"<<filename_<<std::endl;
+                 }else
+                 {
+                    std::cerr << "CANNOT OPEN FILE:"<<":"<<filename_<<std::endl;
+                }
+            }
+        ~extraFile(){ //TODO: close stream
+            if( fs_.is_open() ) 
+            {
+                fs_.close();
+            }
+        };  
+        
+        //Read a line and store it for later
+        void getLineIntoString()
+        {
+            if( fs_.is_open() ) 
+            {
+                getline(fs_, strLine_);
+                stringId::strReplaceFromCodeToChar(strLine_);
+                strLine_ = lang_ + ":" + strLine_;
+            }else{
+                std::cerr << "ERR:getLineIntoString:"<<filename_<<std::endl;
+            }
+        }    
+                 
+        std::string filename_;
+        std::string lang_;
+        std::fstream fs_;
+        std::string strLine_;
+    };
     std::string stringsFilename_;
     std::string poFilename_;
     std::string configFilename_;
-    std::string translationFilename_;
+    std::list<extraFile*> translations_;
     bool debug_;
 };
 
