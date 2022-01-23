@@ -2986,7 +2986,6 @@ Sota l'illa Monkey, el pirata fantasma LeChuck està ancorat en un riu de lava.
 
 
 
-
 Capità LeChuckIsirII^
 Ah^
 No t'agraden els vents de l'infern.
@@ -3021,8 +3020,8 @@ Jo me n'encarregaré personalment.
 Els meus plans són massa importants per a ser empassats pels aficionats.
 Sí, senyor.
 
-Mentrestant
 
+Mentrestant
 
 
 Després d'haver tornat de Mlélée, LeChuck i la seva tripulació troben el seu antic amagatall als rius subterranis de l'illa Monkey i l'àncora.
