@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: \n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0"
+"X-Generator: Poedit 3.0\n"
+"Language: ca\n"
 
 #. stringId:0_
 #. 1:jungle
@@ -112,7 +113,7 @@ msgid "grieta@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 msgstr ""
 
 #. stringId:18_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 002 Screenplay 0035"
 msgid " @@@@@@@@@@@@@@@@@@@@@"
@@ -623,7 +624,7 @@ msgid "Esa es la última nota."
 msgstr ""
 
 #. stringId:97_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 007 Screenplay 0184"
 msgid " "
@@ -784,7 +785,7 @@ msgid "Me lo voy a llevar."
 msgstr ""
 
 #. stringId:120_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 008 Text related to object: baúl"
 msgid " "
@@ -1372,7 +1373,7 @@ msgid " @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 msgstr ""
 
 #. stringId:209_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 010 Screenplay 0012"
 msgid " "
@@ -1778,7 +1779,7 @@ msgid "Pruebas de CD-ROM Lideradas por/newLine/Chip Hinnenberg/newLine//keepText
 msgstr ""
 
 #. stringId:314_
-#. 1:Testers/newLine/Bret//250Barrett, Mark//250Cartwright, Wayne//250Cline, Jim//250Current, Dave//250Dahle, Justin//250Graham, Carla//250Green, James//250Hampton, 
+#. 1:Testers/newLine/Bret//250Barrett, Mark//250Cartwright, Wayne//250Cline, Jim//250Current, Dave//250Dahle, Justin//250Graham, Carla//250Green, James//250Hampton,
 #. 2:TestersBretBarrett, MarkCartwright, WayneCline, JimCurrent, DaveDahle, JustinGraham, CarlaGreen, JamesHampton,
 msgctxt "Room: 010 Screenplay 0152"
 msgid "Probadores/newLine/Bret//250Barrett, Mark//250Cartwright, Wayne//250Cline, Jim//250Current, Dave//250Dahle, Justin//250Graham, Carla//250Green, James//250Hampton, /keepText/"
@@ -2681,7 +2682,7 @@ msgid "Esta llave no cabe ahí dentro."
 msgstr ""
 
 #. stringId:474_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 014 Script 0201"
 msgid " "
@@ -3815,14 +3816,14 @@ msgid "Es Monkey Island™."
 msgstr ""
 
 #. stringId:655_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 019 Script 0251"
 msgid "Hey! ¡El ca//241//243n no se apaga!"
 msgstr ""
 
 #. stringId:656_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 019 Screenplay 0107"
 msgid " "
@@ -5782,7 +5783,7 @@ msgid "--vaya--"
 msgstr ""
 
 #. stringId:966_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 023 Screenplay 0119"
 msgid " "
@@ -6132,7 +6133,7 @@ msgid "Podría ser una trampa."
 msgstr ""
 
 #. stringId:1027_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 025 Text related to object: gran cabeza de piedra"
 msgid " "
@@ -8834,7 +8835,7 @@ msgid "     ¡Las tres pruebas!"
 msgstr ""
 
 #. stringId:1475_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 028 Script 0220"
 msgid " "
@@ -10745,7 +10746,7 @@ msgid "`Cerrajeros Davey Jones™:/newLine/Lo último en cajas de seguridad a pr
 msgstr ""
 
 #. stringId:1785_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 030 Text related to object: caja fuerte"
 msgid " "
@@ -12523,7 +12524,7 @@ msgid "No ves que soy inocente?"
 msgstr ""
 
 #. stringId:2065_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 031 Script 0202"
 msgid " "
@@ -13657,7 +13658,7 @@ msgid "Me encantan los circos!"
 msgstr ""
 
 #. stringId:2237_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 032 Text related to object: cartel"
 msgid " "
@@ -13944,7 +13945,7 @@ msgid "`Cuando sólo hay un candidato, sólo hay una elección.`"
 msgstr ""
 
 #. stringId:2279_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 033 Text related to object: cartel"
 msgid " "
@@ -14039,7 +14040,7 @@ msgstr ""
 #. 2:Pss
 msgctxt "Room: 034 Script 0203"
 msgid "Oye tú."
-msgstr ""
+msgstr "Ep, tu!"
 
 #. stringId:2297_
 #. 1:Come over here.
@@ -14833,7 +14834,7 @@ msgid "Ahora mira lo que has hecho!"
 msgstr ""
 
 #. stringId:2419_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 035 Script 0216"
 msgid " "
@@ -15595,6 +15596,7 @@ msgctxt "Room: 035 Script 0217"
 msgid "-- aak --"
 msgstr ""
 
+# prova de comentari
 #. stringId:2540_
 #. 1:Excuse me, but do--/wait/
 #. 2:Disculpa, però...
@@ -16044,7 +16046,7 @@ msgid "Vaya!"
 msgstr ""
 
 #. stringId:2628_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 036 Script 0204"
 msgid " "
@@ -16275,7 +16277,7 @@ msgid "^si tienes agallas."
 msgstr ""
 
 #. stringId:2663_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 037 Script 0201"
 msgid " "
@@ -18214,7 +18216,7 @@ msgid "Prueba con algo como `Barbafatal` o `Pete Seis Dedos`."
 msgstr ""
 
 #. stringId:2952_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 038 Script 0202"
 msgid " "
@@ -18403,7 +18405,7 @@ msgid "Mientras tanto^"
 msgstr ""
 
 #. stringId:2984_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 038 Screenplay 0120"
 msgid "En las profundidades de Monkey Island, está, anclado en un río de lava, el barco de LeChuck."
@@ -19810,7 +19812,7 @@ msgid "Lucha con garfio 130 doblones (+ suplemento garfio)"
 msgstr ""
 
 #. stringId:3230_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 043 Text related to object: cartel"
 msgid " "
@@ -20979,7 +20981,7 @@ msgid "Por desgracia, tu llegada me ha obligado a delatarme antes de tiempo."
 msgstr ""
 
 #. stringId:3407_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 045 Script 0200"
 msgid " "
@@ -21490,7 +21492,7 @@ msgid "Tomar QUE? ¿Estás intentando sobornarme?"
 msgstr ""
 
 #. stringId:3491_
-#. 1:Ye'll need one when I'm through with ye! 
+#. 1:Ye'll need one when I'm through with ye!
 #. 2:En necessitaré un quan hagi acabat amb tu!
 msgctxt "Room: 045 Script 0202"
 msgid "Necesitarás uno cuando acabe contigo!"
@@ -21574,7 +21576,7 @@ msgid "casa@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 msgstr ""
 
 #. stringId:3508_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 048 Script 0203"
 msgid " "
@@ -21777,7 +21779,7 @@ msgid "fuera@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 msgstr ""
 
 #. stringId:3576_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 051 Script 0200"
 msgid " "
@@ -23051,7 +23053,7 @@ msgid "No me digas?"
 msgstr ""
 
 #. stringId:3783_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 053 Script 0212"
 msgid " "
@@ -24241,7 +24243,7 @@ msgid "Echa un vistazo, ¡vuelvo enseguida!"
 msgstr ""
 
 #. stringId:3963_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 059 Text related to object: cartel"
 msgid " "
@@ -24395,7 +24397,7 @@ msgid "^y Cerveza de Raíz."
 msgstr ""
 
 #. stringId:3995_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 059 Text related to object: máquina de grog"
 msgid "No soy tan estúpido como para colarme dos veces."
@@ -24584,28 +24586,28 @@ msgid "Qué tipo de barco estás buscando?"
 msgstr ""
 
 #. stringId:4054_
-#. 1:Big?  
+#. 1:Big?
 #. 2:Gran?
 msgctxt "Room: 059 Screenplay 0056"
 msgid "Grande?  "
 msgstr ""
 
 #. stringId:4055_
-#. 1:Little?  
+#. 1:Little?
 #. 2:Una mica?
 msgctxt "Room: 059 Screenplay 0056"
 msgid "Pequeño?  "
 msgstr ""
 
 #. stringId:4056_
-#. 1:Fast?  
+#. 1:Fast?
 #. 2:Ràpid?
 msgctxt "Room: 059 Screenplay 0056"
 msgid "Rápido?  "
 msgstr ""
 
 #. stringId:4057_
-#. 1:Slow? 
+#. 1:Slow?
 #. 2:Lent?
 msgctxt "Room: 059 Screenplay 0056"
 msgid "Lento?  "
@@ -26866,7 +26868,7 @@ msgid "Ah, eres tú otra vez."
 msgstr ""
 
 #. stringId:4389_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 061 Screenplay 0058"
 msgid " "
@@ -27629,7 +27631,7 @@ msgid "A qué se referirá?"
 msgstr ""
 
 #. stringId:4514_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 064 Text related to object: X"
 msgid " "
@@ -27839,7 +27841,7 @@ msgid "Tenía el presentimiento de que habría setas en el infierno."
 msgstr ""
 
 #. stringId:4553_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 065 Script 0203"
 msgid " "
@@ -28840,7 +28842,7 @@ msgid "Genial!"
 msgstr ""
 
 #. stringId:4712_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 070 Screenplay 0131"
 msgid " "
@@ -28973,7 +28975,7 @@ msgid "herramientas fantasma@@@@@@@@@@@@@@@@@@@@@@@"
 msgstr ""
 
 #. stringId:4736_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 071 Script 0202"
 msgid " "
@@ -29554,7 +29556,7 @@ msgid "Esto servirá^"
 msgstr ""
 
 #. stringId:4831_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 075 Text related to object: cajón reluciente"
 msgid " "
@@ -29974,7 +29976,7 @@ msgid "^que hable ahora o calle para siempre."
 msgstr ""
 
 #. stringId:4898_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 078 Script 0201"
 msgid " "
@@ -30401,7 +30403,7 @@ msgid "Te podrán indicar dónde debes ir y qué debes hacer."
 msgstr ""
 
 #. stringId:4967_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 079 Screenplay 0091"
 msgid " "
@@ -30842,7 +30844,7 @@ msgid "No estoy en absoluto enfadado por el hecho de  que entres en mi casa sin 
 msgstr ""
 
 #. stringId:5035_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 080 Script 0202"
 msgid " "
@@ -30968,7 +30970,7 @@ msgid "Eso no es de tu incumbencia!"
 msgstr ""
 
 #. stringId:5053_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 081 Screenplay 0092"
 msgid " "
@@ -31423,7 +31425,7 @@ msgid "Os saluda atentamente, Capitan LeChuck."
 msgstr ""
 
 #. stringId:5128_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 083 Text related to object: nota"
 msgid " "
@@ -32466,7 +32468,7 @@ msgid "DIRECCIONES A MONKEY ISLAND!"
 msgstr ""
 
 #. stringId:5287_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 084 Entry screenplaying"
 msgid " "
@@ -32641,7 +32643,7 @@ msgid "isla@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 msgstr ""
 
 #. stringId:5315_
-#. 1: 
+#. 1:
 #. 2:
 msgctxt "Room: 085 Text related to object: Maestra de la Espada"
 msgid " "
@@ -32718,7 +32720,7 @@ msgid "Me rindo!  ¡Tú ganas!"
 msgstr ""
 
 #. stringId:5328_
-#. 1:I give up! 
+#. 1:I give up!
 #. 2:Em rendeixo!
 msgctxt "Room: 088 Screenplay 0074"
 msgid "Me rindo!"
@@ -32893,7 +32895,7 @@ msgid "Pirate insulting: /getString///032//000"
 msgstr ""
 
 #. stringId:5374_
-#. 1:  
+#. 1:
 #. 2:
 msgctxt "Room: 088 Screenplay 0085"
 msgid " "
@@ -35222,4 +35224,3 @@ msgstr ""
 msgctxt "Room: 099 Screenplay 0199"
 msgid "Modo de Subrítulos: sincronizado con las voces"
 msgstr ""
-
